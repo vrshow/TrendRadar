@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T04:47:31.512191+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-03-17T05:49:28.402748+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗",
-      "match_count": 43,
+      "match_count": 49,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "监控拍到伊朗导弹命中以街道瞬间",
@@ -26,8 +26,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗：使用导弹袭击美军空军基地",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "美国官员回应伊朗外长否认近期与美接触：他在撒谎",
+          "url": "https://flash.jin10.com/detail/20260317054030076800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -37,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗首次使用「泥石」弹道导弹，这款导弹的关键特性是什么？伊朗在此时将其投入实战，是基于怎样的战略考量？",
@@ -48,8 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -60,20 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
-        },
-        {
-          "title": "伊朗发起第56波打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC56%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "霍尔木兹海峡通航船只数量首次降为零！伊朗：440公斤丰度为60%的浓缩铀被埋，暂不打算取出",
@@ -84,8 +94,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
+        },
+        {
+          "title": "伊朗发起第56波打击",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E8%B5%B7%E7%AC%AC56%E6%B3%A2%E6%89%93%E5%87%BB%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -95,8 +118,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -106,8 +129,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗动用“泥石”导弹释放哪些信号",
@@ -117,8 +140,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗称逮捕500名间谍",
@@ -126,11 +149,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -142,8 +166,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "经济学家：伊朗战争或致海湾经济体遭遇90年代以来最严重衰退",
@@ -154,8 +178,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -165,8 +189,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
@@ -177,8 +201,21 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
+        },
+        {
+          "title": "美总统称先解决伊朗然后是古巴",
+          "url": "https://www.toutiao.com/trending/7617790258364645382/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗发动“真实承诺4”第55轮行动",
@@ -186,11 +223,12 @@
           "source": "百度热搜",
           "ranks": [
             16,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗动用“泥石”导弹 释放哪些信号",
@@ -199,23 +237,12 @@
           "ranks": [
             26,
             22,
-            16
+            16,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
-        },
-        {
-          "title": "美总统称先解决伊朗然后是古巴",
-          "url": "https://www.toutiao.com/trending/7617790258364645382/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "观察｜没有硝烟的战场：美以联合突袭伊朗背后的认知战博弈",
@@ -225,8 +252,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "伊朗打击美军阿联酋基地弹药库",
@@ -237,19 +264,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 05时49分]"
         },
         {
           "title": "消耗战之下伊朗亮出反击新手段",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%80%97%E6%88%98%E4%B9%8B%E4%B8%8B%E4%BC%8A%E6%9C%97%E4%BA%AE%E5%87%BA%E5%8F%8D%E5%87%BB%E6%96%B0%E6%89%8B%E6%AE%B5%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
           "ranks": [
-            22
+            22,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时13分 ~ 04时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 05时49分]"
         },
         {
           "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
@@ -259,8 +287,21 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "appearance_count": 3,
+          "time_info": "[03时13分 ~ 05时49分]"
+        },
+        {
+          "title": "伊朗称目前发射导弹多为10年前生产",
+          "url": "https://www.toutiao.com/trending/7616976559953723430/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "美军称已摧毁100艘伊朗海军舰艇",
@@ -269,18 +310,6 @@
           "ranks": [
             20,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时11分 ~ 04时47分]"
-        },
-        {
-          "title": "伊朗称目前发射导弹多为10年前生产",
-          "url": "https://www.toutiao.com/trending/7616976559953723430/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            26
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -298,13 +327,25 @@
           "time_info": "[03时13分 ~ 03时14分]"
         },
         {
+          "title": "中国援助伊朗人道主义物资完成交接",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E4%BC%8A%E6%9C%97%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%89%A9%E8%B5%84%E5%AE%8C%E6%88%90%E4%BA%A4%E6%8E%A5%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时47分 ~ 05时49分]"
+        },
+        {
           "title": "据华盛顿邮报：欧盟情报部门称，伊朗政权正在巩固权力。",
           "url": "https://flash.jin10.com/detail/20260317041335330800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -326,9 +367,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "“只是为了误导石油交易员和公众” 伊朗外长否认近期与美方接触",
+          "url": "https://flash.jin10.com/detail/20260317051011647800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
+        },
+        {
+          "title": "【伊朗武装部队：若哈尔克岛设施遭袭，将进行果断有力回击】伊朗武装部队高级发言人谢卡尔希当地时间17日表示，近期美国官员及军方指挥官多次扬言要对哈尔克岛发动袭击和侵略。谢卡尔希代表伊朗武装部队和伊朗人民发出警告，倘若美国对哈尔克岛及其石油设施与枢纽实施任何侵略或攻击，伊朗的回应将是果断而有力的。 谢卡尔希表示，在这种情况下，所有发起针对哈尔克岛袭击行动国家的石油和天然气设施，都将成为伊朗武装部队的目标，并将遭到强力打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3071175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "伊朗议长称不能停火让敌人喘息",
@@ -359,7 +422,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -370,7 +433,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -384,6 +447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "特朗普承认伊朗报复范围超出预期",
+          "url": "https://flash.jin10.com/detail/20260317045813169800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "伊朗称“未来数小时内”将打击美在中东产业",
@@ -403,7 +477,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
         },
@@ -463,26 +537,26 @@
           "time_info": "01时11分"
         },
         {
-          "title": "中国援助伊朗人道主义物资完成交接",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E4%BC%8A%E6%9C%97%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%89%A9%E8%B5%84%E5%AE%8C%E6%88%90%E4%BA%A4%E6%8E%A5%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时47分"
-        },
-        {
           "title": "伊朗称打击阿布扎比美军基地",
           "url": "https://www.toutiao.com/trending/7616705806347780147/",
           "source": "今日头条",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "伊朗革命卫队：使用巡航导弹袭击美军两座空军基地",
+          "url": "https://wallstreetcn.com/livenews/3071151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         },
         {
           "title": "南非拒绝美方施压：不会因压力疏远伊朗",
@@ -499,7 +573,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -510,8 +584,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时11分 ~ 04时47分]"
+          "appearance_count": 5,
+          "time_info": "[01时11分 ~ 05时49分]"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
@@ -523,6 +597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时14分"
+        },
+        {
+          "title": "Lyft(LYFT.O)盘后上涨3.2%，Lyft将使用英伟达人工智能技术提升公司在全球运营中的机器学习系统。",
+          "url": "https://flash.jin10.com/detail/20260317044000425800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时49分"
         }
       ]
     }
