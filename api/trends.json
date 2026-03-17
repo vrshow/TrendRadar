@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T11:35:10.764943+08:00",
-  "total_titles_processed": 915,
+  "generated_at": "2026-03-17T12:59:07.531050+08:00",
+  "total_titles_processed": 1044,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 72,
+      "match_count": 74,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 12时59分]"
         },
         {
           "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
@@ -69,8 +69,31 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 12时59分]"
+        },
+        {
+          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
+          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
+        },
+        {
+          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
+          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
         },
         {
           "title": "美以袭击伊朗进入第 17 天，当前局势怎样？哪些信息值得关注？",
@@ -83,18 +106,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
-          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
-          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
         },
         {
           "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
@@ -252,11 +252,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8A%A8%E7%94%A8%E6%B3%A5%E7%9F%B3%E5%AF%BC%E5%BC%B9%E9%87%8A%E6%94%BE%E4%BA%86%E5%93%AA%E4%BA%9B%E4%BF%A1%E5%8F%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时34分 ~ 11时35分]"
+          "appearance_count": 4,
+          "time_info": "[11时34分 ~ 12时59分]"
         },
         {
           "title": "伊朗打击美军阿联酋基地弹药库",
@@ -322,6 +323,17 @@
           "time_info": "[03时13分 ~ 07时38分]"
         },
         {
+          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017137168443727970",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
+        },
+        {
           "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
           "url": "https://news.ifeng.com/c/8rYnLJ4bT0Q",
           "source": "凤凰网",
@@ -356,6 +368,18 @@
           "time_info": "07时38分"
         },
         {
+          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016956453940848482",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
+        },
+        {
           "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
           "url": "https://www.cls.cn/detail/2314354",
           "source": "财联社热门",
@@ -366,6 +390,45 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时13分 ~ 07时38分]"
+        },
+        {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
+        },
+        {
+          "title": "伊朗称袭击两处美军基地战斗机机库",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%B8%A4%E5%A4%84%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%88%98%E6%96%97%E6%9C%BA%E6%9C%BA%E5%BA%93",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
+        },
+        {
+          "title": "伊朗称逮捕500名间谍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
         },
         {
           "title": "美媒称美伊近日有“直接联络” 伊朗外长予以否认",
@@ -453,65 +516,6 @@
           "time_info": "[10时40分 ~ 11时35分]"
         },
         {
-          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2017137168443727970",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
-          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
-          "url": "https://www.zhihu.com/question/2016956453940848482",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
-          "title": "伊朗称袭击两处美军基地战斗机机库",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%B8%A4%E5%A4%84%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%88%98%E6%96%97%E6%9C%BA%E6%9C%BA%E5%BA%93",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
-          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
-          "title": "伊朗称逮捕500名间谍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
           "title": "中国援助伊朗人道主义物资完成交接",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8F%B4%E5%8A%A9%E4%BC%8A%E6%9C%97%E4%BA%BA%E9%81%93%E4%B8%BB%E4%B9%89%E7%89%A9%E8%B5%84%E5%AE%8C%E6%88%90%E4%BA%A4%E6%8E%A5%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -546,6 +550,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗警告日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "英国首相斯塔默：英国不会被卷入更广泛的伊朗战争",
@@ -668,7 +683,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时35分"
         },
@@ -805,6 +820,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "阿联酋发布安全警报 称正应对伊朗导弹与无人机",
+          "url": "https://flash.jin10.com/detail/20260317120116230800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "穆杰塔巴：伊朗前最高领袖直接任命的人员继续履职",
           "url": "https://wallstreetcn.com/livenews/3071088",
           "source": "华尔街见闻-快讯",
@@ -863,8 +889,20 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 53,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
+          "url": "https://www.cls.cn/detail/2314450",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时49分 ~ 12时59分]"
+        },
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
           "url": "https://www.cls.cn/detail/2314550",
@@ -877,18 +915,6 @@
           "time_info": "[01时11分 ~ 07时38分]"
         },
         {
-          "title": "全程回顾黄仁勋“全栈AI”演讲：万亿美元新蓝图启动",
-          "url": "https://www.cls.cn/detail/2314450",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时49分 ~ 11时35分]"
-        },
-        {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
@@ -897,11 +923,12 @@
             23,
             24,
             22,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 11时35分]"
+          "appearance_count": 12,
+          "time_info": "[01时11分 ~ 12时59分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -931,6 +958,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时11分 ~ 07时38分]"
+        },
+        {
+          "title": "于谦说怕AI偷看相册",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "据华尔街日报：Reflection AI 正与新世界集团合作建设数据中心，该中心将部署数万颗英伟达(NVDA.O)芯片。",
@@ -975,6 +1013,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
         },
         {
           "title": "英伟达首席执行官发布基于OpenCLAW AI代理的企业级安全工具NeMoCLAW。",
@@ -1063,17 +1113,6 @@
           "time_info": "[05时49分 ~ 06时41分]"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
-        },
-        {
           "title": "马斯克的xAI聘请信贷专家和银行家来提升Grok的金融策略能力",
           "url": "https://wallstreetcn.com/livenews/3071111",
           "source": "华尔街见闻-快讯",
@@ -1134,6 +1173,17 @@
           "time_info": "[05时49分 ~ 06时41分]"
         },
         {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "Salesforce与英伟达就AI智能体（AI Agents）合作。",
           "url": "https://wallstreetcn.com/livenews/3071170",
           "source": "华尔街见闻-快讯",
@@ -1158,6 +1208,17 @@
           "time_info": "[07时38分 ~ 10时40分]"
         },
         {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
           "title": "三星电子在英伟达GTC大会上展示了采用三星4纳米代工工艺制造的英伟达新一代AI推理处理器。",
           "url": "https://flash.jin10.com/detail/20260317060618810800",
           "source": "金十数据",
@@ -1167,6 +1228,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "阿里给员工发Token，鼓励使用AI工具工作",
+          "url": "https://flash.jin10.com/detail/20260317122725266800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "马斯克：OpenAI诉讼任何胜诉所得都将捐给慈善机构。我绝不会让自己获利。",
@@ -1389,6 +1461,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
           "title": "英伟达将向韩国数据中心提供芯片。 Reflection AI计划开发韩语模型。 该公司Shinsegae数据中心将消耗250 MW电力。 （华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3071116",
           "source": "华尔街见闻-快讯",
@@ -1480,7 +1563,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "纳斯达克金龙中国指数初步收涨1%。 热门中概股里，比亚迪初步收涨8.2%，小米涨5.4%，理想涨5.3%，蔚来涨3.1%，美团、网易、百胜中国、腾讯、拼多多、阿里巴巴至多涨约2.9%。",
@@ -1515,6 +1598,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时49分 ~ 06时41分]"
+        },
+        {
+          "title": "苏炳添官宣代言小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E5%AE%98%E5%AE%A3%E4%BB%A3%E8%A8%80%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "雷军回应小米汽车为何启用代言人",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%90%AF%E7%94%A8%E4%BB%A3%E8%A8%80%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "极氪8X",
@@ -1553,7 +1658,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "3月17日投资避雷针：两公司涉嫌信披违法违规被证监会立案调查",
@@ -1561,11 +1666,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时40分 ~ 11时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 12时59分]"
         },
         {
           "title": "BIS提醒各国央行：别被中东战火吓到 能源暴涨或属短期冲击",
@@ -1577,6 +1683,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时34分 ~ 11时35分]"
+        },
+        {
+          "title": "菲律宾财长：油价冲击或促使央行4月加息。",
+          "url": "https://flash.jin10.com/detail/20260317121507416800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "中国央行公开市场开展510亿元7天期逆回购操作，操作利率1.40%，与前次持平。今日有395亿元7天期逆回购到期。",
