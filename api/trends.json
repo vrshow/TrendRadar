@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T07:38:16.461101+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-03-17T10:40:59.603105+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗",
-      "match_count": 56,
+      "match_count": 70,
       "titles": [
         {
           "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
@@ -49,11 +49,40 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时38分]"
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 10时40分]"
+        },
+        {
+          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 10时40分]"
+        },
+        {
+          "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776929",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时11分 ~ 10时40分]"
         },
         {
           "title": "伊朗最高领袖任命军事顾问",
@@ -72,19 +101,6 @@
           "source": "知乎",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "伊朗外长：从未请求停火或谈判，特朗普想“找乐子”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775868",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -146,19 +162,6 @@
           "ranks": [
             15,
             13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时11分 ~ 07时38分]"
-        },
-        {
-          "title": "若伊朗局势持续紧张，中方是否担心燃料供应？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776929",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
             12
           ],
           "is_new": false,
@@ -260,6 +263,17 @@
           "time_info": "05时49分"
         },
         {
+          "title": "美以伊战争丨猛料！伊朗新领袖死里逃生内幕曝光",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "消耗战之下伊朗亮出反击新手段",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B6%88%E8%80%97%E6%88%98%E4%B9%8B%E4%B8%8B%E4%BC%8A%E6%9C%97%E4%BA%AE%E5%87%BA%E5%8F%8D%E5%87%BB%E6%96%B0%E6%89%8B%E6%AE%B5%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -272,6 +286,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时13分 ~ 07时38分]"
+        },
+        {
+          "title": "知情人士：美军对伊朗冲突作战规划已包含“退出选项”",
+          "url": "https://news.ifeng.com/c/8rYlyOSbbo5",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "白宫官员：特朗普拒绝重启与伊朗谈判",
+          "url": "https://news.ifeng.com/c/8rYnLJ4bT0Q",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗战争：从闪电战到消耗战，暴露了什么？",
+          "url": "https://news.ifeng.com/c/8rYotfj2nUW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "伊朗称目前发射导弹多为10年前生产",
@@ -292,9 +339,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "美称已摧毁100多艘伊朗海军舰艇 打击约7000个目标",
+          "url": "https://wallstreetcn.com/livenews/3071330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "伊朗战争要打多久？美白宫官员：预计不超过六周",
@@ -465,13 +523,35 @@
           "time_info": "04时47分"
         },
         {
+          "title": "美军被曝对伊朗退出选项",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E8%A2%AB%E6%9B%9D%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%80%80%E5%87%BA%E9%80%89%E9%A1%B9%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 18 天，当前局势如何？有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2017137168443727970",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "阿联酋国防部：防空系统目前正在应对来自伊朗的导弹和无人机威胁。",
           "url": "https://flash.jin10.com/detail/20260317071305739800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
@@ -509,6 +589,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "伊朗称逮捕了 500 名涉嫌为敌方和反伊朗媒体传递情报的间谍，对伊朗国内稳定和战争进展有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016956453940848482",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "美国总统特朗普：伊朗现在是纸老虎（Paper Tiger）。",
           "url": "https://flash.jin10.com/detail/20260317002634610800",
           "source": "金十数据",
@@ -520,15 +611,48 @@
           "time_info": "01时11分"
         },
         {
+          "title": "高盛：伊朗战争虽引发石油冲击，但不会造成广泛供应链危机",
+          "url": "https://www.cls.cn/detail/2314660",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "知情人士称美军对伊朗冲突作战规划已包含“退出选项”",
           "url": "https://flash.jin10.com/detail/20260317065109972800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
+        },
+        {
+          "title": "日本首相高市早苗：日本外相与伊朗保持密切联系。",
+          "url": "https://flash.jin10.com/detail/20260317102252588800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗称袭击两处美军基地战斗机机库",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%A2%AD%E5%87%BB%E4%B8%A4%E5%A4%84%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%88%98%E6%96%97%E6%9C%BA%E6%9C%BA%E5%BA%93",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "据伊朗国家媒体：伊朗将打击任何对哈尔格岛石油设施发动袭击的国家的石油和天然气设施。",
@@ -551,6 +675,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "全球前瞻｜特朗普称将继续“猛烈空袭”伊朗，中美正探讨建立全新机制",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
+          "title": "伊朗称逮捕500名间谍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32777714",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
         },
         {
           "title": "德国总理默茨：靠炸弹实现伊朗政权更迭不太可能成功。",
@@ -641,6 +787,17 @@
           "time_info": "03时14分"
         },
         {
+          "title": "欧盟宣布制裁多名伊朗官员和实体",
+          "url": "https://wallstreetcn.com/livenews/3071283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "伊朗称打击阿布扎比美军基地",
           "url": "https://www.toutiao.com/trending/7616705806347780147/",
           "source": "今日头条",
@@ -677,7 +834,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
@@ -693,13 +850,24 @@
           "time_info": "[01时11分 ~ 07时38分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时40分"
+        },
+        {
           "title": "三星电子：将在2026年3月16日至19日于美国加州圣何塞举行的英伟达GTC 2026大会上展示全面的AI计算技术。核心产品将是全新第六代HBM4，目前已进入量产阶段，并专为英伟达Vera Rubin平台设计。",
           "url": "https://flash.jin10.com/detail/20260317070719405800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时38分"
         },
