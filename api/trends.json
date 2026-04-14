@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T15:36:56.447795+08:00",
-  "total_titles_processed": 716,
+  "generated_at": "2026-04-14T21:13:39.077147+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 65,
+      "match_count": 74,
       "titles": [
         {
           "title": "美军：将封锁霍尔木兹海峡，以总理：与伊朗的停火可能很快结束",
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 21时13分]"
+        },
+        {
+          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
+          "url": "https://wallstreetcn.com/articles/3769872",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
             2
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时07分 ~ 15时36分]"
+          "time_info": "[09时58分 ~ 21时13分]"
         },
         {
           "title": "美媒刊文：打来打去，美国盟友成伊朗战争的“输家”",
@@ -36,17 +49,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 15时36分]"
-        },
-        {
-          "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
-          "url": "https://wallstreetcn.com/articles/3769872",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -86,6 +88,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "外交部：美方若以涉伊朗为借口对华加征关税，中方必将坚决反制",
+          "url": "https://www.cls.cn/detail/2343446",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "伊朗战争丨特朗普威胁击沉靠近封锁线的伊朗船只",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -114,9 +127,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "伊朗战争丨希拉里批评特朗普",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "伊朗驻印度大使：途经霍尔木兹海峡的印度油轮未向伊朗缴纳过通行费",
@@ -141,13 +165,35 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗官员：美伊下一轮谈判可能于本周或下周初举行",
+          "url": "https://news.ifeng.com/c/8sJrPgVPB89",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "美方封锁进出伊朗港口船只，外交部表态",
+          "url": "https://news.ifeng.com/c/8sJn2rNlH2T",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "美方封锁进出伊朗港口船只 外交部：只会激化矛盾 加剧局势紧张",
           "url": "https://wallstreetcn.com/livenews/3087514",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -158,7 +204,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -207,8 +253,33 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 21时13分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2027200224586720879",
+          "source": "知乎",
+          "ranks": [
+            18,
+            17,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 21时13分]"
+        },
+        {
+          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
+          "url": "https://wallstreetcn.com/articles/3769898",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 21时13分]"
         },
         {
           "title": "“立即转向，否则开火”伊朗披露驱退美军舰视频",
@@ -246,6 +317,18 @@
           "time_info": "[03时07分 ~ 09时58分]"
         },
         {
+          "title": "伊朗要求五个中东国家赔偿战争损失",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时13分]"
+        },
+        {
           "title": "伊朗男足主帅：是否参加世界杯将听从伊足协决定",
           "url": "https://news.ifeng.com/c/8sJELruMtAL",
           "source": "凤凰网",
@@ -269,16 +352,16 @@
           "time_info": "[03时07分 ~ 09时58分]"
         },
         {
-          "title": "美以袭击伊朗进入第 46 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2027200224586720879",
-          "source": "知乎",
+          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
+          "url": "https://www.toutiao.com/trending/7628414997059784242/",
+          "source": "今日头条",
           "ranks": [
-            18,
-            17
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 21时13分]"
         },
         {
           "title": "伊朗要求五个中东国家赔偿战争损失",
@@ -292,17 +375,6 @@
           "time_info": "09时58分"
         },
         {
-          "title": "万斯：球到了“伊朗一方”，伊朗总统：愿意继续谈判",
-          "url": "https://wallstreetcn.com/articles/3769898",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "特朗普警告伊朗攻击艇勿靠近封锁线",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E4%BC%8A%E6%9C%97%E6%94%BB%E5%87%BB%E8%89%87%E5%8B%BF%E9%9D%A0%E8%BF%91%E5%B0%81%E9%94%81%E7%BA%BF%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -312,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "美封锁伊朗海上交通影响几何",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B5%B7%E4%B8%8A%E4%BA%A4%E9%80%9A%E5%BD%B1%E5%93%8D%E5%87%A0%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
@@ -342,7 +425,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -358,13 +441,35 @@
           "time_info": "03时07分"
         },
         {
+          "title": "西方媒体：美伊本周开启新一轮谈判，伊朗火速辟谣：报道“毫无根据”！",
+          "url": "https://wallstreetcn.com/articles/3769921",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "美方封锁进出伊朗港口船只 外交部回应",
+          "url": "https://www.cls.cn/detail/2343442",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "超5万美军登陆伊朗系谣言",
           "url": "https://www.baidu.com/s?wd=%E8%B6%855%E4%B8%87%E7%BE%8E%E5%86%9B%E7%99%BB%E9%99%86%E4%BC%8A%E6%9C%97%E7%B3%BB%E8%B0%A3%E8%A8%80",
           "source": "百度热搜",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -402,24 +507,13 @@
           "time_info": "09时58分"
         },
         {
-          "title": "伊朗要求五个中东国家赔偿战争损失",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964584",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "外交部回应美国封锁伊朗海上交通",
           "url": "https://flash.jin10.com/detail/20260414152538695800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -433,17 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
-        },
-        {
-          "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
-          "url": "https://www.toutiao.com/trending/7628414997059784242/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
         },
         {
           "title": "伊朗武装力量处于最高级别戒备状态",
@@ -463,7 +546,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -540,7 +623,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -573,7 +656,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -600,6 +683,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "美以打击致伊朗损失2700亿美元",
+          "url": "https://www.douyin.com/hot/2465908",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "伊朗：若冲突继续将启用新作战方法",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%8B%A5%E5%86%B2%E7%AA%81%E7%BB%A7%E7%BB%AD%E5%B0%86%E5%90%AF%E7%94%A8%E6%96%B0%E4%BD%9C%E6%88%98%E6%96%B9%E6%B3%95",
           "source": "百度热搜",
@@ -617,7 +711,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -661,7 +755,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -710,6 +804,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "报道：伊朗考虑暂停其在霍尔木兹海峡的航运活动，以免破坏谈判",
+          "url": "https://wallstreetcn.com/livenews/3087705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "国际能源署（IEA）署长Birol：油价并没有体现出（伊朗战争）问题的严峻程度。 希望无需再次释放石油储备，但“我们准备（再次采取这样的）行动”。 （美国和以色列挑起）伊朗战争以来，超过80处石油与天然气设施遭到破坏，其中包括输送枢纽与炼油厂。",
           "url": "https://wallstreetcn.com/livenews/3087094",
           "source": "华尔街见闻-快讯",
@@ -735,19 +840,8 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
         {
           "title": "脑机接口如何惠及更多患者",
           "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E6%83%A0%E5%8F%8A%E6%9B%B4%E5%A4%9A%E6%82%A3%E8%80%85",
@@ -755,7 +849,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -777,9 +871,34 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "UP主揭秘AI短剧制作流程",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时13分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 21时13分]"
         },
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -794,28 +913,41 @@
           "time_info": "[03时07分 ~ 09时58分]"
         },
         {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 15时36分]"
-        },
-        {
           "title": "央视重锤!AI造黄产业链被扒",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
           "source": "贴吧",
           "ranks": [
             9,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时07分 ~ 15时36分]"
+          "appearance_count": 4,
+          "time_info": "[03时07分 ~ 21时13分]"
+        },
+        {
+          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
+          "url": "https://www.zhihu.com/question/2026653029177280167",
+          "source": "知乎",
+          "ranks": [
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时13分]"
+        },
+        {
+          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时13分]"
         },
         {
           "title": "真主党领导人Naim Qassem：呼吁黎巴嫩政府取消4月14日前往美国华盛顿会见以色列官员的打算。",
@@ -827,6 +959,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
+          "url": "https://www.cls.cn/detail/2343603",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "港股人工智能板块走高，金蝶国际(00268.HK)涨超8%，金山软件(03888.HK)涨7.7%，百度(09888.HK)、金山云(03896.HK)、汇量科技(01860.HK)涨超5%，联想集团(00992.HK)涨超4%。",
@@ -851,35 +994,13 @@
           "time_info": "03时07分"
         },
         {
-          "title": "具身智能开始分层：谁卖整机，谁做底座，谁定义机器人的大脑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32958985",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "大一学编程，朋友说「别学古法编程」，还让我养小龙虾，可我连 GitHub 都不会用，我该怎么办？",
-          "url": "https://www.zhihu.com/question/2026653029177280167",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
           "title": "多校试点「博士 + 硕士」双学位，鼓励博士生读人工智能等专业硕士，出于哪些考量？对高知人才培养有哪些影响？",
           "url": "https://www.zhihu.com/question/2027138274049671830",
           "source": "知乎",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -890,7 +1011,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -901,7 +1022,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -923,15 +1044,208 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
+        },
+        {
+          "title": "甲骨文将Agentic AI平台扩展至企业银行业务。",
+          "url": "https://wallstreetcn.com/livenews/3087702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "埃及央行：埃及苏伊士运河2025年7月至12月的收入为22亿美元，上年同期为18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260414204950984800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "英国央行行长贝利警告私人信贷风险上升",
+          "url": "https://flash.jin10.com/detail/20260414024031184800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "日本央行行长植田和男：将继续密切关注中东冲突对经济前景及金融状况的影响。",
+          "url": "https://flash.jin10.com/detail/20260414204154098800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：应当注意，与以往相比，价格上涨机制可能正在增强这一可能性。",
+          "url": "https://flash.jin10.com/detail/20260414204134446800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果油价上涨导致长期通胀预期上升，那么这将加速实际通胀水平的上升。",
+          "url": "https://flash.jin10.com/detail/20260414204117369800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "央行：将开展5000亿元买断式逆回购",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%EF%BC%9A%E5%B0%86%E5%BC%80%E5%B1%955000%E4%BA%BF%E5%85%83%E4%B9%B0%E6%96%AD%E5%BC%8F%E9%80%86%E5%9B%9E%E8%B4%AD",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：如果油价上涨导致经济降温，那么这将促使通胀率下降。",
+          "url": "https://flash.jin10.com/detail/20260414204100892800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "中国央行公开市场开展10亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3087282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
+          "url": "https://wallstreetcn.com/livenews/3087104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "日本央行行长植田和男：若中东冲突持续，企业活动可能会放缓。",
+          "url": "https://flash.jin10.com/detail/20260414203859624800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：调查显示对通胀需保持警惕。",
+          "url": "https://flash.jin10.com/detail/20260414020246905800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "日本央行行长植田和男：油价上涨可能会因贸易条件恶化而对经济增长造成负面影响。",
+          "url": "https://flash.jin10.com/detail/20260414203836431800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "日本央行行长植田和男：鉴于中东冲突已导致金融市场动荡，需谨慎应对。",
+          "url": "https://flash.jin10.com/detail/20260414203815412800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "证监会开展2026年信息技术系统服务机构年度备案",
+          "url": "https://wallstreetcn.com/livenews/3087489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本经济及物价目前基本与日本央行的预期相符。",
+          "url": "https://flash.jin10.com/detail/20260414203729780800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
+          "title": "法国央行：预计法国第一季度GDP增长0.3%。",
+          "url": "https://flash.jin10.com/detail/20260414020035827800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "官方通报深圳比亚迪火灾",
@@ -962,11 +1276,36 @@
           "source": "抖音",
           "ranks": [
             13,
-            17
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 21时13分]"
+        },
+        {
+          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 15时36分]"
+          "time_info": "[15时36分 ~ 21时13分]"
+        },
+        {
+          "title": "官方通报深圳比亚迪火灾",
+          "url": "https://www.toutiao.com/trending/7628416832629902875/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时36分 ~ 21时13分]"
         },
         {
           "title": "深圳比亚迪一立体车库发生火情，无人员伤亡，具体什么情况？起火原因可能是什么？",
@@ -975,29 +1314,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "官方通报深圳比亚迪火灾",
-          "url": "https://www.toutiao.com/trending/7628416832629902875/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "比亚迪回应坪山园区一立体车库火情：为试验及报废车辆专用停放区，火势已扑灭，无人员伤亡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32964967",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
         },
@@ -1024,6 +1341,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "深圳比亚迪一立体车库发生火情，比亚迪称车库为试验及报废车辆专用，起火原因可能是什么？对比亚迪影响大吗？",
+          "url": "https://www.zhihu.com/question/2027305938130924161",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
+        },
+        {
           "title": "比亚迪回应深圳车库火灾",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%B7%B1%E5%9C%B3%E8%BD%A6%E5%BA%93%E7%81%AB%E7%81%BE%23&t=31&band_rank=16&Refer=top",
           "source": "微博",
@@ -1033,6 +1361,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "奇瑞高管称「很多车企根本不在意操控和驾驶，他们在意的是沙发冰箱」，如何看待这一言论？行业未来走向如何？",
+          "url": "https://www.zhihu.com/question/2027330907166504666",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时13分"
         },
         {
           "title": "中方回应巴西将比亚迪移出相关名单",
@@ -1063,81 +1402,9 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "英国央行行长贝利警告私人信贷风险上升",
-          "url": "https://flash.jin10.com/detail/20260414024031184800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "中国央行公开市场开展10亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3087282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "乌克兰央行行长：我们认为，乌克兰国防企业不会出现大量的系统性风险。",
-          "url": "https://wallstreetcn.com/livenews/3087104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "欧洲央行管委维勒鲁瓦：调查显示对通胀需保持警惕。",
-          "url": "https://flash.jin10.com/detail/20260414020246905800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
-        },
-        {
-          "title": "证监会开展2026年信息技术系统服务机构年度备案",
-          "url": "https://wallstreetcn.com/livenews/3087489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时36分"
-        },
-        {
-          "title": "法国央行：预计法国第一季度GDP增长0.3%。",
-          "url": "https://flash.jin10.com/detail/20260414020035827800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时07分"
         }
       ]
     }
