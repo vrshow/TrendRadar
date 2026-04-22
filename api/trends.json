@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-04-22T09:58:39.733096+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-04-22T15:25:23.611020+08:00",
+  "total_titles_processed": 720,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 44,
+      "match_count": 54,
       "titles": [
         {
-          "title": "伊朗将恢复国内航班运营",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
-          "source": "贴吧",
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 15时25分]"
+        },
+        {
+          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时04分 ~ 09时58分]"
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
+          "url": "https://www.cls.cn/detail/2351434",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
+          "url": "https://wallstreetcn.com/articles/3770539",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
         },
         {
           "title": "美军高官：已准备好重启对伊朗作战行动",
@@ -31,38 +66,28 @@
           "time_info": "[03时04分 ~ 09时58分]"
         },
         {
-          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
-          "url": "https://wallstreetcn.com/articles/3770465",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
+          "url": "https://www.cls.cn/detail/2351404",
+          "source": "财联社热门",
           "ranks": [
-            3,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时04分 ~ 09时58分]"
+          "time_info": "[09时58分 ~ 15时25分]"
         },
         {
-          "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
+          "title": "伊朗致信联合国：责令美国“放人”",
+          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
+          "source": "凤凰网",
           "ranks": [
-            1
+            5,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "【早报】特朗普：延长停火期限；伊朗：拒绝出席伊美第二轮谈判",
-          "url": "https://www.cls.cn/detail/2351434",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
         },
         {
           "title": "伊朗战争丨万斯推迟前往巴基斯坦",
@@ -82,31 +107,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
         {
-          "title": "最后时刻反转！伊朗拒绝谈判，特朗普宣布延长停火，维持海上封锁等待伊朗提交方案",
-          "url": "https://wallstreetcn.com/articles/3770539",
-          "source": "华尔街见闻",
+          "title": "伊朗战争丨英法召集30余国商议重开霍尔木兹海峡",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
-          "title": "伊朗展示对美以作战所用导弹",
-          "url": "https://news.ifeng.com/c/8sW9d3GOqRN",
+          "title": "伊朗：特朗普延长停火毫无意义",
+          "url": "https://news.ifeng.com/c/8sWi9cCO6x5",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
           "title": "伊朗革命卫队航空航天部队指挥官警告海湾阿拉伯国家，不要利用“敌方设施”攻击伊朗，否则它们将不得不“告别石油生产”。（伊朗迈赫尔通讯社）",
@@ -131,13 +156,36 @@
           "time_info": "03时04分"
         },
         {
+          "title": "伊朗官员：美方持续威胁是伊拒绝参加第二轮谈判的原因",
+          "url": "https://wallstreetcn.com/livenews/3092384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "伊朗将恢复国内航班运营",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353546&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%B0%86%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD%E8%BF%90%E8%90%A5",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时04分 ~ 15时25分]"
+        },
+        {
           "title": "伊朗武装部队警告美国：随时准备开火",
           "url": "https://news.ifeng.com/c/8sWH57YfkrU",
           "source": "凤凰网",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -153,26 +201,38 @@
           "time_info": "03时04分"
         },
         {
-          "title": "特朗普宣布延长停火期限 直至伊朗拿出一份“统一谈判方案”",
-          "url": "https://www.cls.cn/detail/2351404",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
-          "title": "伊朗致信联合国：责令美国“放人”",
-          "url": "https://news.ifeng.com/c/8sWcIvC6CVY",
+          "title": "阿曼附近发生船只遇袭事件，船长：伊朗开火",
+          "url": "https://news.ifeng.com/c/8sWvQ9JzNf3",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "伊朗展示对美以作战所用导弹",
+          "url": "https://news.ifeng.com/c/8sW9d3GOqRN",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
         },
         {
           "title": "伊朗储油罐要满了",
@@ -193,9 +253,57 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
+          "url": "https://www.cls.cn/detail/2351498",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "美军乘直升机垂直登临，拦截检查“涉伊朗油轮”",
+          "url": "https://news.ifeng.com/c/8sWYIAnMiH0",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "特朗普宣布延长同伊朗的停火",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
+          "title": "伊朗拒绝出席伊美第二轮谈判 沃什强调美联储独立性 | 环球市场",
+          "url": "https://www.cls.cn/detail/2351427",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
         },
         {
           "title": "伊朗同意暂停军事战斗",
@@ -204,7 +312,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -215,20 +323,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
         {
-          "title": "美军乘直升机垂直登临，拦截检查“涉伊朗油轮”",
-          "url": "https://news.ifeng.com/c/8sWYIAnMiH0",
+          "title": "伊朗武装部队：已做好百分百战斗准备",
+          "url": "https://news.ifeng.com/c/8sWwwxDU8yc",
           "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
           "title": "美伊停火期限将至，伊朗展示导弹",
@@ -240,6 +348,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "特朗普称不延长停火，威胁恢复轰炸伊朗，消息称伊不会参加22日谈判，万斯推迟赴会",
+          "url": "https://wallstreetcn.com/articles/3770527",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
@@ -275,17 +394,6 @@
           "time_info": "03时04分"
         },
         {
-          "title": "伊朗拒绝出席伊美第二轮谈判 沃什强调美联储独立性 | 环球市场",
-          "url": "https://www.cls.cn/detail/2351427",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        },
-        {
           "title": "伊朗：（美军）封锁伊朗港口是战争行径。",
           "url": "https://wallstreetcn.com/livenews/3092040",
           "source": "华尔街见闻-快讯",
@@ -303,7 +411,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -319,15 +427,15 @@
           "time_info": "03时04分"
         },
         {
-          "title": "美伊第二轮谈判搁置？伊朗代表：美国解除对伊封锁是谈判前提条件",
-          "url": "https://www.cls.cn/detail/2351498",
-          "source": "财联社热门",
+          "title": "伊朗表示同意暂停军事战斗，但战争仍未结束，控制霍尔木兹海峡是宝贵筹码，核与导弹能力不容谈判，如何解读？",
+          "url": "https://www.zhihu.com/question/2030216929756045327",
+          "source": "知乎",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
           "title": "美国财政部长贝森特宣称：伊朗必须为能源勒索行为承担责任。",
@@ -350,6 +458,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "伊朗媒体披露伊方拒绝出席巴基斯坦会谈原因",
+          "url": "https://www.cls.cn/detail/2351485",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "美国财政部围绕制裁伊朗发布声明。",
@@ -383,17 +502,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
-        },
-        {
-          "title": "特朗普宣布延长同伊朗的停火",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33023082",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         },
         {
           "title": "伊朗处决一名摩萨德分支机构骨干成员",
@@ -446,7 +554,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -457,7 +565,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -490,16 +598,39 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "伊朗抓住了美国的要害",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%8A%93%E4%BD%8F%E4%BA%86%E7%BE%8E%E5%9B%BD%E7%9A%84%E8%A6%81%E5%AE%B3%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
+          "url": "https://www.cls.cn/detail/2351466",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
         {
           "title": "国务院重磅部署！事关AI、算力、6G、卫星互联网等",
           "url": "https://www.cls.cn/detail/2350762",
@@ -529,7 +660,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -540,7 +671,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -567,15 +698,15 @@
           "time_info": "03时04分"
         },
         {
-          "title": "SpaceX放出“IPO重磅炸弹”：太空AI技术未经验证，未必能商业化！",
-          "url": "https://www.cls.cn/detail/2351466",
-          "source": "财联社热门",
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
           "ranks": [
-            4
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
           "title": "灵魂摆渡电影全AI生成",
@@ -590,6 +721,18 @@
           "time_info": "[03时04分 ~ 09时58分]"
         },
         {
+          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
+          "url": "https://www.zhihu.com/question/2029861890638045761",
+          "source": "知乎",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 15时25分]"
+        },
+        {
           "title": "AI围剿影视圈,演员签卖身契",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353493&amp;topic_name=AI%E5%9B%B4%E5%89%BF%E5%BD%B1%E8%A7%86%E5%9C%88%2C%E6%BC%94%E5%91%98%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91",
           "source": "贴吧",
@@ -601,15 +744,15 @@
           "time_info": "[03时04分 ~ 09时58分]"
         },
         {
-          "title": "唐国强授权生成「数字版唐国强」，直言 AI 未来会比真人更完美，如何看待这种「主动拥抱替代」的态度？",
-          "url": "https://www.zhihu.com/question/2029861890638045761",
-          "source": "知乎",
+          "title": "深度剖析2026斯坦福AI报告",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E5%89%96%E6%9E%902026%E6%96%AF%E5%9D%A6%E7%A6%8FAI%E6%8A%A5%E5%91%8A",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "15时25分"
         },
         {
           "title": "《封神 3》正在后期制作，或用 AI 做特效，乌尔善能否逆风翻盘？",
@@ -623,13 +766,24 @@
           "time_info": "03时04分"
         },
         {
+          "title": "为什么说中国大厂的 AI 战，归根结底是阿里 VS 字节？",
+          "url": "https://www.zhihu.com/question/1984557341190873580",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
           "title": "《灵魂摆渡》电影全AI生成",
           "url": "https://www.baidu.com/s?wd=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
@@ -640,9 +794,42 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "如果“AI艺人”真的来了，观众能接受吗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33020911",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "寒武纪回应互联网大厂自研芯片影响：公司产品对各类人工智能技术具备较好普适性",
+          "url": "https://wallstreetcn.com/livenews/3092366",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "爱奇艺回应 AI 授权，称真人完成关键表演后将其数字化，未来减少对「顶流」的依赖，对影视行业是好事吗？",
+          "url": "https://www.zhihu.com/question/2029620355082335491",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "OpenAI因杀手使用ChatGPT而在美国佛罗里达州面临刑事调查。",
@@ -654,6 +841,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时04分"
+        },
+        {
+          "title": "抖音生活服务发布多条AIGC创作规范",
+          "url": "https://wallstreetcn.com/livenews/3092357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "千问AI眼镜持续位居线上市场第一",
+          "url": "https://wallstreetcn.com/livenews/3092355",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "唐诡导演 真人能演为啥让AI演",
@@ -669,9 +878,125 @@
       ]
     },
     {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 1,
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 9,
       "titles": [
+        {
+          "title": "印尼央行行长：相信在央行政策和良好经济前景的支持下，印尼盾未来将保持稳定并趋于走强。",
+          "url": "https://flash.jin10.com/detail/20260422151231164800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行：中东冲突令全球经济前景恶化。 全球2026年经济展望由此前预期放缓至3%。 认为美联储利率可能在2026年全年保持稳定。 认为全球进一步放宽货币政策的空间正在收窄。 预测印尼2026年GDP增速为4.9%-5.7%。 预计印尼卢比将保持稳定，并有走强趋势。 提高外汇干预力度以维持印尼卢比稳定。 预计印尼2026年和2027年的通胀率为1.5%-3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3092380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行行长：货币工具的利率结构已得到加强，以吸引外资流入。",
+          "url": "https://flash.jin10.com/detail/20260422151148067800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行行长：已加大货币干预力度。",
+          "url": "https://flash.jin10.com/detail/20260422151108123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "中国央行公开市场开展60亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3092200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        },
+        {
+          "title": "印尼央行行长：美联储降息可能会推迟，利率可能维持不变至2026年底。",
+          "url": "https://flash.jin10.com/detail/20260422150557562800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行行长：今年全球通胀预计为4.2%，高于之前预测的4.1%。",
+          "url": "https://flash.jin10.com/detail/20260422150523862800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行行长：预计2026年全球经济增长为3%，低于之前预测的3.1%。",
+          "url": "https://flash.jin10.com/detail/20260422150439862800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "印尼央行行长：中东战争加剧了全球经济前景的恶化。",
+          "url": "https://flash.jin10.com/detail/20260422150414515800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "小米汽车",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
         {
           "title": "近 70 款车集体降价，新能源平均降 3.8 万，长安汽车总经理称车企仅靠卖车已无法盈利，真是这样吗？",
           "url": "https://www.zhihu.com/question/2029614261630935945",
@@ -683,23 +1008,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时04分 ~ 09时58分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国央行公开市场开展60亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3092200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
         }
       ]
     }
