@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-04-24T03:01:48.526186+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-24T10:02:56.789874+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 34,
+      "match_count": 48,
       "titles": [
+        {
+          "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
+          "url": "https://wallstreetcn.com/articles/3770666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "【早报】伊朗：谈判重心已转为彻底停战；特朗普称“不想仓促行事”",
+          "url": "https://www.cls.cn/detail/2354199",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
         {
           "title": "伊朗战争丨德黑兰上空传出爆炸声，以色列回应",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
@@ -17,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗战争丨以色列连环轰炸杀害女记者，细节曝光",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "特朗普下令击沉任何霍尔木兹布雷船，伊朗据称启动德黑兰防空系统拦截“敌对目标”、以否认空袭",
+          "url": "https://wallstreetcn.com/articles/3770720",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "伊朗领导层集体驳斥特朗普",
@@ -41,6 +85,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "伊朗最高领袖、总统、议长、外长同日发声",
+          "url": "https://news.ifeng.com/c/8sZhfL8xk4c",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "伊朗总统：伊朗内部没有激进温和之分 正在团结御敌",
           "url": "https://flash.jin10.com/detail/20260424022930194800",
           "source": "金十数据",
@@ -61,6 +116,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗挂巨幅海报硬刚美国：特朗普说什么都没用",
+          "url": "https://news.ifeng.com/c/8sZrcU36s8G",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "美国总统特朗普：只会在（时机）适宜时、（条款内容）不错时才达成一份伊朗协议。 在当前形势下，我所承受的压力是最小的。 在全世界，就我的时间最多，但伊朗则没有。",
@@ -85,6 +151,29 @@
           "time_info": "03时01分"
         },
         {
+          "title": "伊朗驻俄大使说美国没有认真对待伊美谈判",
+          "url": "https://wallstreetcn.com/livenews/3093640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
+          "url": "https://wallstreetcn.com/articles/3770704",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
           "title": "以防长：只要美国同意，将刺杀伊朗新任最高领袖",
           "url": "https://news.ifeng.com/c/8sZJGqwNRey",
           "source": "凤凰网",
@@ -92,8 +181,43 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "伊朗拒谈判,美国延长停火",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "特朗普下达击沉令 伊朗亮7条反击方案",
+          "url": "https://www.toutiao.com/trending/7632094520066182697/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时02分"
         },
         {
           "title": "美国总统特朗普：伊朗的海军沉没在海底，其空军已被摧毁，其防空和雷达武器装备也已丧失，他们的领导人也已不在人世，封锁措施严密而坚固，而且情况只会变得更糟——时间对他们不利！",
@@ -101,17 +225,6 @@
           "source": "金十数据",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "“安全不是免费的”！伊朗收到首笔霍尔木兹通行费，美军称拦截两艘伊方超级油轮",
-          "url": "https://wallstreetcn.com/articles/3770704",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -138,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗遭“数字斩首”：对方导弹落地前，境内大量美国牌路由器死机，网络瘫痪使雷达失联，指挥链路中断，部队瞬间“失明”",
+          "url": "https://wallstreetcn.com/articles/3770741",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "伊朗副议长：收到首笔霍尔木兹海峡通行费",
@@ -173,6 +297,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美以袭击伊朗进入第 56 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2030759097247560606",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "伊朗挂巨幅海报：特朗普说什么都没用",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%8C%82%E5%B7%A8%E5%B9%85%E6%B5%B7%E6%8A%A5%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%B4%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E7%94%A8",
           "source": "百度热搜",
@@ -182,6 +317,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗：谈判重心已转为彻底停战",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E8%B0%88%E5%88%A4%E9%87%8D%E5%BF%83%E5%B7%B2%E8%BD%AC%E4%B8%BA%E5%BD%BB%E5%BA%95%E5%81%9C%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "伊朗称已制定针对美方及其盟友的反击目标清单",
+          "url": "https://www.cls.cn/detail/2354004",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "伊朗奥委会秘书长：伊朗队尚未确定参加美加墨世界杯",
@@ -228,15 +385,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "英媒：特朗普特使要求国际足联用意大利替换伊朗参加世界杯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33033905",
-          "source": "澎湃新闻",
+          "title": "特朗普特使提议「以意大利队取代伊朗队踢世界杯」，对此你怎么看，如何评价这一操作？",
+          "url": "https://www.zhihu.com/question/2030686844841451758",
+          "source": "知乎",
           "ranks": [
-            15
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时02分"
         },
         {
           "title": "欧盟领导人非正式会议聚焦伊朗战事等议题",
@@ -305,6 +462,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美国务院要求美在伊朗公民立即离境",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032640",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
           "title": "伊朗德黑兰防空系统启动",
           "url": "https://wallstreetcn.com/livenews/3093454",
           "source": "华尔街见闻-快讯",
@@ -369,23 +537,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗拒谈判,美国延长停火",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353554&amp;topic_name=%E4%BC%8A%E6%9C%97%E6%8B%92%E8%B0%88%E5%88%A4%2C%E7%BE%8E%E5%9B%BD%E5%BB%B6%E9%95%BF%E5%81%9C%E7%81%AB",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -395,8 +552,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
         },
         {
           "title": "站在 AI 浪潮里，我突然懂了当年没赶上改革开放列车的父亲，为什么时代给所有人机会，普通人却抓不住风口？",
@@ -410,26 +578,50 @@
           "time_info": "03时01分"
         },
         {
-          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
           "title": "对比实测3大AI生图模型",
           "url": "https://search.bilibili.com/all?keyword=%E5%AF%B9%E6%AF%94%E5%AE%9E%E6%B5%8B3%E5%A4%A7AI%E7%94%9F%E5%9B%BE%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "核心拒绝AI,异环美术光速滑跪",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
+        },
+        {
+          "title": "如何评价 OpenAI 最新发布的 GPT-5.5 模型？",
+          "url": "https://www.zhihu.com/question/2030834616181970293",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "Meta 强制监控员工的鼠标和键盘用于训练 AI，如何看待这种强制「蒸馏」行为？涉嫌违法吗？",
+          "url": "https://www.zhihu.com/question/2030615939436077697",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "特斯拉电话会：超预期上调2026年资本开支，AI5芯片提前流片，“Optimus将是史上最大的产品”",
@@ -441,6 +633,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "港股人工智能股调整，金蝶国际(00268.HK)跌5.39%，迈富时(02556.HK)跌3.92%，万国数据(09698.HK)跌2.86%。",
+          "url": "https://flash.jin10.com/detail/20260424094241043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "OpenAI发布新模型GPT 5.5，能更好地帮助科学家们、简化软件开发、执行更复杂的任务。",
@@ -463,6 +666,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "AI电力巨头捷报频传 西门子能源因“需求强劲”上调全年业绩指引",
+          "url": "https://www.cls.cn/detail/2354138",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.5",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%8F%91%E5%B8%83GPT-5.5",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         },
         {
           "title": "OpenAI：将很快把GPT‑5.5和GPT‑5.5 PRO引入 API。",
@@ -520,32 +745,105 @@
           "time_info": "03时01分"
         },
         {
-          "title": "核心拒绝AI,异环美术光速滑跪",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353572&amp;topic_name=%E6%A0%B8%E5%BF%83%E6%8B%92%E7%BB%9DAI%2C%E5%BC%82%E7%8E%AF%E7%BE%8E%E6%9C%AF%E5%85%89%E9%80%9F%E6%BB%91%E8%B7%AA",
-          "source": "贴吧",
+          "title": "有人用AI恶搞保安扇女子耳光视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%94%A8AI%E6%81%B6%E6%90%9E%E4%BF%9D%E5%AE%89%E6%89%87%E5%A5%B3%E5%AD%90%E8%80%B3%E5%85%89%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "北京车展有哪些新车",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E8%BD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "小米SU7自动泊车时撞上悬空墙体",
+          "url": "https://www.toutiao.com/trending/7631403066785038379/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "2026北京车展新车抢先看",
+          "url": "https://www.douyin.com/hot/2476112",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "鸿蒙智行尚界 Z7/Z7T 新车 27 分钟大定破万，其 21.98 万元起售价有何竞争力？",
+          "url": "https://www.zhihu.com/question/2030421399714669319",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "恒指低开0.7%，报25733.61点；恒生科技指数跌0.8%。美的集团、金蝶国际跌超2%，阿里巴巴、蔚来、腾讯等跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3093608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
+        },
+        {
+          "title": "雷军亮相北京车展 拆解版小米SU7曝光",
+          "url": "https://www.baidu.com/s?wd=%E9%9B%B7%E5%86%9B%E4%BA%AE%E7%9B%B8%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95+%E6%8B%86%E8%A7%A3%E7%89%88%E5%B0%8F%E7%B1%B3SU7%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "受贿数额特别巨大，证监会原党委委员王会民被提起公诉",
           "url": "https://m.thepaper.cn/newsDetail_forward_33032535",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时02分]"
         },
         {
           "title": "瑞士央行副行长：自伊朗冲突开始以来，我们观察到瑞郎贬值。",
@@ -579,23 +877,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "鸿蒙智行尚界 Z7/Z7T 新车 27 分钟大定破万，其 21.98 万元起售价有何竞争力？",
-          "url": "https://www.zhihu.com/question/2030421399714669319",
-          "source": "知乎",
+          "title": "凯投宏观：日本央行最早可能在6月加息",
+          "url": "https://flash.jin10.com/detail/20260424093905417800",
+          "source": "金十数据",
           "ranks": [
-            18
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时02分"
+        },
+        {
+          "title": "中国央行公开市场开展50亿元7天期逆回购操作，操作利率1.40%。今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3093609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时02分"
         }
       ]
     }
