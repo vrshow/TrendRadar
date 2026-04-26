@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T10:06:54.035241+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-04-26T15:21:17.639704+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 60,
+      "match_count": 65,
       "titles": [
         {
           "title": "伊朗最高领袖或与普京首次会晤！被曝“身负重伤”：一条腿已手术3次将安假肢，面部烧伤说话困难",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普被伊朗气坏了",
+          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "美伊谈判有望？伊朗外长访巴与调解方谈、暂无与美会谈日程，特朗普特使周六赴巴",
@@ -75,17 +86,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "特朗普被伊朗气坏了",
-          "url": "https://news.ifeng.com/c/8sd8zVVWM0m",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "伊朗伊斯兰革命卫队：国土防御力量已在各条战线做好充分准备",
           "url": "https://flash.jin10.com/detail/20260426020813778800",
           "source": "金十数据",
@@ -113,11 +113,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            15
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/articles/3770901",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时42分 ~ 10时06分]"
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "消息人士：伊朗外长离开巴基斯坦",
@@ -132,6 +145,17 @@
           "time_info": "[02时42分 ~ 10时06分]"
         },
         {
+          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
           "title": "巴基斯坦总理谢里夫：很高兴今天与伊朗外长阿拉格奇会面。 讨论了加强双边关系。 就当前地区局势交换了意见。",
           "url": "https://wallstreetcn.com/livenews/3094408",
           "source": "华尔街见闻-快讯",
@@ -142,6 +166,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 10时06分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 58 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031511362854024172",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗最高领袖敦促海湾国家保持警惕",
+          "url": "https://www.toutiao.com/trending/7632514962371464758/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "白宫：库什纳与维特科夫将赴巴基斯坦，与伊朗展开“直接会谈”",
@@ -156,6 +204,18 @@
           "time_info": "[02时42分 ~ 10时06分]"
         },
         {
+          "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
+          "url": "https://wallstreetcn.com/livenews/3094423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
           "title": "伊朗外长与巴基斯坦总理会谈 重申伊朗有关停火原则立场",
           "url": "https://wallstreetcn.com/livenews/3094405",
           "source": "华尔街见闻-快讯",
@@ -166,6 +226,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 10时06分]"
+        },
+        {
+          "title": "巴基斯坦总理同伊朗总统通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3094422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
+          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
+          "url": "https://wallstreetcn.com/livenews/3094421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
+          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
+          "url": "https://wallstreetcn.com/livenews/3094420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "伊朗代表团已离开巴基斯坦",
@@ -180,26 +276,40 @@
           "time_info": "[02时42分 ~ 10时06分]"
         },
         {
-          "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
-          "url": "https://wallstreetcn.com/articles/3770901",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
+          "url": "https://wallstreetcn.com/livenews/3094419",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
-          "title": "伊朗战争丨穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美军称将继续对进出伊朗港口船只实施全面封锁",
+          "url": "https://wallstreetcn.com/livenews/3094418",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            13,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
+        },
+        {
+          "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
+          "url": "https://wallstreetcn.com/livenews/3094417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "巴基斯坦总理谢里夫：今晚与伊朗总统进行了通话。",
@@ -224,15 +334,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美以袭击伊朗进入第 58 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2031511362854024172",
+          "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
+          "url": "https://www.zhihu.com/question/2031646484894937327",
           "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
@@ -246,17 +356,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "伊朗最高领袖敦促海湾国家保持警惕",
-          "url": "https://www.toutiao.com/trending/7632514962371464758/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "巴基斯坦总理谢里夫：赞赏伊朗的持续参与，包括由外交部长率领的高级代表团访问伊斯兰堡。",
           "url": "https://flash.jin10.com/detail/20260426020426637800",
           "source": "金十数据",
@@ -268,15 +367,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "伊朗副议长：穆杰塔巴下令霍尔木兹海峡不得恢复战前状态",
-          "url": "https://wallstreetcn.com/livenews/3094423",
+          "title": "特朗普否认枪击事件与伊朗战争有关",
+          "url": "https://wallstreetcn.com/livenews/3094441",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "15时21分"
         },
         {
           "title": "消息称伊朗比第一轮谈判时更强硬",
@@ -290,15 +389,26 @@
           "time_info": "02时42分"
         },
         {
-          "title": "巴基斯坦总理同伊朗总统通电话 讨论地区局势",
-          "url": "https://wallstreetcn.com/livenews/3094422",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
+          "url": "https://www.cls.cn/detail/2355864",
+          "source": "财联社热门",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "15时21分"
+        },
+        {
+          "title": "枪击是否与伊朗战争有关？特朗普回应",
+          "url": "https://news.ifeng.com/c/8sdOgZksONK",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "据以色列13频道：以色列总参谋长建议告知美国方面有必要恢复在伊朗的战斗。",
@@ -312,39 +422,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "以军总参谋长建议告知美国应重启对伊朗打击",
-          "url": "https://wallstreetcn.com/livenews/3094421",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "伊朗政府发言人：国内各政治力量立场一致 敌对势力不要误判",
-          "url": "https://wallstreetcn.com/livenews/3094420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "伊朗总统：不会在压力、威胁和封锁下进行谈判",
-          "url": "https://wallstreetcn.com/livenews/3094419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "伊朗外长抵达阿曼",
           "url": "https://flash.jin10.com/detail/20260426014305795800",
           "source": "金十数据",
@@ -354,17 +431,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "美军称将继续对进出伊朗港口船只实施全面封锁",
-          "url": "https://wallstreetcn.com/livenews/3094418",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         },
         {
           "title": "伊朗最高领袖发表致辞",
@@ -387,17 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
-        },
-        {
-          "title": "仍有谈判窗口？伊朗外长将再次访巴 特朗普：想谈直接打电话",
-          "url": "https://wallstreetcn.com/livenews/3094417",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
         },
         {
           "title": "伊朗：已生产逾千种武器装备",
@@ -428,7 +483,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -538,7 +593,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -560,9 +615,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "美国总统特朗普：这起事件不会阻止我在伊朗战争中获胜。",
+          "url": "https://flash.jin10.com/detail/20260426110401312800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         },
         {
           "title": "伊朗总统称敌方打击基础设施意在制造民众不满 呼吁节约能源",
@@ -582,7 +648,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -604,7 +670,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -637,7 +703,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -648,7 +714,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -670,7 +736,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -678,8 +744,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "华为余承东：尊界新车价格在200万左右",
+          "url": "https://wallstreetcn.com/livenews/3094448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
         {
           "title": "蔚来全新ES8玄金特别版正式上市，售价45.68万元",
           "url": "https://wallstreetcn.com/livenews/3094404",
@@ -691,6 +768,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 10时06分]"
+        },
+        {
+          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
+          "url": "https://www.zhihu.com/question/2030972645903004124",
+          "source": "知乎",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 15时21分]"
         },
         {
           "title": "UP主深度测试华为大阔折",
@@ -716,17 +805,6 @@
           "time_info": "02时42分"
         },
         {
-          "title": "雷军官宣小米 YU7 GT 将于 5 月底发布，对此你有哪些期待？会大卖吗？",
-          "url": "https://www.zhihu.com/question/2030972645903004124",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
           "title": "雷军当时手里已经财务自由了，为什么还要坚持去做小米？",
           "url": "https://www.zhihu.com/question/2010916446084015187",
           "source": "知乎",
@@ -738,13 +816,24 @@
           "time_info": "02时42分"
         },
         {
+          "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
           "title": "奇瑞汽车与宁德时代签约，将开发适配换电电池及换电网络车型",
           "url": "https://flash.jin10.com/detail/20260426082652160800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         },
@@ -766,7 +855,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
         }
@@ -774,7 +863,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -816,11 +905,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353704&amp;topic_name=AI%E5%9B%BE%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 15时21分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -844,12 +934,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 10时06分]"
+        },
+        {
+          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3770911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "沉默的DeepSeek，和不被定义的中国大模型",
+          "url": "https://wallstreetcn.com/articles/3770908",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850514&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/q4Q2a2QjEHCw5Z7dhreuL.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260426120715740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "【早报】国常会最新部署，事关科技创新；剑指财务造假，证监会新一轮专项行动启动",
@@ -857,11 +980,34 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 10时06分]"
+          "appearance_count": 3,
+          "time_info": "[02时42分 ~ 15时21分]"
+        },
+        {
+          "title": "新兴市场央行的美联储依赖症",
+          "url": "https://flash.jin10.com/detail/20260426131550273800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "一周展望：“超级央行周”即将来袭！美伊僵局之际，黄金势必巨震？",
+          "url": "https://flash.jin10.com/detail/20260426105927458800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
         }
       ]
     }
