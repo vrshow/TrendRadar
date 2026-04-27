@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-27T16:12:15.115814+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-04-27T21:25:57.234265+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 61,
+      "match_count": 73,
       "titles": [
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 21时25分]"
+        },
         {
           "title": "美国：已收到伊朗谈判新方案",
           "url": "https://www.cls.cn/detail/2356393",
@@ -30,17 +42,6 @@
           "time_info": "[02时42分 ~ 02时43分]"
         },
         {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
           "title": "伊朗外长27日将访问俄罗斯，将与普京会面",
           "url": "https://wallstreetcn.com/livenews/3094549",
           "source": "华尔街见闻-快讯",
@@ -50,6 +51,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "普京：俄罗斯将尽全力维护伊朗及该地区其他国家的利益",
+          "url": "https://wallstreetcn.com/livenews/3095051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "美伊和谈未重启？特朗普称想谈可致电美国，伊朗提出“三阶段谈判方案”！",
@@ -97,6 +109,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "消息人士：伊朗外长再次离开巴基斯坦",
           "url": "https://flash.jin10.com/detail/20260427012623514800",
           "source": "金十数据",
@@ -121,6 +144,19 @@
           "time_info": "[02时42分 ~ 16时12分]"
         },
         {
+          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
+          "url": "https://www.zhihu.com/question/2031995592310616152",
+          "source": "知乎",
+          "ranks": [
+            10,
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时08分 ~ 21时25分]"
+        },
+        {
           "title": "伊朗战争“扑朔迷离”，全球科技股“爆炸上涨”！高盛对冲基金业务主管：这个市场很难做",
           "url": "https://wallstreetcn.com/articles/3770921",
           "source": "华尔街见闻",
@@ -133,16 +169,16 @@
           "time_info": "[10时08分 ~ 16时12分]"
         },
         {
-          "title": "伊朗递交停战条件，并提出一项分三阶段解决的谈判方案，与此前内容有哪些变化？美方接受可能性有多大？",
-          "url": "https://www.zhihu.com/question/2031995592310616152",
-          "source": "知乎",
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
           "ranks": [
-            10,
-            6
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时08分 ~ 16时12分]"
+          "time_info": "[16时11分 ~ 21时25分]"
         },
         {
           "title": "轰炸中，伊朗国宝来到中国",
@@ -154,6 +190,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时08分 ~ 16时12分]"
+        },
+        {
+          "title": "轰炸中伊朗国宝来到中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 21时25分]"
         },
         {
           "title": "特朗普谈枪击事件：原以为托盘掉地上 否认袭击与伊朗战争有关",
@@ -255,17 +303,6 @@
           "time_info": "[02时42分 ~ 02时43分]"
         },
         {
-          "title": "轰炸中伊朗国宝来到中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%BD%B0%E7%82%B8%E4%B8%AD%E4%BC%8A%E6%9C%97%E5%9B%BD%E5%AE%9D%E6%9D%A5%E5%88%B0%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://www.toutiao.com/trending/7632586297932238355/",
           "source": "今日头条",
@@ -275,17 +312,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 02时43分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "伊朗最高领袖已明确下令，霍尔木兹海峡不得恢复战前状态，会是永久战略吗？对国际市场意味着什么？",
@@ -387,6 +413,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "伊朗战争丨伊外长：美方过分要求令谈判无果而终",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "伊朗外交部：外长将在巴基斯坦短暂停留，随后前往俄罗斯。",
           "url": "https://wallstreetcn.com/livenews/3094539",
           "source": "华尔街见闻-快讯",
@@ -404,7 +441,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -431,6 +468,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "普京称已收到伊朗最高领袖传来的信息",
+          "url": "https://wallstreetcn.com/livenews/3095036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：以色列在与伊朗的战争期间向阿联酋派遣了“铁穹”防空系统及部队。",
           "url": "https://flash.jin10.com/detail/20260427004851048800",
           "source": "金十数据",
@@ -440,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯打算继续与伊朗保持战略关系。",
+          "url": "https://flash.jin10.com/detail/20260427210648636800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "伊朗外长抵达巴基斯坦",
@@ -475,6 +534,17 @@
           "time_info": "10时08分"
         },
         {
+          "title": "普京会见伊朗外长阿拉格齐",
+          "url": "https://wallstreetcn.com/livenews/3095029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "伊朗外长与沙特外交大臣通电话，讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3094531",
           "source": "华尔街见闻-快讯",
@@ -506,6 +576,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "伊朗恢复飞往重要国际目的地航班",
+          "url": "https://wallstreetcn.com/livenews/3095026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "特朗普：希望伊朗主动联系美国",
@@ -607,6 +688,28 @@
           "time_info": "10时08分"
         },
         {
+          "title": "伊朗外长阿拉格齐：俄罗斯与伊朗的关系构成战略伙伴关系，将继续得到加强。",
+          "url": "https://flash.jin10.com/detail/20260427210153631800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：感谢俄罗斯总统普京和俄罗斯的支持。",
+          "url": "https://flash.jin10.com/detail/20260427210132927800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "伊朗议会高官：通过霍尔木兹海峡的船只必须缴费",
           "url": "https://wallstreetcn.com/livenews/3094519",
           "source": "华尔街见闻-快讯",
@@ -624,7 +727,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -657,9 +760,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "俄罗斯总统普京：俄罗斯将尽一切努力维护伊朗及该地区其他国家的利益。",
+          "url": "https://flash.jin10.com/detail/20260427205857698800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "英国首相秘书警告：伊朗战争结束后，英国人仍将面临长达八个月的高物价",
@@ -673,6 +787,17 @@
           "time_info": "02时43分"
         },
         {
+          "title": "俄罗斯总统普京：俄罗斯希望伊朗人民能够度过这个困难时期，和平能够实现。",
+          "url": "https://flash.jin10.com/detail/20260427205804103800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗外长明天将在莫斯科会见俄罗斯总统普京。",
           "url": "https://flash.jin10.com/detail/20260426234828354800",
           "source": "金十数据",
@@ -682,13 +807,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "俄罗斯总统普京请伊朗外长阿拉格齐向伊朗最高领袖转达他的良好祝愿和健康祝福。",
+          "url": "https://flash.jin10.com/detail/20260427205747052800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 22,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 21时25分]"
+        },
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
           "url": "https://wallstreetcn.com/articles/3770919",
@@ -715,26 +862,15 @@
           "time_info": "[02时42分 ~ 10时08分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
-        },
-        {
-          "title": "歌手 AI海报",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "title": "国产开源大模型下载量破100亿次",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "A股AI芯片板块震荡走高，摩尔线程-U涨超11%，禾盛新材涨超9%，澜起科技涨超8%，铂科新材、海光信息、沐曦股份-U、景嘉微等个股跟涨。",
@@ -748,6 +884,62 @@
           "time_info": "10时08分"
         },
         {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 21时25分]"
+        },
+        {
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)：与OpenAI将继续深化合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260427211024958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "专家热议AI短剧以规范促发展",
           "url": "https://www.douyin.com/hot/2479735",
           "source": "抖音",
@@ -758,6 +950,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时42分 ~ 16时12分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时11分 ~ 21时25分]"
         },
         {
           "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
@@ -803,17 +1007,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时42分 ~ 02时43分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时11分 ~ 16时12分]"
         },
         {
           "title": "经济日报评“AI艺人库”：技术狂奔岂能突破人文底线",
@@ -871,6 +1064,39 @@
           "time_info": "02时43分"
         },
         {
+          "title": "微软与OpenAI修订合作协议：微软将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "OpenAI：现在可以向任何云服务提供商的客户提供所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210816439800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
           "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
           "url": "https://www.zhihu.com/question/2031001231607296969",
           "source": "知乎",
@@ -880,6 +1106,94 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "OpenAI和亚马逊云服务(AWS)高管将于4月28日举办客户活动。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260427210717594800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)：将继续作为OpenAI的主要云合作伙伴，并将在2032年前继续持有OpenAI知识产权的许可。",
+          "url": "https://flash.jin10.com/detail/20260427210624388800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以在任何云服务提供商上提供其所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210554063800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前跌2%，其将不再向OpenAI支付收入分成。",
+          "url": "https://flash.jin10.com/detail/20260427210457057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)：这是微软与OpenAI合作伙伴关系的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260427210435844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)获得的OpenAI授权现在将变为非独家性质。",
+          "url": "https://flash.jin10.com/detail/20260427210310494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "OpenAI宣布修订协议，以简化与微软(MSFT.O)的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260427210243059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "微软(MSFT.O)将不再向OpenAI支付收入分成，来自OpenAI收入分成支付的安排将持续至2030年。",
+          "url": "https://flash.jin10.com/detail/20260427210208357800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -899,7 +1213,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -913,6 +1227,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "AI短剧 融脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "A股固态电池板块短线拉升，泰坦股份、锡装股份涨停，宏源药业、骄成超声、瑞丰高材、福斯特、中天科技等跟涨。",
@@ -940,7 +1265,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "本周重磅日程：重磅会议+超级央行周+超级财报周！美日央行决议、MAG7业绩密集轰炸",
@@ -972,7 +1297,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -983,9 +1308,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
+        },
+        {
+          "title": "百傲化学：因涉嫌信息披露违法违规，公司收到中国证监会立案告知书",
+          "url": "https://wallstreetcn.com/livenews/3095046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
+        {
+          "title": "百傲化学：因涉嫌信息披露违法违规，公司收到中国证监会立案告知书",
+          "url": "https://flash.jin10.com/detail/20260427210927821800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
         },
         {
           "title": "欧洲央行企业融资渠道调查：企业的短期通胀预期显著上升，中期预期保持稳定。企业预计，伊朗战争将推动销售价格大幅上涨，但工资预期略有减弱。",
@@ -994,7 +1341,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1005,7 +1352,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1027,7 +1374,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1038,7 +1385,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时12分"
         },
@@ -1057,8 +1404,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "余承东新产品定价比小米便宜 100 元，这种策略能否持续奏效？",
+          "url": "https://www.zhihu.com/question/2031783897910990078",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时25分"
+        },
         {
           "title": "小米公司：李某华在微信群散布雷军谣言，被警方处以行拘十日",
           "url": "https://m.thepaper.cn/newsDetail_forward_33056855",
