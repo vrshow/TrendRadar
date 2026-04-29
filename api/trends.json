@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T10:16:15.901106+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-04-29T16:06:46.976357+08:00",
+  "total_titles_processed": 724,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 28,
+      "match_count": 41,
       "titles": [
+        {
+          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
+          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
+        },
         {
           "title": "伊朗代表：美国“如同海盗和恐怖分子”",
           "url": "https://news.ifeng.com/c/8sgbI0j3nvZ",
@@ -19,13 +30,25 @@
           "time_info": "[03时25分 ~ 03时26分]"
         },
         {
+          "title": "伊朗陆军：战争尚未结束，正严阵以待",
+          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 16时06分]"
+        },
+        {
           "title": "【早报】阿联酋“退群”，全球油市巨震；伊朗或向巴基斯坦提交调整版方案",
           "url": "https://www.cls.cn/detail/2358883",
           "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -36,20 +59,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
         {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
+          "title": "伊朗德黑兰机场宣布增加航线和航班频次",
+          "url": "https://wallstreetcn.com/livenews/3096338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
@@ -63,16 +86,26 @@
           "time_info": "03时26分"
         },
         {
-          "title": "伊朗陆军：战争尚未结束，正严阵以待",
-          "url": "https://news.ifeng.com/c/8shTPbRP5sB",
-          "source": "凤凰网",
+          "title": "特朗普被曝准备长期封锁伊朗！一文读懂：背后有哪些考量？",
+          "url": "https://www.cls.cn/detail/2359134",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 10时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗方面的报道称，巴基斯坦通过启动6条通往伊朗的陆路通道，绕过了因霍尔木兹紧张局势而导致的商业封锁，为数千个集装箱开辟了一条替代通道。",
+          "url": "https://flash.jin10.com/detail/20260429155455336800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国总统特朗普：德国总理默茨不知道自己在伊朗问题上说的啥。",
@@ -84,6 +117,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
+          "url": "https://www.cls.cn/detail/2358925",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
         },
         {
           "title": "伊朗“蚊子舰队”如何控制海峡",
@@ -118,6 +163,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 03时26分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
         },
         {
           "title": "伊朗革命卫队称永久管理霍尔木兹",
@@ -159,9 +216,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "伊朗战争丨伊官员：霍尔木兹海峡仅对美以有关船只关闭",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国多个情报部门正在评估伊朗会对总统特朗普宣布胜利作何反应。（路透）",
@@ -175,17 +243,6 @@
           "time_info": "03时26分"
         },
         {
-          "title": "美伊极致拉扯：伊朗或因特朗普不满调整方案，美国禁止向伊缴纳“通行费”！",
-          "url": "https://www.cls.cn/detail/2358925",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "海湾合作委员会秘书长贾西姆·布达维表示，在吉达举行的海湾合作委员会峰会谴责了伊朗的袭击，并补充说，这些袭击导致海湾国家与德黑兰之间的信任急剧下降。",
           "url": "https://flash.jin10.com/detail/20260429025050446800",
           "source": "金十数据",
@@ -195,6 +252,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "伊朗德黑兰机场宣布增加航线和航班频次",
+          "url": "https://flash.jin10.com/detail/20260429155142125800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "特朗普：美国准备长期封锁伊朗",
+          "url": "https://www.cls.cn/detail/2358979",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国宣布对35个伊朗相关实体及个人实施制裁",
@@ -208,15 +287,15 @@
           "time_info": "03时26分"
         },
         {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
+          "title": "冯德莱恩：伊朗战争对欧洲的冲击或持续数年",
+          "url": "https://flash.jin10.com/detail/20260429154726925800",
+          "source": "金十数据",
           "ranks": [
-            16
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "美军：在对伊朗港口封锁行动中已要求39艘船只掉头",
@@ -241,6 +320,17 @@
           "time_info": "03时26分"
         },
         {
+          "title": "伊朗官员：希望伊美谈判取得积极成果 伊方仍保留“底牌”",
+          "url": "https://wallstreetcn.com/livenews/3096309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "消息人士透露，美国情报部门正在研判伊朗对特朗普宣布获胜可能做出的反应。官员们认为，尽管军事选项依然存在，但冲突大规模升级的可能性已有所降低。",
           "url": "https://flash.jin10.com/detail/20260429022426041800",
           "source": "金十数据",
@@ -250,6 +340,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "据伊朗Press TV：也门表示不会对美国针对伊朗的新“冒险主义”持中立态度。",
+          "url": "https://flash.jin10.com/detail/20260429154111192800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "欧盟委员会主席冯德莱恩：伊朗和平协议必须包括霍尔木兹海峡自由通行。 中东冲突的影响可能会持续多年。",
+          "url": "https://wallstreetcn.com/livenews/3096306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "伊朗男孩重回中国上学全班紧紧抱住",
+          "url": "https://www.toutiao.com/trending/7633313371160464950/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "8岁伊朗男孩回到中国学校 全班沸腾",
+          "url": "https://www.baidu.com/s?wd=8%E5%B2%81%E4%BC%8A%E6%9C%97%E7%94%B7%E5%AD%A9%E5%9B%9E%E5%88%B0%E4%B8%AD%E5%9B%BD%E5%AD%A6%E6%A0%A1+%E5%85%A8%E7%8F%AD%E6%B2%B8%E8%85%BE",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美媒：伊朗或向巴基斯坦提交调整版方案",
@@ -291,9 +425,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "特朗普对德国总理涉伊朗言论不满",
+          "url": "https://www.toutiao.com/trending/7633736555437506611/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "美国总统特朗普表示，英国国王查尔斯三世同意他有关需确保伊朗永不拥有核武器的观点。",
@@ -302,7 +447,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -313,7 +458,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
@@ -321,8 +466,19 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -335,6 +491,18 @@
           "time_info": "[03时25分 ~ 03时26分]"
         },
         {
+          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
+          "url": "https://www.cls.cn/detail/2358910",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
+        },
+        {
           "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
           "url": "https://www.cls.cn/detail/2358592",
           "source": "财联社热门",
@@ -344,17 +512,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时25分 ~ 03时26分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -385,31 +542,45 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
         {
-          "title": "美存储股盘后齐涨！希捷公布强劲财报 AI驱动需求持续火热",
-          "url": "https://www.cls.cn/detail/2358910",
-          "source": "财联社热门",
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
           "ranks": [
+            6,
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
+        },
+        {
+          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
+          "url": "https://www.zhihu.com/question/2030222424457703714",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
         },
         {
           "title": "创业板跌超1%，医药逆势拉升、药明康德涨停，恒科指跌超2%，“全球AI硅光芯片第一股”暴涨近400%",
           "url": "https://wallstreetcn.com/articles/3771068",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 10时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 16时06分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -447,26 +618,27 @@
           "time_info": "[03时25分 ~ 03时26分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
+          "title": "脑机接口正重塑人类生活",
+          "url": "https://www.douyin.com/hot/2482360",
+          "source": "抖音",
           "ranks": [
-            6
+            24,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
         },
         {
-          "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
-          "url": "https://www.zhihu.com/question/2030222424457703714",
-          "source": "知乎",
+          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
+          "url": "https://wallstreetcn.com/articles/3771182",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "16时06分"
         },
         {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
@@ -497,7 +669,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -508,7 +680,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -552,18 +724,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "脑机接口正重塑人类生活",
-          "url": "https://www.douyin.com/hot/2482360",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -588,23 +749,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "科大讯飞总裁吴晓如：今年10月将在昇腾950平台上发布国产旗舰大模型",
+          "url": "https://flash.jin10.com/detail/20260429153322334800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
-          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
-          "url": "https://www.zhihu.com/question/2031648098368345383",
-          "source": "知乎",
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.toutiao.com/trending/7633726705320099883/",
+          "source": "今日头条",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "16时06分"
+        },
+        {
+          "title": "比亚迪宣布涨价",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "比亚迪一季度净利润 40.85 亿元，同比减少 55.38%，如何评价这一业绩？",
@@ -617,6 +800,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时25分 ~ 10时16分]"
+        },
+        {
+          "title": "如何看待长城汽车魏建军在北京车展上对宝马董事长称纯电平台是虚假宣传，并强调宝马的看法和长城一致？",
+          "url": "https://www.zhihu.com/question/2031648098368345383",
+          "source": "知乎",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 16时06分]"
         },
         {
           "title": "小米宣布MiMo V2.5正式开源",
@@ -642,13 +837,24 @@
           "time_info": "[03时25分 ~ 03时26分]"
         },
         {
+          "title": "比亚迪宣布涨价",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "李斌回应乐道新车被同一用户预订20辆",
           "url": "https://www.toutiao.com/trending/7633634887400017450/",
           "source": "今日头条",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -659,7 +865,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -681,7 +887,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -692,7 +898,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -703,27 +909,94 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "华为Pura 90系列影像表现实测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "泰国央行：不担心滞涨风险。",
+          "url": "https://flash.jin10.com/detail/20260429155556480800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "金十数据4月29日讯，货币市场现预计欧洲央行今年将加息三次，每次25个基点。",
+          "url": "https://flash.jin10.com/detail/20260429155547330800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
         {
           "title": "全球迎来超级央行周",
           "url": "https://www.douyin.com/hot/2482690",
           "source": "抖音",
           "ranks": [
             9,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 10时16分]"
+          "appearance_count": 4,
+          "time_info": "[03时25分 ~ 16时06分]"
+        },
+        {
+          "title": "泰国央行：通胀将在第二季突破目标区间。",
+          "url": "https://flash.jin10.com/detail/20260429154738849800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "泰国央行：政府的各种措施预料将使经济增长率提高0.5-0.7个百分点。",
+          "url": "https://flash.jin10.com/detail/20260429154723619800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "全球央行在一季度金价大幅波动期间“大量购入”黄金",
+          "url": "https://wallstreetcn.com/livenews/3096314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "中国央行公开市场开展259亿元7天期逆回购操作，操作利率1.40%。今日60亿元逆回购到期。",
@@ -732,9 +1005,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "泰国央行维持关键利率不变 以抵御油价对经济的冲击",
+          "url": "https://wallstreetcn.com/livenews/3096300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         }
       ]
     }
