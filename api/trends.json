@@ -1,575 +1,180 @@
 {
-  "generated_at": "2026-04-30T21:28:25.445856+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-05-01T03:11:29.991635+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 34,
+      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
+      "match_count": 9,
       "titles": [
         {
-          "title": "国务院：任命刘浩凌为证监会副主席",
-          "url": "https://www.cls.cn/detail/2359509",
-          "source": "财联社热门",
+          "title": "假如AI能模拟去世亲人",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
-          "title": "欧洲央行行长拉加德：政策调整不宜过早或过晚。",
-          "url": "https://flash.jin10.com/detail/20260430212243284800",
-          "source": "金十数据",
+          "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2361477",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
+          "url": "https://wallstreetcn.com/articles/3771311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
+          "url": "https://www.cls.cn/detail/2361143",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "OpenAI为用户提供新安全措施，可抛弃密码登录",
+          "url": "https://wallstreetcn.com/livenews/3097661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "美国“战争部”部长赫格塞斯：Anthropic由“一群思想狂热分子”经营。 并没有让人工智能（AI）做出致命性的决策。",
+          "url": "https://wallstreetcn.com/livenews/3097660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "Yubico与OpenAI达成合作协议，前者用户可以通过OpenAI的安全项目购买Yubikeys。",
+          "url": "https://wallstreetcn.com/livenews/3097659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "AI魔改黑袍,星光姐被玩坏",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "深圳14岁男孩用AI备考押中奥赛题",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
+          "url": "https://www.cls.cn/detail/2361424",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         },
         {
           "title": "证监会原主席易会满被双开",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E5%8E%9F%E4%B8%BB%E5%B8%AD%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%8F%8C%E5%BC%80",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
-          "url": "https://www.cls.cn/detail/2361424",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：有信心银行拥有足够的资本和流动性。",
-          "url": "https://wallstreetcn.com/livenews/3097544",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：系统内仍拥有充足的流动性。 欧洲央行讨论了调整（政策）框架的时间表。",
-          "url": "https://wallstreetcn.com/livenews/3097543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "日本央行5月的债券购买计划与4月保持一致未作变动。",
-          "url": "https://wallstreetcn.com/livenews/3097319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "03时11分"
         },
         {
-          "title": "美联储主席鲍威尔：我们是唯一一家不发布预测的主要央行。",
-          "url": "https://flash.jin10.com/detail/20260430030041849800",
+          "title": "哥伦比亚央行维持利率在11.25%不变。",
+          "url": "https://flash.jin10.com/detail/20260501022652610800",
           "source": "金十数据",
           "ranks": [
-            5
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "欧洲央行副行长金多斯：银行有足够的资本和流动性。",
-          "url": "https://flash.jin10.com/detail/20260430211844997800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "经济学家：欧洲央行反应函数更趋鹰派",
-          "url": "https://flash.jin10.com/detail/20260430211814468800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行讨论了关于调整框架的时间表。",
-          "url": "https://flash.jin10.com/detail/20260430211759754800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：（今天的）决定是全体一致通过的。 基于有限的信息做出了决定。 欧洲央行讨论了包括加息在内的各种选项。 下次会议需重新审视相关数据。 接下来的六周对于做出明智的决策至关重要。 六周后将是进行评估的适当时机。 滞胀并非适用于当前形势的概念。 应将滞胀这一概念“搁置”在1970年代。 欧洲央行将在6月修订并更新情景分析。",
-          "url": "https://wallstreetcn.com/livenews/3097538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：未讨论任何新工具。",
-          "url": "https://flash.jin10.com/detail/20260430211729087800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：流动性充裕。",
-          "url": "https://flash.jin10.com/detail/20260430211643726800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：过去几个月基础通胀变化不大。 大多数长期通胀预期指标在2%左右。短期内通胀率将远高于2%。 增长前景面临下行风险。 通胀前景所面临的风险呈上升趋势。 目前的金融状况仍比冲突前更为紧张。 欧洲央行准备调整所有工具以实现目标。 不会透露当前更接近基准情景还是不利情景。 经济显然正在偏离基线。",
-          "url": "https://wallstreetcn.com/livenews/3097535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "机构：数据尚不支持欧洲央行加息，未来几个月将保持观望",
-          "url": "https://flash.jin10.com/detail/20260430211451948800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：欧洲央行将在6月修订和更新情景。",
-          "url": "https://flash.jin10.com/detail/20260430211444726800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：经济前景高度不确定。 国内需求仍是主要增长动力。 冲突正在对经济活动造成影响。 供应链正面临压力。 高成本将拖累收入，抑制消费。 劳动力需求进一步降温。 投资将得到财政支出的支撑。 财政行动应是临时性、有针对性且因地制宜的。 数字欧元将增强欧洲的战略自主。 必须迅速通过关于数字欧元的立法。",
-          "url": "https://wallstreetcn.com/livenews/3097533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：反应机制有三个支柱。",
-          "url": "https://flash.jin10.com/detail/20260430211131606800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         },
         {
           "title": "证监会原主席易会满被双开",
           "url": "https://www.douyin.com/hot/2484667",
           "source": "抖音",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "日本央行称风险情景下 关键通胀指标或升至3%",
-          "url": "https://wallstreetcn.com/livenews/3097310",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "欧洲央行行长拉加德重申欧洲央行政策声明。",
-          "url": "https://wallstreetcn.com/livenews/3097531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行维持利率不变 伊朗冲突对经济的冲击仍在发酵",
-          "url": "https://wallstreetcn.com/livenews/3097529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         },
         {
-          "title": "欧洲央行行长拉加德：利率是我们可以使用的最佳工具。",
-          "url": "https://flash.jin10.com/detail/20260430210943537800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "提醒：北京时间20:45，欧洲央行行长拉加德召开货币政策新闻发布会。",
-          "url": "https://wallstreetcn.com/livenews/3097526",
+          "title": "德国两年期国债收益率于欧洲央行决议日跌10个基点",
+          "url": "https://wallstreetcn.com/livenews/3097645",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们不将这个术语应用于今天的情况。",
-          "url": "https://flash.jin10.com/detail/20260430210934313800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：滞涨一词最好留在1970年代。",
-          "url": "https://flash.jin10.com/detail/20260430210926070800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：预计到下次会议时，中东冲突不会有任何实质性结果。",
-          "url": "https://flash.jin10.com/detail/20260430210833250800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "S佳通：因涉嫌信息披露违法违规被证监会立案",
-          "url": "https://flash.jin10.com/detail/20260430155557707800",
-          "source": "金十数据",
-          "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：距离下次会议还有六周，正是评估形势的合适时机。",
-          "url": "https://flash.jin10.com/detail/20260430210728107800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：硬数据大致符合预期。",
-          "url": "https://flash.jin10.com/detail/20260430210641305800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：当前存在很大的不确定性，我们需要在下次会议上重新审视所有问题。",
-          "url": "https://flash.jin10.com/detail/20260430210635010800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：我们讨论了包括可能加息在内的多种选项。",
-          "url": "https://flash.jin10.com/detail/20260430210624849800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "欧洲央行行长拉加德：一些央行行长可能会对提案的正反两方面意见都提出自己的看法。",
-          "url": "https://flash.jin10.com/detail/20260430210615947800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         }
       ]
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 30,
+      "match_count": 5,
       "titles": [
         {
-          "title": "普京与特朗普通话，谈及伊朗和乌克兰问题",
-          "url": "https://news.ifeng.com/c/8sjOWWpBUaQ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 21时28分]"
-        },
-        {
-          "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
-          "url": "https://news.ifeng.com/c/8siqYiXyeAp",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 10时16分]"
-        },
-        {
-          "title": "特朗普放话：伊朗不求饶，海峡不解封",
-          "url": "https://news.ifeng.com/c/8sjt504KI9b",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时10分 ~ 21时28分]"
-        },
-        {
-          "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
-          "url": "https://news.ifeng.com/c/8shsB9lMhW7",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
-          "url": "https://news.ifeng.com/c/8sijEznYe70",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "【早报】美联储“按兵不动”，鲍威尔重磅表态；特朗普：同伊朗的谈判正通过电话进行",
-          "url": "https://www.cls.cn/detail/2360318",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：波斯湾安全无需外部势力介入",
-          "url": "https://wallstreetcn.com/livenews/3097545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "停火岌岌可危？特朗普被曝将听取打击伊朗新方案 目标或包括基础设施",
-          "url": "https://www.cls.cn/detail/2360703",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "特朗普将听取打击伊朗新方案 打击目标很有可能包括伊朗的基础设施",
-          "url": "https://www.cls.cn/detail/2360629",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 62 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032954547836907965",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 21时28分]"
-        },
-        {
-          "title": "伊朗男孩重回中国上学全班紧紧抱住",
-          "url": "https://www.toutiao.com/trending/7633313371160464950/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 10时16分]"
-        },
-        {
-          "title": "伊朗：将以前所未有军事行动回应美",
-          "url": "https://www.toutiao.com/trending/7633112393258172443/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗高级官员：将以“前所未有的军事行动”回应美“海盗行为”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079146",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 16时10分]"
-        },
-        {
-          "title": "伊朗：将以前所未有的军事行动回应美",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E4%BB%A5%E5%89%8D%E6%89%80%E6%9C%AA%E6%9C%89%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%9B%9E%E5%BA%94%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗海军司令警告美军“勿进一步行动”",
+          "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
@@ -577,29 +182,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "伊朗战争丨美防长接受质询，对伊动武说法前后不一",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "伊朗战争丨穆杰塔巴：伊朗将行使海峡管理权，波斯湾未来没有美国",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -608,502 +191,81 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "特朗普：正与伊朗进行“电话谈判”，彻底放弃核武器是协议前提！",
-          "url": "https://www.cls.cn/detail/2360313",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "03时11分"
         },
         {
-          "title": "伊朗海军：将向敌人展示一种可怕武器",
-          "url": "https://www.toutiao.com/trending/7633278639656992810/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "普京致电特朗普请缨“帮”谈伊朗，特朗普：你先结束乌克兰冲突",
-          "url": "https://flash.jin10.com/detail/20260430094807731800",
+          "title": "伊朗总统和议长寻求撤换外长，理由是他“屈从于革命卫队”",
+          "url": "https://flash.jin10.com/detail/20260501023932622800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "特朗普称同伊朗的谈判正通过电话进行 | 环球市场",
-          "url": "https://www.cls.cn/detail/2360339",
-          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "03时11分"
         },
         {
-          "title": "美军拟以高超音速导弹打击伊朗 系首次实战部署",
-          "url": "https://www.cls.cn/detail/2360722",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "美媒称特朗普准备长期封锁伊朗，旨在迫使伊朗做出「核让步」，如何看待美国这一举动？目前美伊局势如何？",
-          "url": "https://www.zhihu.com/question/2032758360743883157",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "三星电子：将设定伊朗战争长期化的情景分析。",
-          "url": "https://flash.jin10.com/detail/20260430094604237800",
+          "title": "据“伊朗国际”援引两名知情人士的话报道，伊朗总统佩泽希齐扬与伊朗议会议长卡利巴夫对伊朗外长阿拉格齐开展外交工作的方式表示不满，尤其是核谈判，并呼吁将其罢免。",
+          "url": "https://flash.jin10.com/detail/20260501022147839800",
           "source": "金十数据",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "03时11分"
         },
         {
-          "title": "伊朗首都大规模集会展示国家团结",
-          "url": "https://www.toutiao.com/trending/7634423952917037094/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "特朗普称准备长期封锁伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%87%86%E5%A4%87%E9%95%BF%E6%9C%9F%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "美称伊朗战事已耗资250亿美元",
-          "url": "https://www.toutiao.com/trending/7633391016129298441/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "AI魔改黑袍,星光姐被玩坏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            4,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时15分 ~ 21时28分]"
-        },
-        {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
-          "url": "https://www.cls.cn/detail/2360312",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "美国白宫AI备忘录直指引发Anthropic与五角大楼争议的关键问题。备忘录呼吁美国各机构使用多家人工智能提供商。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3097542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
-          "url": "https://www.zhihu.com/question/2031783702569726072",
-          "source": "知乎",
-          "ranks": [
-            1,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 16时10分]"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时15分 ~ 10时16分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 21时28分]"
-        },
-        {
-          "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
-          "url": "https://wallstreetcn.com/articles/3771182",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2360001",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 16时10分]"
-        },
-        {
-          "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032593268840600541",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "中美AI竞争的本质差距在哪",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8EAI%E7%AB%9E%E4%BA%89%E7%9A%84%E6%9C%AC%E8%B4%A8%E5%B7%AE%E8%B7%9D%E5%9C%A8%E5%93%AA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "假如AI能模拟去世亲人",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82AI%E8%83%BD%E6%A8%A1%E6%8B%9F%E5%8E%BB%E4%B8%96%E4%BA%B2%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "美股科技“四巨头”同日放榜 “AI烧钱”大战愈演愈烈",
-          "url": "https://www.cls.cn/detail/2360653",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "瑞典AI法务科技初创公司Legora扩大D轮融资，本次按56亿美元估值募集0.5亿美元，使得这一轮融资的规模达到6亿美元。 英伟达旗下风投部门NVentures参投，Atlassian、Adams Street Partners、以及Insight也有参与。",
-          "url": "https://wallstreetcn.com/livenews/3097536",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
-          "url": "https://wallstreetcn.com/articles/3771219",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "半导体设备Q1业绩扫描：多家龙头净利暴增 AI仍是核心驱动因素",
-          "url": "https://www.cls.cn/detail/2360457",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "燃料电池牛股化身“AI供电新贵” Bloom Energy绩后暴涨再创新高",
-          "url": "https://www.cls.cn/detail/2360135",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "中央网信办部署开展“清朗·整治AI应用乱象”专项行动",
-          "url": "https://www.cls.cn/detail/2361143",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "知情人士透露，白宫关于人工智能的备忘录仍处于草案阶段，可能会有所变动。",
-          "url": "https://flash.jin10.com/detail/20260430211052180800",
+          "title": "市场消息：伊朗股票市场交易将暂停至2026年5月4日星期一，其重新开放取决于对情况的持续评估。",
+          "url": "https://flash.jin10.com/detail/20260501021336302800",
           "source": "金十数据",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "白宫备忘录还呼吁人工智能公司尊重军事指挥链。",
-          "url": "https://flash.jin10.com/detail/20260430211037754800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "知情人士描述了白宫关于人工智能的备忘录草案，备忘录呼吁美国各机构使用多个人工智能供应商。",
-          "url": "https://flash.jin10.com/detail/20260430211011399800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "更多银行参与软银的400亿美元银团贷款 助其投资OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3097306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
-        },
-        {
-          "title": "Anthropic年收300亿碾压OpenAI",
-          "url": "https://s.weibo.com/weibo?q=Anthropic%E5%B9%B4%E6%94%B6300%E4%BA%BF%E7%A2%BE%E5%8E%8BOpenAI&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "time_info": "03时11分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "比亚迪部分车型 5 月 1 日起涨价，因存储硬件成本大涨，这轮成本波动对车企们影响有多大？为何会扛不住涨价？",
-          "url": "https://www.zhihu.com/question/2032817462966577108",
+          "title": "华为 PuraXMax 首销销量大涨，原因是什么？",
+          "url": "https://www.zhihu.com/question/2032448912359993581",
           "source": "知乎",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "比亚迪和宁德时代捅破超充的窗户纸",
-          "url": "https://www.toutiao.com/trending/7634198638670908969/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "比亚迪宣布涨价",
-          "url": "https://www.toutiao.com/trending/7633726705320099883/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "比亚迪净利润为何腰斩",
-          "url": "https://www.toutiao.com/trending/7634181884787822143/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 03时16分]"
-        },
-        {
-          "title": "华为 PuraXMax 首销销量大涨，原因是什么？",
-          "url": "https://www.zhihu.com/question/2032448912359993581",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "03时11分"
         },
         {
           "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
           "url": "https://www.cls.cn/detail/2361202",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "王腾称加仓了小米股票",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%A7%B0%E5%8A%A0%E4%BB%93%E4%BA%86%E5%B0%8F%E7%B1%B3%E8%82%A1%E7%A5%A8%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "03时11分"
         },
         {
-          "title": "比亚迪“涨价”我们该不该下手",
-          "url": "https://www.toutiao.com/trending/7634074634689859135/",
-          "source": "今日头条",
+          "title": "华为Pura 90系列影像表现实测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            28
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时10分"
+          "time_info": "03时11分"
         }
       ]
     }
