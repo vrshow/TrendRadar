@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-01T10:31:20.178744+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-05-01T16:06:13.380108+08:00",
+  "total_titles_processed": 738,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "AI古代铠甲勇士完结篇",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%A4%E4%BB%A3%E9%93%A0%E7%94%B2%E5%8B%87%E5%A3%AB%E5%AE%8C%E7%BB%93%E7%AF%87",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
+        },
+        {
+          "title": "美议员邀中国科学家给AI“设卡”，美国舆论炸锅",
+          "url": "https://news.ifeng.com/c/8slj4BER3rc",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "云计算三巨头验证AI商业化前景 日元汇率剧烈波动 | 今夜看点",
@@ -24,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 16时06分]"
         },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
@@ -36,33 +49,36 @@
           "source": "贴吧",
           "ranks": [
             20,
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 16时06分]"
         },
         {
           "title": "人民日报：不能让AI生成内容误导公众",
           "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%9A%E4%B8%8D%E8%83%BD%E8%AE%A9AI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E8%AF%AF%E5%AF%BC%E5%85%AC%E4%BC%97",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
         },
         {
           "title": "时代杂志评选2026年十大最具影响力AI公司 字节、阿里、智谱上榜",
           "url": "https://www.cls.cn/detail/2361533",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
         },
         {
           "title": "中国首例脑机接口植入患者能下棋了",
@@ -93,7 +109,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -153,6 +169,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
+          "url": "https://flash.jin10.com/detail/20260501142522147800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "今起施行，杭州为具身智能机器人立法",
+          "url": "https://wallstreetcn.com/livenews/3097800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
           "title": "深圳14岁男孩用AI备考押中奥赛题",
           "url": "https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B314%E5%B2%81%E7%94%B7%E5%AD%A9%E7%94%A8AI%E5%A4%87%E8%80%83%E6%8A%BC%E4%B8%AD%E5%A5%A5%E8%B5%9B%E9%A2%98%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
@@ -170,7 +208,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -181,7 +219,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -192,7 +230,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
@@ -200,8 +238,31 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 14,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
+        },
+        {
+          "title": "以媒：美国“即将决定”是否重启对伊朗军事行动",
+          "url": "https://wallstreetcn.com/livenews/3097818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
           "url": "https://wallstreetcn.com/articles/3771344",
@@ -215,15 +276,39 @@
           "time_info": "[03时11分 ~ 10时31分]"
         },
         {
-          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
-          "url": "https://www.cls.cn/detail/2361658",
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
           "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033318594176443288",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
+        },
+        {
+          "title": "伊朗总统：美国海上封锁“不可容忍”",
+          "url": "https://www.toutiao.com/trending/7633995165912465444/",
+          "source": "今日头条",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "伊朗战争丨美官员：伊朗战事成本或为官方披露的两倍",
@@ -237,26 +322,26 @@
           "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2033318594176443288",
-          "source": "知乎",
+          "title": "伊朗战争丨特朗普就伊朗队赴美参加世界杯表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
-          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
-          "url": "https://www.cls.cn/detail/2361654",
-          "source": "财联社热门",
+          "title": "伊朗外交部：期待伊美谈判迅速达成结果并不现实",
+          "url": "https://news.ifeng.com/c/8slUlo0THc1",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "多艘伊朗超级油轮在美军封锁线内集结",
@@ -268,6 +353,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时30分 ~ 10时31分]"
+        },
+        {
+          "title": "24小时接收6500吨装备，以防长称或“很快恢复”对伊朗军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33086074",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普称美国结束对伊朗战争",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E7%BB%93%E6%9D%9F%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
         },
         {
           "title": "伊朗战争丨以防长：或很快对伊朗再次采取行动",
@@ -287,7 +394,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -309,7 +416,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -331,7 +438,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -353,15 +460,144 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         }
       ]
     },
     {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "华为 PuraXMax 首销销量大涨，原因是什么？",
+          "url": "https://www.zhihu.com/question/2032448912359993581",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "极氪4月交付新车31787辆 同比增长132%",
+          "url": "https://flash.jin10.com/detail/20260501153938400800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "极氪4月交付新车31787辆，同比增长132%",
+          "url": "https://wallstreetcn.com/livenews/3097816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
+          "url": "https://www.cls.cn/detail/2361202",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时31分]"
+        },
+        {
+          "title": "华为Pura 90系列影像表现实测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时31分]"
+        },
+        {
+          "title": "小米汽车4月交付量超3万台",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A64%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%853%E4%B8%87%E5%8F%B0%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "小米手机毛利率跌至 8.3%，卢伟冰称涨价需理解，这会如何影响其性价比策略？",
+          "url": "https://www.zhihu.com/question/2020055937386328647",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时05分 ~ 16时06分]"
+        },
+        {
+          "title": "2026年4月，小米汽车交付量超过30000台。",
+          "url": "https://wallstreetcn.com/livenews/3097776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "小鹏集团公布2026年4月交付成绩，4月共交付新车31,011台。",
+          "url": "https://wallstreetcn.com/livenews/3097807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "小米汽车4月交付超3万辆 环比增长50%",
+          "url": "https://flash.jin10.com/detail/20260501090745367800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "蔚来公司4月交付29,356台，同比增长22.8%",
+          "url": "https://wallstreetcn.com/livenews/3097792",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "涉嫌信披违法违规，科蓝软件、S佳通被证监会立案",
@@ -372,8 +608,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 16时06分]"
+        },
+        {
+          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
+          "url": "https://wallstreetcn.com/articles/3771416",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时30分 ~ 16时06分]"
         },
         {
           "title": "证监会原主席易会满被双开",
@@ -381,22 +629,45 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            11
+            11,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
+          "appearance_count": 5,
+          "time_info": "[03时11分 ~ 16时06分]"
         },
         {
-          "title": "报道：日本政府与央行已干预外汇市场，实施日元买入操作",
-          "url": "https://wallstreetcn.com/articles/3771416",
-          "source": "华尔街见闻",
+          "title": "欧洲央行管委内格尔：欧洲央行已意识到价格风险，随时准备采取行动；目前的形势发展不如三月份的基准线乐观。",
+          "url": "https://flash.jin10.com/detail/20260501152619221800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 10时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：如果经济前景没有出现显著改善，欧洲央行管委会更适合在6月采取应对行动。",
+          "url": "https://flash.jin10.com/detail/20260501151045479800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：若前景无显著改善，6月加息是合适的。 欧洲央行意识到价格风险，随时准备采取行动。 形势发展不如3月基线预期。 欧洲央行基线情景意味着更具限制性的货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3097811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时06分"
         },
         {
           "title": "瑞穗证券：日元或在日本央行政策真空下保持疲软",
@@ -405,7 +676,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时31分"
         },
@@ -441,69 +712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "华为 PuraXMax 首销销量大涨，原因是什么？",
-          "url": "https://www.zhihu.com/question/2032448912359993581",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
         },
         {
-          "title": "【数据看盘】超30亿元资金买入算力芯片龙头 多路资金联手抢筹中国长城",
-          "url": "https://www.cls.cn/detail/2361202",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
-        },
-        {
-          "title": "华为Pura 90系列影像表现实测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8E%E4%B8%BAPura%2090%E7%B3%BB%E5%88%97%E5%BD%B1%E5%83%8F%E8%A1%A8%E7%8E%B0%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时11分 ~ 10时31分]"
-        },
-        {
-          "title": "2026年4月，小米汽车交付量超过30000台。",
-          "url": "https://wallstreetcn.com/livenews/3097776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时31分"
-        },
-        {
-          "title": "小米汽车4月交付超3万辆 环比增长50%",
-          "url": "https://flash.jin10.com/detail/20260501090745367800",
+          "title": "机构：欧洲央行进行预防性加息或可安抚市场",
+          "url": "https://flash.jin10.com/detail/20260501140232077800",
           "source": "金十数据",
           "ranks": [
-            19
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "16时06分"
         }
       ]
     }
