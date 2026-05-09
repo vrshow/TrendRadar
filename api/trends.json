@@ -1,12 +1,45 @@
 {
-  "generated_at": "2026-05-09T03:09:15.331402+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-09T10:14:08.443284+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 16,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
+          "url": "https://news.ifeng.com/c/8sy1qxEZ8vp",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
+        {
+          "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
+          "url": "https://news.ifeng.com/c/8sxblbeHFN9",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
+        {
+          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
+          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
           "url": "https://wallstreetcn.com/articles/3771778",
@@ -30,37 +63,27 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "伊朗南部霍尔木兹甘省一港口城市传出爆炸声",
-          "url": "https://news.ifeng.com/c/8sy1qxEZ8vp",
+          "title": "伊朗战争丨因储油罐已满而向大海排石油？伊朗回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
+          "url": "https://wallstreetcn.com/articles/3771862",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        },
-        {
-          "title": "伊朗成立波斯湾海峡管理局，过霍尔木兹的船要先填40多道题？",
-          "url": "https://news.ifeng.com/c/8sxblbeHFN9",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        },
-        {
-          "title": "哈里斯谈伊朗战争时爆粗然后大笑，现场响起雷鸣般的掌声",
-          "url": "https://v.ifeng.com/c/8sxW6y1Facc",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
         },
         {
           "title": "伊朗外长与英国外交大臣通电话。（IRIB）",
@@ -69,20 +92,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
         {
-          "title": "美国务卿敦促“进入严肃谈判进程”，美军向伊朗“违反封锁”油轮开火，伊称海湾交火已停但恐重燃",
-          "url": "https://wallstreetcn.com/articles/3771862",
-          "source": "华尔街见闻",
+          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
         },
         {
           "title": "非农缓解“滞胀”担忧，苹果、英伟达股价续刷新高，伊朗局势恶化，布油重返百元关口，现货白银涨3%",
@@ -107,15 +131,15 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
-          "title": "岚目镜观｜从三权分立到“民选皇帝”：伊朗战事如何刺穿美国宪政神话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33113410",
-          "source": "澎湃新闻",
+          "title": "连续两天交火 伊朗警告冲突可能重燃",
+          "url": "https://www.baidu.com/s?wd=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%A4%A9%E4%BA%A4%E7%81%AB+%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E5%86%B2%E7%AA%81%E5%8F%AF%E8%83%BD%E9%87%8D%E7%87%83",
+          "source": "百度热搜",
           "ranks": [
-            17
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "伊朗：已做好全面准备回击任何侵略",
@@ -127,6 +151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "伊朗部队与美军舰发生“零星冲突”",
@@ -157,9 +192,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗外长：美军事行动严重威胁国际航行自由",
+          "url": "https://wallstreetcn.com/livenews/3100969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "据伊朗Press TV：伊朗外长阿拉格奇与英国外交大臣库珀通电话，就地区最新局势发展进行了讨论，并交换了意见。",
@@ -168,9 +214,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "据AXIOS记者：据两位知情人士透露，卡塔尔方面正充当美伊之间至少三条秘密沟通渠道之一。这些消息人士称，卡塔尔方面正利用其与参与伊朗对美谈判决策的伊斯兰革命卫队高级将领之间的关系展开沟通。",
+          "url": "https://flash.jin10.com/detail/20260509090139792800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "伊朗外长：美军事行动严重威胁国际航行自由",
+          "url": "https://flash.jin10.com/detail/20260509085636612800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "美国总统特朗普：预计今晚将会听到来自伊朗的消息。（白宫记者团笔记）",
+          "url": "https://wallstreetcn.com/livenews/3100958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "伊朗官员称美军袭击伊民用船只，已致1死10伤",
@@ -179,15 +258,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗局势似乎进展非常顺利。 看看伊朗能不能达到（美方的要求）。",
+          "url": "https://wallstreetcn.com/livenews/3100953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -207,20 +297,54 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "国家发改委主任郑栅洁赴上海人工智能实验室调研",
+          "url": "https://wallstreetcn.com/livenews/3100979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "私募和AI合体意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
+        {
+          "title": "冲击中国AI融资王！报道：DeepSeek首轮融资目标500亿元，估值或突破3500亿元",
+          "url": "https://wallstreetcn.com/articles/3771864",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "AI狂热已近尾声？“大空头”敲响警钟：市场好似互联网泡沫破裂前夕",
+          "url": "https://www.cls.cn/detail/2366653",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -234,13 +358,46 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
+          "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33126767",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "郑栅洁主任赴上海人工智能实验室调研",
+          "url": "https://flash.jin10.com/detail/20260509094422079800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
           "title": "Anthropic PBC与Akamai签署18亿美元计算协议。Akamai涨幅迅速扩大至28%。",
           "url": "https://wallstreetcn.com/livenews/3100869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         },
@@ -251,9 +408,31 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "Anthropic与Akamai达成价值18亿美元的计算协议。",
@@ -262,7 +441,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         }
@@ -270,7 +449,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "同价买奥迪还是买小米",
@@ -278,11 +457,12 @@
           "source": "微博",
           "ranks": [
             2,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
         },
         {
           "title": "黄仁勋话音刚落，国内光纤厂商披露与华为合作成果",
@@ -292,8 +472,30 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
+        {
+          "title": "曝小米汽车将推独立子品牌「寻天」，首款增程式 SUV 将启用寻天车标，是真的吗？为啥要单独推一个品牌？",
+          "url": "https://www.zhihu.com/question/2036141852990992910",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "time_info": "[10时13分 ~ 10时14分]"
+        },
+        {
+          "title": "小米高管回应保时捷纽北超越SU7",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E5%9B%9E%E5%BA%94%E4%BF%9D%E6%97%B6%E6%8D%B7%E7%BA%BD%E5%8C%97%E8%B6%85%E8%B6%8ASU7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
         },
         {
           "title": "纳斯达克100指数指数涨幅扩大至2.1%，成分股英特尔一度涨18.8%，MNST涨14.6%，美光科技涨13.3%，闪迪涨12.2%，高通涨9.5%，AMD、应用材料、科磊至少涨约6%，思科涨5.2%，阿斯麦ADR涨4.2%，特斯拉涨3.6%，铿腾电子涨1.9%，英伟达涨1.9%，吉利德科学、Workday跌超2.5%，微芯科技跌3.1%，AppLovin跌6.2%，Axon跌7.6%，南美电商MercadoLibre跌12.8%。 半导体指数涨5.2%。标普500指数涨0.8%。",
@@ -302,7 +504,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         }
@@ -310,7 +512,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "证监会查处2起上市公司财务造假案件",
@@ -320,8 +522,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 10时14分]"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3100973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "中国央行逆回购操作当日实现净投放5亿元",
+          "url": "https://flash.jin10.com/detail/20260509092718695800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
+        },
+        {
+          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260509092413930800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时14分"
         },
         {
           "title": "加拿大央行：加拿大各港口面临吞吐能力瓶颈。",
@@ -330,7 +565,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
         }
