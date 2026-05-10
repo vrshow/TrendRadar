@@ -1,22 +1,88 @@
 {
-  "generated_at": "2026-05-10T16:02:30.730762+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2026-05-10T21:04:07.714089+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 39,
+      "match_count": 56,
       "titles": [
         {
-          "title": "伊朗称若敌人再袭将进入新作战领域",
-          "url": "https://wallstreetcn.com/livenews/3101114",
+          "title": "伊朗战争丨伊朗已就美国的提案作出回应",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
+          "url": "https://news.ifeng.com/c/8t0moPsqScq",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：根据拟议计划，现阶段谈判将聚焦于结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510202547607800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://wallstreetcn.com/livenews/3101140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "伊朗对美国提案的回应已通过巴基斯坦转交",
+          "url": "https://flash.jin10.com/detail/20260510202448557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：一艘悬挂巴拿马国旗、驶往巴西的散货船通过了伊朗武装部队指定的霍尔木兹海峡航线。",
+          "url": "https://flash.jin10.com/detail/20260510201816190800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
+          "url": "https://wallstreetcn.com/livenews/3101138",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "21时04分"
         },
         {
           "title": "怕中俄再否决涉伊朗决议，美国删了",
@@ -30,6 +96,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "伊朗摧毁两个与摩萨德有关联的行动组",
+          "url": "https://flash.jin10.com/detail/20260510201134602800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "霍梅尼之孙：伊朗最高领袖对各项事务保持监督",
           "url": "https://wallstreetcn.com/livenews/3101078",
           "source": "华尔街见闻-快讯",
@@ -40,6 +117,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时52分 ~ 10时16分]"
+        },
+        {
+          "title": "伊朗称若敌人再袭将进入新作战领域",
+          "url": "https://wallstreetcn.com/livenews/3101114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 21时04分]"
         },
         {
           "title": "伊官员：伊朗将继续行使自卫权，警惕美方敌对行动",
@@ -99,6 +188,30 @@
           "time_info": "[10时16分 ~ 16时02分]"
         },
         {
+          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
+          "url": "https://wallstreetcn.com/livenews/3101109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 21时04分]"
+        },
+        {
+          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
+          "url": "https://wallstreetcn.com/livenews/3101112",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 21时04分]"
+        },
+        {
           "title": "伊朗外长晒访华视频感谢中国",
           "url": "https://www.toutiao.com/trending/7637769409326776347/",
           "source": "今日头条",
@@ -108,6 +221,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时15分 ~ 10时16分]"
+        },
+        {
+          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
+          "url": "https://wallstreetcn.com/livenews/3101108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 21时04分]"
         },
         {
           "title": "普京：伊朗战事让俄罗斯处境复杂",
@@ -181,26 +306,37 @@
           "time_info": "[10时16分 ~ 16时02分]"
         },
         {
+          "title": "伊朗最高领袖会见武装部队司令",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%9A%E8%A7%81%E6%AD%A6%E8%A3%85%E9%83%A8%E9%98%9F%E5%8F%B8%E4%BB%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
           "title": "伊朗战争丨伊朗足协提出参加世界杯10项条件",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
         {
-          "title": "伊朗军方：对伊制裁国家“在通过霍尔木兹海峡时将面临困难”",
-          "url": "https://wallstreetcn.com/livenews/3101109",
+          "title": "阿联酋称拦截伊朗导弹和无人机",
+          "url": "https://wallstreetcn.com/livenews/3101133",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "21时04分"
         },
         {
           "title": "据以色列第13频道援引以方消息人士称，以军认为当前伊朗势力的局势提供了一个行动契机，有必要重返战场并完成任务。",
@@ -214,17 +350,6 @@
           "time_info": "02时52分"
         },
         {
-          "title": "受伊朗战争推升油价影响，沙特阿美利润飙升26%",
-          "url": "https://wallstreetcn.com/livenews/3101112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "以色列消息人士称，摩萨德认为重启战事将加速伊朗政权恶化，促其走向崩溃。",
           "url": "https://flash.jin10.com/detail/20260510020606602800",
           "source": "金十数据",
@@ -234,17 +359,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "美媒：以色列在伊拉克沙漠建立针对伊朗的秘密基地",
-          "url": "https://wallstreetcn.com/livenews/3101108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "以色列在伊拉克沙漠秘密建造对伊朗作战基地",
@@ -289,6 +403,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "伊朗总统：谈判并非投降，旨在捍卫国家利益",
+          "url": "https://wallstreetcn.com/livenews/3101127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
+          "title": "卡塔尔外交部长告诉伊朗外长，各方应积极响应调解努力，以结束战争。",
+          "url": "https://flash.jin10.com/detail/20260510192604028800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "特朗普：预计“很快”收到伊朗对美方最新和平方案的回应",
@@ -346,6 +482,17 @@
           "time_info": "02时52分"
         },
         {
+          "title": "安全消息人士：无人机袭击了位于伊拉克埃尔比勒以东的伊朗库尔德反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260510185735564800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "伊朗准备全面接管通过霍尔木兹海峡的全部7条海底互联网光缆。",
           "url": "https://flash.jin10.com/detail/20260510011447366800",
           "source": "金十数据",
@@ -355,6 +502,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "阿联酋国防部：空中防御系统成功拦截了两架来自伊朗的无人机。",
+          "url": "https://flash.jin10.com/detail/20260510184402238800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗革命卫队警告：侵犯伊朗船只将引发猛烈打击",
@@ -374,7 +532,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -388,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗武装部队中央司令部指挥官阿卜杜拉希与伊朗最高领袖穆杰塔巴·哈梅内伊会晤。",
+          "url": "https://flash.jin10.com/detail/20260510181956837800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "据伊朗媒体PressTV：伊朗外长表示，停止侵略，放弃过度、不合理的要求是推动外交的必要条件。",
@@ -412,6 +581,17 @@
           "time_info": "10时16分"
         },
         {
+          "title": "据伊朗媒体Fars News：伊朗最高领袖穆杰塔巴·哈梅内伊向伊朗武装部队中央司令部指挥官阿卜杜拉希提出了新的指导方针，以继续开展行动并坚决对抗对手。",
+          "url": "https://flash.jin10.com/detail/20260510181930090800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
+        },
+        {
           "title": "黎巴嫩外交部：在巴林王国揭露与伊朗革命卫队有关联、危害其安全与稳定的组织后，黎方声援巴林。",
           "url": "https://flash.jin10.com/detail/20260510005208719800",
           "source": "金十数据",
@@ -429,9 +609,20 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "伊朗媒体：美F-35战机在阿曼湾上空请求紧急降落",
+          "url": "https://flash.jin10.com/detail/20260510180115271800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         },
         {
           "title": "伊朗官员否认“美国袭击伊朗民用船致多人失踪”消息",
@@ -448,8 +639,20 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时15分 ~ 21时04分]"
+        },
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
           "url": "https://wallstreetcn.com/articles/3771900",
@@ -462,17 +665,6 @@
           "time_info": "[02时52分 ~ 16时02分]"
         },
         {
-          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
-          "url": "https://www.cls.cn/detail/2367077",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时15分 ~ 16时02分]"
-        },
-        {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
           "url": "https://www.cls.cn/detail/2366780",
           "source": "财联社热门",
@@ -481,8 +673,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时52分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 21时04分]"
+        },
+        {
+          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
+          "url": "https://wallstreetcn.com/articles/3771913",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 21时04分]"
         },
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -505,17 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
-        },
-        {
-          "title": "美联储高官：如果AI成了，那会加息；如果AI败了，那会滞胀",
-          "url": "https://wallstreetcn.com/articles/3771913",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
@@ -543,28 +736,6 @@
           "time_info": "[10时15分 ~ 16时02分]"
         },
         {
-          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
-          "url": "https://wallstreetcn.com/livenews/3101113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "妈妈的AI在岁月里具象",
-          "url": "https://www.douyin.com/hot/2494006",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
           "url": "https://wallstreetcn.com/articles/3771893",
           "source": "华尔街见闻",
@@ -577,6 +748,30 @@
           "time_info": "[02时52分 ~ 10时16分]"
         },
         {
+          "title": "妈妈的AI在岁月里具象",
+          "url": "https://www.douyin.com/hot/2494006",
+          "source": "抖音",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 21时04分]"
+        },
+        {
+          "title": "广州推出人工智能场景交易平台，首批49个真实场景订单发布",
+          "url": "https://wallstreetcn.com/livenews/3101113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 21时04分]"
+        },
+        {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
           "url": "https://www.cls.cn/detail/2366815",
           "source": "财联社热门",
@@ -587,6 +782,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时52分 ~ 16时02分]"
+        },
+        {
+          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时15分 ~ 21时04分]"
         },
         {
           "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
@@ -611,6 +818,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时15分 ~ 16时02分]"
+        },
+        {
+          "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
+          "url": "https://www.cls.cn/detail/2367107",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
+          "url": "https://wallstreetcn.com/articles/3771914",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
         },
         {
           "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
@@ -640,17 +869,6 @@
           "source": "微博",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 10时16分]"
-        },
-        {
-          "title": "分析｜受AI热潮与大宗商品价格推动，4月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33143971",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -707,7 +925,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -729,7 +947,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         },
@@ -751,7 +969,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
         }
@@ -759,8 +977,53 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何看待消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万？",
+          "url": "https://www.zhihu.com/question/2036132690630546674",
+          "source": "知乎",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时02分 ~ 21时04分]"
+        },
+        {
+          "title": "长城董事长魏建军现身马拉松赛道",
+          "url": "https://www.toutiao.com/trending/7637803704128897062/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "比亚迪高管回应闪充温度高伤电池，具体说了什么，打消疑虑了吗？",
+          "url": "https://www.zhihu.com/question/2035827458860131259",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
+        {
+          "title": "如何评价蔚来汽车董事长李斌？为什么蔚来汽车董事长李斌能得到这么多互联网大佬的支持帮助和青睐？",
+          "url": "https://www.zhihu.com/question/265062196",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 21时04分]"
+        },
         {
           "title": "比亚迪、小鹏等多家车企辟谣网传约谈名单，该名单为何能快速刷屏？问题根源到底在哪？",
           "url": "https://www.zhihu.com/question/2036439996056457663",
@@ -771,17 +1034,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "如何看待消息称华为 Pura X Max 首销超越所有折叠屏手机，10 天累计激活超 20 万？",
-          "url": "https://www.zhihu.com/question/2036132690630546674",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
         },
         {
           "title": "同价位该买奥迪还是买小米",
