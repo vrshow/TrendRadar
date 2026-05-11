@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-11T17:31:54.210192+08:00",
-  "total_titles_processed": 765,
+  "generated_at": "2026-05-11T22:35:41.676570+08:00",
+  "total_titles_processed": 979,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 41,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
+          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 22时35分]"
+        },
         {
           "title": "放行卡塔尔商船，伊朗向海湾国家释放积极信号",
           "url": "https://news.ifeng.com/c/8t0moPsqScq",
@@ -54,17 +65,6 @@
           "time_info": "[02时52分 ~ 02时53分]"
         },
         {
-          "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
-          "url": "https://news.ifeng.com/c/8t2b0FtT2VP",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时31分]"
-        },
-        {
           "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
           "url": "https://www.cls.cn/detail/2367370",
           "source": "财联社热门",
@@ -93,9 +93,22 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时34分 ~ 22时35分]"
         },
         {
           "title": "伊朗回应美方提议：聚焦结束地区战争 愿就核计划与海峡问题谈判",
@@ -120,6 +133,28 @@
           "time_info": "02时53分"
         },
         {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
+          "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "美国总统特朗普：伊朗将无法再嘲笑美国。",
           "url": "https://flash.jin10.com/detail/20260511020232071800",
           "source": "金十数据",
@@ -131,16 +166,15 @@
           "time_info": "02时53分"
         },
         {
-          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
-          "url": "https://wallstreetcn.com/articles/3771940",
-          "source": "华尔街见闻",
+          "title": "伊朗要求获得霍尔木兹海峡的主权",
+          "url": "https://flash.jin10.com/detail/20260511221544589800",
+          "source": "金十数据",
           "ranks": [
-            10,
-            6
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时34分 ~ 17时31分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -198,6 +232,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "伊朗冲突持续两月有余，美国4月CPI高烧难退？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260511221412931800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "美军：超20艘美国军舰参与对伊朗实施封锁",
           "url": "https://wallstreetcn.com/livenews/3101158",
           "source": "华尔街见闻-快讯",
@@ -207,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
+          "url": "https://wallstreetcn.com/articles/3771985",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗最高领袖会见武装部队司令并下达新指令",
@@ -253,6 +309,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "伊朗国会发言人易卜拉欣·雷扎伊：伊朗核能负责人穆罕默德·埃斯拉米表示，核技术不在谈判范围内，铀浓缩问题不可谈判。",
+          "url": "https://flash.jin10.com/detail/20260511221013701800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "美国能源部长Wright：美国能源部将参与处理伊朗的核材料。",
           "url": "https://wallstreetcn.com/livenews/3101146",
           "source": "华尔街见闻-快讯",
@@ -286,13 +353,24 @@
           "time_info": "02时53分"
         },
         {
+          "title": "据CNN：伊朗希望对霍尔木兹海峡拥有主权。阿曼也对该水道拥有权利。",
+          "url": "https://flash.jin10.com/detail/20260511220813827800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "伊朗外交部发言人：解冻被冻结资产是伊合法权利",
           "url": "https://wallstreetcn.com/livenews/3101497",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -336,9 +414,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "国际金融协会（IIF）：新兴市场投资组合资金流入在四月份回升至583亿美元，此前伊朗战争导致三月份流出662亿美元。",
+          "url": "https://flash.jin10.com/detail/20260511220300677800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "伊朗摧毁两个与摩萨德有关联的行动组",
@@ -369,7 +458,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -396,6 +485,17 @@
           "time_info": "02时53分"
         },
         {
+          "title": "特朗普抨击伊朗对和平计划的回应“不可接受” 美国股市涨势停滞",
+          "url": "https://flash.jin10.com/detail/20260511220039146800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "阿联酋称拦截伊朗导弹和无人机",
           "url": "https://wallstreetcn.com/livenews/3101133",
           "source": "华尔街见闻-快讯",
@@ -405,6 +505,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
+        },
+        {
+          "title": "媒体披露伊朗回应美方的部分内容",
+          "url": "https://www.toutiao.com/trending/7637741427896221746/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "美国驻联合国大使：正在研究由巴基斯坦转交的伊朗回应。",
@@ -465,7 +576,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 21,
+      "match_count": 30,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -507,11 +618,34 @@
           "ranks": [
             10,
             12,
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 17时31分]"
+          "appearance_count": 6,
+          "time_info": "[02时52分 ~ 22时35分]"
+        },
+        {
+          "title": "快手计划分拆可灵AI，融资20亿美元，腾讯参与",
+          "url": "https://wallstreetcn.com/livenews/3101721",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "【每日收评】沪指涨超1%站上4200点，两市成交额突破3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2367918",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "GAI新歌太费口红",
@@ -634,7 +768,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -650,13 +784,46 @@
           "time_info": "02时53分"
         },
         {
+          "title": "OpenAI将向欧盟开放新网络安全模型访问权限，但Anthropic仍对Mythos持保留态度",
+          "url": "https://wallstreetcn.com/livenews/3101712",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "AI正把韩国推成全球最疯狂牛市",
+          "url": "https://www.toutiao.com/trending/7638535831472311827/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "容大感光：在AI算力相关PCB光刻胶领域已进行布局 目前已形成多款产品矩阵",
+          "url": "https://flash.jin10.com/detail/20260511221116614800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器。",
           "url": "https://wallstreetcn.com/livenews/3101503",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -667,9 +834,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "Wedbush分析师怼上“大空头”：“唱衰者自会唱衰”，我预计AI热潮将推动纳指一年内达到万点",
+          "url": "https://wallstreetcn.com/livenews/3101693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         },
         {
           "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
@@ -683,13 +861,24 @@
           "time_info": "10时34分"
         },
         {
+          "title": "布鲁克菲尔德将投资5亿美元，与OpenAI建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3101686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "国务院办公厅：完善人工智能治理，加快推进人工智能健康发展综合性立法",
           "url": "https://flash.jin10.com/detail/20260511171048340800",
           "source": "金十数据",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -703,12 +892,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "OpenAI将收购咨询公司以组建私募股权合资企业",
+          "url": "https://wallstreetcn.com/livenews/3101685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "AI会取代哪些职业？多个AI意见不统一",
+          "url": "https://www.baidu.com/s?wd=AI%E4%BC%9A%E5%8F%96%E4%BB%A3%E5%93%AA%E4%BA%9B%E8%81%8C%E4%B8%9A%EF%BC%9F%E5%A4%9A%E4%B8%AAAI%E6%84%8F%E8%A7%81%E4%B8%8D%E7%BB%9F%E4%B8%80",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "比亚迪高管回应闪充温度高伤电池，具体说了什么，打消疑虑了吗？",
@@ -766,6 +977,28 @@
           "time_info": "[17时29分 ~ 17时31分]"
         },
         {
+          "title": "张雪祝贺吉利汽车意大利夺冠",
+          "url": "https://www.toutiao.com/trending/7638598194062183945/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "比亚迪已建成 5924 座闪充站，累计充电量破 2100 万度，此举将如何提升其市场竞争力？",
+          "url": "https://www.zhihu.com/question/2036182709417005583",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "华为云计划于2026年11月11日00:00（北京时间）正式停售内容审核产品。",
           "url": "https://flash.jin10.com/detail/20260511100016052800",
           "source": "金十数据",
@@ -791,8 +1024,19 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "央行：继续实施好适度宽松的货币政策",
+          "url": "https://www.cls.cn/detail/2368168",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
@@ -806,13 +1050,24 @@
           "time_info": "[02时52分 ~ 10时34分]"
         },
         {
+          "title": "一波金融精英“上岸”证监会！公示名单有看点",
+          "url": "https://www.cls.cn/detail/2368096",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
           "title": "荷兰国际：市场对欧洲央行的加息预期限制欧元跌幅",
           "url": "https://flash.jin10.com/detail/20260511171338154800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
