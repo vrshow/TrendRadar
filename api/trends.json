@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T16:32:26.278398+08:00",
-  "total_titles_processed": 728,
+  "generated_at": "2026-05-12T22:48:47.299011+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 31,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -70,9 +70,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
@@ -158,7 +169,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -168,11 +179,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 22时48分]"
         },
         {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
@@ -193,7 +205,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -204,9 +216,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
@@ -231,6 +265,28 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美国防部：伊朗战争成本已升至约290亿美元 可能进一步上升",
+          "url": "https://flash.jin10.com/detail/20260512222807994800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
+          "title": "美债收益率预测者未受伊朗战争通胀威胁动摇",
+          "url": "https://wallstreetcn.com/livenews/3102374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "白宫新闻副秘书Kelly：美国总统特朗普对伊朗局势拥有各种选项。",
           "url": "https://wallstreetcn.com/livenews/3101813",
           "source": "华尔街见闻-快讯",
@@ -253,6 +309,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "特朗普称阻止伊朗研发核武器“只是时间问题”",
+          "url": "https://wallstreetcn.com/livenews/3102371",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "美国白宫：伊朗政权必须承认哈尔克岛油罐已满的事实 。",
           "url": "https://flash.jin10.com/detail/20260512022754565800",
           "source": "金十数据",
@@ -262,6 +329,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗国防部发言人警告称，如果敌人不通过外交手段接受伊朗的要求，就应该做好在未来任何对抗中“再次失败”的准备。",
+          "url": "https://flash.jin10.com/detail/20260512222333449800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：我们为所有选项做好了准备，他们（美以）将大吃一惊。",
@@ -319,15 +397,37 @@
           "time_info": "03时31分"
         },
         {
+          "title": "伊朗就美在“12日战争”中行为向国际仲裁机构提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3102361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
+        },
+        {
           "title": "伊朗战争以来第四艘卡塔尔液化天然气船在科威特卸货",
           "url": "https://flash.jin10.com/detail/20260512155950598800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
+        },
+        {
+          "title": "特朗普称阻止伊朗研发核武器“只是时间问题”",
+          "url": "https://flash.jin10.com/detail/20260512221536063800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "外交部：伊朗局势当务之急是全力避免战端重启",
@@ -336,7 +436,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -355,7 +455,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -366,8 +466,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 16时32分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 22时48分]"
+        },
+        {
+          "title": "AI巨头面临严峻的“芯片通货膨胀”",
+          "url": "https://www.toutiao.com/trending/7638919710259547689/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "把AI用到了最有意义的场合",
@@ -392,8 +503,33 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 22时48分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            16,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时31分 ~ 16时32分]"
+          "time_info": "[03时31分 ~ 22时48分]"
+        },
+        {
+          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 22时48分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -408,16 +544,15 @@
           "time_info": "[03时31分 ~ 16时32分]"
         },
         {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
+          "title": "香港拓展具身智能产业 深化与内地科创协同合作",
+          "url": "https://wallstreetcn.com/livenews/3102382",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29,
-            16
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 16时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "差点死掉的玻璃厂凭什么成AI的神经",
@@ -437,7 +572,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -448,7 +583,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -481,20 +616,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
         {
-          "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
-          "source": "澎湃新闻",
+          "title": "首届香港具身智能产业峰会聚焦发展路径",
+          "url": "https://flash.jin10.com/detail/20260512222824418800",
+          "source": "金十数据",
           "ranks": [
-            14
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时32分"
+          "time_info": "22时48分"
         },
         {
           "title": "用AI编程Vibe Coding赚钱真的靠谱吗",
@@ -503,7 +638,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -525,7 +660,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -580,7 +715,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -643,7 +778,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -665,7 +800,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -687,7 +822,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         },
@@ -709,7 +844,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时32分"
         }
