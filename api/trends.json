@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T03:31:32.525783+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-12T10:27:40.375489+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
+          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2368275",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
         },
         {
           "title": "美国财政部：伊朗相关制裁新目标包括革命卫队有关的个人和实体。",
@@ -74,17 +86,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "特朗普拒绝伊朗和平提案 美股期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2368275",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
           "title": "美方称“完全不可接受”，伊朗提了哪些要求？",
           "url": "https://news.ifeng.com/c/8t2gHVbjqdI",
           "source": "凤凰网",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "美国财政部：发布新的伊朗相关制裁。",
@@ -107,15 +119,38 @@
           "time_info": "03时31分"
         },
         {
+          "title": "据塔斯社：巴基斯坦驻俄罗斯大使认为，美国不会对伊朗采取新的军事行动。",
+          "url": "https://flash.jin10.com/detail/20260512101118253800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
           "title": "伊朗：谈判优先事项是结束战争，浓缩铀问题适时作出决定",
           "url": "https://wallstreetcn.com/articles/3771985",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "10时27分"
         },
         {
           "title": "据沙特阿拉比亚电视台：消息人士称，伊朗外长阿拉格齐将于本周前往印度新德里，参加5月14日至15日举行的金砖国家外长会议。",
@@ -242,18 +277,53 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
+          "url": "https://wallstreetcn.com/articles/3772036",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
         {
           "title": "把AI用到了最有意义的场合",
           "url": "https://www.douyin.com/hot/2495756",
           "source": "抖音",
           "ranks": [
-            8
+            8,
+            1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
+          "title": "差点死掉的玻璃厂凭什么成AI的神经",
+          "url": "https://www.toutiao.com/trending/7638646924790205990/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "10时27分"
         },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
@@ -289,15 +359,15 @@
           "time_info": "03时31分"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "日本财务大臣片山皋月：意识到 Mythos 及其他先进AI可能构成重大威胁。",
+          "url": "https://wallstreetcn.com/livenews/3101938",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "10时27分"
         },
         {
           "title": "AI正把韩国推成全球最疯狂牛市",
@@ -320,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：与美国财长贝森特举行了会谈，讨论了包括汇率在内的市场情况，还讨论了人工智能和关键矿产问题。",
+          "url": "https://wallstreetcn.com/livenews/3101935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         },
         {
           "title": "Bain & Co.投资OpenAI Deployment Company。",
@@ -358,7 +439,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "央行：继续实施好适度宽松的货币政策",
@@ -372,6 +453,18 @@
           "time_info": "03时31分"
         },
         {
+          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
+          "url": "https://wallstreetcn.com/articles/3771998",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
           "title": "一波金融精英“上岸”证监会！公示名单有看点",
           "url": "https://www.cls.cn/detail/2368096",
           "source": "财联社热门",
@@ -383,43 +476,89 @@
           "time_info": "03时31分"
         },
         {
-          "title": "中国央行Q1货币政策执行报告：继续实施好适度宽松的货币政策，密切关注外部输入型通胀影响",
-          "url": "https://wallstreetcn.com/articles/3771998",
-          "source": "华尔街见闻",
+          "title": "西班牙证监会：前巴萨巨星因参与证券内幕交易被罚",
+          "url": "https://www.cls.cn/detail/2368445",
+          "source": "财联社热门",
           "ranks": [
-            9
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "10时27分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3101946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会对日本央行的具体货币政策工具发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3101937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "比亚迪已建成 5924 座闪充站，累计充电量破 2100 万度，此举将如何提升其市场竞争力？",
           "url": "https://www.zhihu.com/question/2036182709417005583",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
         },
         {
           "title": "张雪祝贺吉利汽车意大利夺冠",
           "url": "https://www.toutiao.com/trending/7638598194062183945/",
           "source": "今日头条",
           "ranks": [
-            14
+            14,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 10时27分]"
+        },
+        {
+          "title": "恒指高开0.34%，报26497.03点；恒生科技指数涨 0.45%。快手涨9.9%，此前报道称快手计划分拆可灵独立上市。中芯国际、携程、蔚来涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3101945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时31分"
+          "time_info": "10时27分"
+        },
+        {
+          "title": "港股汽车股多数上涨，吉利汽车(00175.HK)涨超4%，蔚来汽车(09866.HK)涨超3%，奇瑞汽车(09973.HK)、长城汽车(02333.HK)、理想汽车(02015.HK)跟涨。",
+          "url": "https://flash.jin10.com/detail/20260512094807510800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
