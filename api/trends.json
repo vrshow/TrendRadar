@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T16:38:31.381045+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2026-05-13T22:17:09.123013+08:00",
+  "total_titles_processed": 983,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 30,
+      "match_count": 38,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
@@ -20,13 +20,24 @@
           "time_info": "[03时45分 ~ 10时35分]"
         },
         {
+          "title": "马化腾回应AI掉队",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "港股收盘：恒生指数收涨0.15%，恒生科技指数收涨0.46%。京东涨超8%；港股AI概念股大幅上涨，智谱涨超35%，MINIMAX涨超18%，澜起科技涨超21%。",
           "url": "https://wallstreetcn.com/livenews/3102849",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -37,7 +48,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -48,7 +59,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -64,6 +75,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时45分 ~ 16时38分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 22时17分]"
         },
         {
           "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
@@ -125,6 +148,17 @@
           "time_info": "[03时45分 ~ 10时35分]"
         },
         {
+          "title": "阿里巴巴Q1营收小幅增长，云收入同比增长38%，首次披露AI产品收入规模 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3772187",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "Create2026百度AI开发者大会",
           "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
           "source": "百度热搜",
@@ -147,6 +181,17 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "马化腾：一年前以为上了AI的船结果发现漏水了，现在站上去但还坐不下去",
+          "url": "https://wallstreetcn.com/articles/3772184",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
           "title": "AI会员有必要充吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
           "source": "bilibili 热搜",
@@ -156,6 +201,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "马化腾：1年前以为上了AI的船结果发现漏水，现在站上去但坐不下",
+          "url": "https://tech.ifeng.com/c/8t5w0wxVfbb",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "AI假扮女儿打电话：妈妈开门",
+          "url": "https://www.baidu.com/s?wd=AI%E5%81%87%E6%89%AE%E5%A5%B3%E5%84%BF%E6%89%93%E7%94%B5%E8%AF%9D%EF%BC%9A%E5%A6%88%E5%A6%88%E5%BC%80%E9%97%A8",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "AI续写轻音少女第三季",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -175,18 +253,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -230,7 +297,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -241,7 +308,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -279,6 +346,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "美股开盘，道指跌0.3%、标普500指数涨0.08%、纳指涨0.23%。阿里巴巴(BABA.N)绩后开跌1.7%；AI芯片股走强，高通(QCOM.O)、英特尔(INTC.O)涨约3%，英伟达(NVDA.O)涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20260513213025485800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "贾跃亭出任 FF 全球 CEO，公司将升为物理 AI 生态公司，这是什么概念，市场为何愿意不断为其梦想买单？",
           "url": "https://www.zhihu.com/question/2037128887558207003",
           "source": "知乎",
@@ -307,7 +385,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -321,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "支付宝“AI收”上线新能力",
+          "url": "https://wallstreetcn.com/livenews/3103040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "全国首例AI代写“种草笔记”案宣判",
@@ -348,7 +437,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
@@ -412,7 +501,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -450,6 +539,17 @@
           "time_info": "[03时45分 ~ 10时35分]"
         },
         {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 22时17分]"
+        },
+        {
           "title": "伊拉克巴基斯坦已分别同伊朗签订协议",
           "url": "https://www.toutiao.com/trending/7638201251310764073/",
           "source": "今日头条",
@@ -472,17 +572,6 @@
           "time_info": "03时45分"
         },
         {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
           "title": "伊朗外交部驳斥科威特有关德黑兰计划对其采取行动的说法。",
           "url": "https://wallstreetcn.com/livenews/3102473",
           "source": "华尔街见闻-快讯",
@@ -500,7 +589,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -582,6 +671,17 @@
           "time_info": "03时45分"
         },
         {
+          "title": "伊朗称对霍尔木兹海峡的控制将创造相当于两倍石油收入的收益",
+          "url": "https://flash.jin10.com/detail/20260513212644172800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "伊朗对美国提出的五项谈判先决条件包括战争损害赔偿。",
           "url": "https://wallstreetcn.com/livenews/3102457",
           "source": "华尔街见闻-快讯",
@@ -607,7 +707,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "小米17Max来了",
@@ -621,6 +721,18 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
+          "url": "https://www.zhihu.com/question/2037653159107982760",
+          "source": "知乎",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 22时17分]"
+        },
+        {
           "title": "纯电动汽车保值排名：小米跌出前十",
           "url": "https://www.toutiao.com/trending/7638539260280258579/",
           "source": "今日头条",
@@ -630,6 +742,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时34分 ~ 10时35分]"
+        },
+        {
+          "title": "小米四款新车曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%9B%9B%E6%AC%BE%E6%96%B0%E8%BD%A6%E6%9B%9D%E5%85%89%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "比亚迪方程豹豹8/豹5闪充版上市",
+          "url": "https://www.toutiao.com/trending/7638890947837411378/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
         },
         {
           "title": "小米17Max官宣本月发布",
@@ -643,24 +777,35 @@
           "time_info": "[10时34分 ~ 10时35分]"
         },
         {
+          "title": "小米新耳机将采用全新形态设计",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E6%96%B0%E8%80%B3%E6%9C%BA%E5%B0%86%E9%87%87%E7%94%A8%E5%85%A8%E6%96%B0%E5%BD%A2%E6%80%81%E8%AE%BE%E8%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 22时17分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数涨幅扩大至2%，最新报7154.61点。京东涨超5%，百度、蔚来涨超4%，阿里巴巴、理想汽车、哔哩哔哩涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3103070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "比亚迪正与斯泰兰蒂斯等公司洽谈收购欧洲工厂事宜",
           "url": "https://flash.jin10.com/detail/20260513161456750800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "4 月汽车销量前十名仅剩一款油车，这会成为常态吗？吉利缤越为何能挤进前十？",
-          "url": "https://www.zhihu.com/question/2037653159107982760",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -671,7 +816,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时38分"
         },
@@ -690,8 +835,19 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英国央行MPC成员Mann：近期地缘政治事件已经凸显出英国经济对国际冲击的风险敞口。",
+          "url": "https://wallstreetcn.com/livenews/3103078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
         {
           "title": "泰国央行：二轮通胀效应风险仍然有限。预计明年受供给因素驱动的通胀将减缓。",
           "url": "https://flash.jin10.com/detail/20260513103143686800",
@@ -704,6 +860,17 @@
           "time_info": "10时35分"
         },
         {
+          "title": "据路透调查：56位经济学家中有27位认为英国央行今年将维持银行利率在3.75%；七位经济学家预计至少会有一次降息，22位预计至少会有一次加息。",
+          "url": "https://flash.jin10.com/detail/20260513214808329800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
           "title": "泰国央行：当前政策利率适合支持经济复苏。货币政策应与通胀根源保持一致，而不应对供给侧因素作出反应。预计2026年通胀将因能源价格上涨和成本传导而暂时上升。",
           "url": "https://flash.jin10.com/detail/20260513103054344800",
           "source": "金十数据",
@@ -713,6 +880,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "分析：英国央行短期内或维持利率不变 从而推动短期收益率下行",
+          "url": "https://flash.jin10.com/detail/20260513214601092800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
+        },
+        {
+          "title": "波兰央行委员Kotecki：关于波兰加息的讨论可能在七月开始。",
+          "url": "https://flash.jin10.com/detail/20260513213746025800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "经合组织：日本央行利率到2027年底可能达到2%",
@@ -735,6 +924,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时35分"
+        },
+        {
+          "title": "欧洲央行管委Kocher：我们仍然最接近基线情景。",
+          "url": "https://wallstreetcn.com/livenews/3103039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时17分"
         },
         {
           "title": "泰国央行会议纪要：企业无法将这些成本转嫁给消费者可能导致企业关闭。委员会认为以消费为基础的刺激措施仅能提供短期经济支持。",
