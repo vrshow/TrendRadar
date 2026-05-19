@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-19T17:32:28.160623+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-05-19T22:46:23.066723+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 36,
+      "match_count": 46,
       "titles": [
+        {
+          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
+          "url": "https://wallstreetcn.com/articles/3772569",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 22时46分]"
+        },
         {
           "title": "报道：美方同意在谈判期间暂时豁免对伊朗的石油制裁",
           "url": "https://wallstreetcn.com/articles/3772532",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时31分 ~ 17时32分]"
-        },
-        {
-          "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
-          "url": "https://wallstreetcn.com/articles/3772569",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 17时32分]"
         },
         {
           "title": "伊朗披露穆杰塔巴受伤细节",
@@ -65,6 +66,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美国财政部：各大金融机构需注意伊朗的操控行为。",
+          "url": "https://flash.jin10.com/detail/20260519223527328800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普：取消原定明天对伊朗发动袭击的计划",
           "url": "https://wallstreetcn.com/livenews/3105568",
           "source": "华尔街见闻-快讯",
@@ -82,9 +94,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "伊媒：伊朗格什姆岛传出爆炸声",
+          "url": "https://news.ifeng.com/c/8tG6zVYeyxe",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "美国总统特朗普：已作进一步指示，一旦未能达成可接受的协议，应随时准备立即执行对伊朗的大规模全面军事打击行动。",
@@ -96,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "美国财政部：将制裁伊朗外汇交易所。",
+          "url": "https://flash.jin10.com/detail/20260519223509327800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊朗回应特朗普威胁：我们知道如何应对",
@@ -131,6 +165,17 @@
           "time_info": "03时31分"
         },
         {
+          "title": "美国中央司令部司令Brad Cooper：由于美国军方对伊朗的行动，美国无疑变得更加安全。",
+          "url": "https://flash.jin10.com/detail/20260519223236442800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "伊朗哈尔克岛油轮积压创峰值，美军封锁令原油出口陷入瓶颈",
           "url": "https://wallstreetcn.com/articles/3772533",
           "source": "华尔街见闻",
@@ -142,6 +187,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时31分 ~ 17时32分]"
+        },
+        {
+          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 22时46分]"
         },
         {
           "title": "伊朗称有权对霍尔木兹海峡海底光缆收“管理费”",
@@ -162,18 +220,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 17时32分]"
-        },
-        {
-          "title": "以媒：内塔尼亚胡连续两晚开会，为重启对伊朗战事做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197057",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            11
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -253,9 +299,64 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "伊朗副外长：我们是一个伟大的民族，请将我们的名字载入史册。",
+          "url": "https://flash.jin10.com/detail/20260519222717309800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "特朗普称不考虑向伊朗作任何让步，美官员称美同意暂时豁免对伊石油制裁是假消息",
+          "url": "https://wallstreetcn.com/articles/3772567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "美国中央司令部司令Brad Cooper：伊朗通过弹道导弹以及其在地区的代理力量构成危险，其中最重要的是真主党和哈马斯。",
+          "url": "https://flash.jin10.com/detail/20260519222633843800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "伊朗称在东南部摧毁4个极端组织武装小组",
@@ -264,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -275,9 +376,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "美国中央司令部司令Brad Cooper：伊朗对美国构成威胁，对伊朗人民同样构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260519222527143800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "【特朗普称“不考虑向德黑兰作出任何让步”】在收到伊朗关于旨在结束战事的最新协议草案回复后，美国总统特朗​​普表示，他“不考虑”向德黑兰作出任何让步。特朗普还警告称，伊朗已然知晓“即将发生什么”。 特朗普表示，他对德黑兰的回复并不感到“沮丧”。他同时指出，伊朗完全清楚美国有能力给其造成更沉重的打击。特朗普说：“我可以告诉你，他们现在比以往任何时候都更渴望达成协议，因为他们知道接下来即将发生什么。”（央视）",
@@ -297,7 +409,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -308,7 +420,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -385,7 +497,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -396,7 +508,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -407,7 +519,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         }
@@ -415,7 +527,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
@@ -429,6 +541,20 @@
           "time_info": "[03时31分 ~ 10时40分]"
         },
         {
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            4,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 22时46分]"
+        },
+        {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
           "url": "https://wallstreetcn.com/articles/3772508",
           "source": "华尔街见闻",
@@ -440,28 +566,15 @@
           "time_info": "[03时31分 ~ 10时40分]"
         },
         {
-          "title": "AI恶意P图白嫖,卖家哭晕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            4,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 17时32分]"
-        },
-        {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://www.cls.cn/detail/2375378",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "22时46分"
         },
         {
           "title": "马斯克起诉OpenAI为何败诉",
@@ -470,7 +583,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -481,9 +594,104 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
+          "url": "https://www.cls.cn/detail/2375439",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
+        },
+        {
+          "title": "圆桌｜AI新叙事下，投资人更关注什么？从宏大叙事转向“软基建”与“活得久”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33189236",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
         },
         {
           "title": "感觉AI治好了我多年的老花眼",
@@ -497,6 +705,28 @@
           "time_info": "[10时39分 ~ 10时40分]"
         },
         {
+          "title": "美国参议院多数党领袖图恩：预计参议院将在今年推进人工智能框架。",
+          "url": "https://flash.jin10.com/detail/20260519223122616800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
+          "url": "https://www.cls.cn/detail/2375797",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "市场消息：内部文件显示，Meta Platforms(META.O)北美员工被告知周三在家办公。Meta将把7000名员工转移到与人工智能工作流程相关的新项目，并取消管理职位。",
           "url": "https://flash.jin10.com/detail/20260519025828812800",
           "source": "金十数据",
@@ -506,17 +736,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "杭州公司推宠物翻译神器，大模型 + 超 500 万条声纹数据，号称准确率 94%，是真突破还是智商税？",
@@ -541,15 +760,15 @@
           "time_info": "03时31分"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
+          "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
+          "url": "https://www.cls.cn/detail/2375531",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "22时46分"
         },
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -558,31 +777,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
         {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
+          "title": "港股电力股再度集体走强 AI算力竞赛或进入“抢电”阶段",
+          "url": "https://www.cls.cn/detail/2375347",
+          "source": "财联社热门",
           "ranks": [
-            11
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "22时46分"
         },
         {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
+          "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
+          "source": "澎湃新闻",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "22时46分"
         },
         {
           "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
@@ -591,20 +810,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
         {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
+          "title": "金禄电子在互动平台表示，公司PCB产品有应用于物理AI，但目前相关领域收入占比较低，尚未对公司业绩构成重大影响。",
+          "url": "https://flash.jin10.com/detail/20260519221828822800",
+          "source": "金十数据",
           "ranks": [
-            16
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时32分"
+          "time_info": "22时46分"
         },
         {
           "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
@@ -616,17 +835,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
-        },
-        {
-          "title": "圆桌｜AI新叙事下，投资人更关注什么？从宏大叙事转向“软基建”与“活得久”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189236",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
         },
         {
           "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
@@ -646,7 +854,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -662,13 +870,24 @@
           "time_info": "03时31分"
         },
         {
+          "title": "华为金志国：F5G-A全光网是支撑AI普及落地的最优网络底座",
+          "url": "https://wallstreetcn.com/livenews/3106099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "中美同意开展人工智能政府间对话",
           "url": "https://www.toutiao.com/trending/7641151190163787270/",
           "source": "今日头条",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -698,18 +917,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价小米 YU7 GT 刷新纽北 SUV 圈速纪录，任周灿成为首个获得纽北官方圈速认证的中国车手？",
           "url": "https://www.zhihu.com/question/2040011439595861010",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 22时46分]"
         },
         {
           "title": "小米汽车为寻天引入新电池供应商",
@@ -751,9 +971,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "“叫的特斯拉来的比亚迪” 平台回应",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%8F%AB%E7%9A%84%E7%89%B9%E6%96%AF%E6%8B%89%E6%9D%A5%E7%9A%84%E6%AF%94%E4%BA%9A%E8%BF%AA%E2%80%9D+%E5%B9%B3%E5%8F%B0%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "苹果、华为、小米集体官宣降价，如何看待这波降价促销？降价策略还能像以前那样有效拉动销量吗？",
@@ -792,7 +1023,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "IMF：英国央行无需加息，甚至可能需要降息",
@@ -812,7 +1043,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -823,9 +1054,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "贝森特：若获独立性，日本央行将会采取必要行动",
+          "url": "https://flash.jin10.com/detail/20260519221812386800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日5亿元逆回购到期。",
