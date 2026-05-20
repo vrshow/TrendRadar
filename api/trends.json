@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T16:58:16.635143+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-05-20T22:54:22.972692+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 16时58分]"
+          "appearance_count": 5,
+          "time_info": "[10时40分 ~ 22时54分]"
         },
         {
           "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
@@ -41,6 +42,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时41分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时46分 ~ 22时54分]"
         },
         {
           "title": "受Mythos大模型冲击，华尔街监管机构紧急暂停部分银行网络安全检查",
@@ -85,19 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
-        },
-        {
-          "title": "中美同意开展人工智能政府间对话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时46分 ~ 16时58分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -233,7 +235,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -288,7 +290,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -340,7 +342,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊媒：伊朗格什姆岛传出爆炸声",
@@ -365,24 +367,23 @@
           "time_info": "03时46分"
         },
         {
+          "title": "特朗普说在伊朗问题上内塔尼亚胡“听我的”",
+          "url": "https://wallstreetcn.com/livenews/3106805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "秘密袭击伊朗，野心与压力碰撞下阿联酋正将海湾变成前线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33197672",
           "source": "澎湃新闻",
           "ranks": [
             12,
             5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 10时41分]"
-        },
-        {
-          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -396,8 +397,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时54分]"
+        },
+        {
+          "title": "释新闻｜伊朗威胁对霍尔木兹海峡海底电缆收费，可行性有多大？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197944",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时46分 ~ 10时41分]"
         },
         {
           "title": "特朗普称或再次打击伊朗 伊方警告将“开辟新战线”",
@@ -439,7 +452,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -499,6 +512,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "美中央司令部司令就伊朗小学遭袭接受质询",
+          "url": "https://wallstreetcn.com/livenews/3106784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "美国副总统万斯称，“无法说我们对‘将与伊朗达成一份协议’有信心”。WTI原油期货跌幅收窄至0.7%，重返103.65美元一线。",
           "url": "https://wallstreetcn.com/livenews/3106199",
           "source": "华尔街见闻-快讯",
@@ -535,7 +559,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "王力宏腾势发布会现场承认用代言费买比亚迪股票，直言若十年前入手早已翻倍，「代言变股东」的操作你怎么看？",
@@ -564,11 +588,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354453&amp;topic_name=%E8%87%AA%E5%AA%92%E4%BD%93%E9%BB%91%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A2%AB%E7%BD%9A200W",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时57分 ~ 16时58分]"
+          "appearance_count": 3,
+          "time_info": "[16时57分 ~ 22时54分]"
         },
         {
           "title": "护士“顶车救人”获赠新车决定捐出",
@@ -610,9 +635,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "女护士「顶车救人」获赠新车后拍卖捐出，如何看待这种善举的延续？",
+          "url": "https://www.zhihu.com/question/2040093204977078961",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "华为轮值董事长徐直军访问东风汽车 启动全面深化战略合作2.0阶段",
@@ -662,8 +698,41 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "英国央行行长贝利：我们没有看到国债市场出现无序状况。",
+          "url": "https://flash.jin10.com/detail/20260520223926869800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "交易员不再充分消化英国央行在2026年两次加息的预期。",
+          "url": "https://wallstreetcn.com/livenews/3106804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "市场定价显示，交易员不再完全预期2026年将有两次英国央行加息。",
+          "url": "https://flash.jin10.com/detail/20260520223443864800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
         {
           "title": "日本内阁官房长官木原稔：预计日本央行将采取政策以实现2%的CPI目标，货币政策的具体细节应由日本央行决定。",
           "url": "https://wallstreetcn.com/livenews/3106384",
@@ -682,9 +751,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "英国央行行长贝利：人们选择留职，而不是变换。 （经济）增长的季节性特征已经发生变化。",
+          "url": "https://wallstreetcn.com/livenews/3106786",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "印尼央行意外加息50个基点以捍卫印尼盾汇率",
@@ -693,7 +773,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
         },
@@ -715,9 +795,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
+        },
+        {
+          "title": "英国央行副行长Breeden：企业称他们没有填补那些离职的员工，这让人感到震惊。 这样的决定有利于生产力，却不利于那些入门级岗位。 数据表明，劳动力市场存在闲置，（企业）调整薪资的压力降低。",
+          "url": "https://wallstreetcn.com/livenews/3106780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     }
