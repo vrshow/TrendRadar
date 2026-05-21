@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T10:43:20.259854+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-05-21T17:27:04.537404+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国财长贝森特：在巴黎与卡塔尔财政大臣讨论了伊朗问题。",
@@ -41,6 +41,39 @@
           "time_info": "[04时05分 ~ 04时06分]"
         },
         {
+          "title": "伊朗公布霍尔木兹海峡管辖范围",
+          "url": "https://news.ifeng.com/c/8tIkZlDrzuR",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 83 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040565738411221984",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "伊朗评估美方最新谈判意见，巴基斯坦被曝或加强斡旋",
+          "url": "https://flash.jin10.com/detail/20260521171604362800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "美国已经向伊朗发送新文本。 伊朗正在审阅，尚未做出回应。（伊朗媒体Tasnim）",
           "url": "https://wallstreetcn.com/livenews/3106888",
           "source": "华尔街见闻-快讯",
@@ -50,6 +83,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "阿联酋称伊朗企图控制霍尔木兹海峡是“白日做梦”。",
+          "url": "https://wallstreetcn.com/livenews/3107324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "伊朗总统会见巴内政部长，讨论伊美间接谈判等议题",
@@ -63,6 +107,39 @@
           "time_info": "04时06分"
         },
         {
+          "title": "“不可能”正在变成现实：伊朗冲突引发亚洲货币与债券市场极端看空情境",
+          "url": "https://wallstreetcn.com/livenews/3107321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "阿联酋总统顾问安瓦尔：伊朗企图控制霍尔木兹海峡是“白日做梦”。",
+          "url": "https://flash.jin10.com/detail/20260521170733982800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "伊朗正在对美方发出的信息作出回应。伊朗正讨论框架和建立信任的步骤。（伊朗学生通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3107318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
           "title": "伊朗提出与阿曼合作建设霍尔木兹海峡长期安全机制",
           "url": "https://wallstreetcn.com/livenews/3106881",
           "source": "华尔街见闻-快讯",
@@ -72,6 +149,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时06分"
+        },
+        {
+          "title": "巴基斯坦内政部长与伊朗外长会谈 讨论双边关系等问题",
+          "url": "https://wallstreetcn.com/livenews/3107316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "特朗普：（关于伊朗）无论如何，这将很快结束。",
@@ -91,9 +179,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "伊朗媒体：20名伊朗船员经外交斡旋回国",
+          "url": "https://wallstreetcn.com/livenews/3107314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
         },
         {
           "title": "伊朗东南部发生针对安全人员袭击事件，致死一人",
@@ -198,8 +297,53 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "智能体重塑AI算力秩序 CPU或成英伟达下一个增长引擎",
+          "url": "https://www.cls.cn/detail/2377636",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 17时27分]"
+        },
         {
           "title": "中美同意开展人工智能政府间对话",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
@@ -211,6 +355,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时05分 ~ 10时43分]"
+        },
+        {
+          "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
+          "url": "https://wallstreetcn.com/articles/3772780",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
+          "url": "https://www.cls.cn/detail/2377977",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "三星“百万亿级”罢工戏剧性刹车，劳资博弈如何分配AI狂潮下的巨额利润",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204487",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "阿里云陈宇森透露 MuleRun 为阿里产品，AI Native 转型窗口期仅 18 个月，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2040758441325618022",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
         },
         {
           "title": "摩根士丹利：AI并购潮呈现“全谱系”发展趋势",
@@ -252,7 +440,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -263,18 +451,103 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
         {
-          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
-          "source": "澎湃新闻",
+          "title": "腾讯会议推出“AI同传”功能",
+          "url": "https://wallstreetcn.com/livenews/3107303",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            27
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "顶车救人女司机获赠现场捐新车",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%B6%E8%BD%A6%E6%95%91%E4%BA%BA%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%8E%B7%E8%B5%A0%E7%8E%B0%E5%9C%BA%E6%8D%90%E6%96%B0%E8%BD%A6%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "自媒体黑比亚迪被罚200W",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354453&amp;topic_name=%E8%87%AA%E5%AA%92%E4%BD%93%E9%BB%91%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A2%AB%E7%BD%9A200W",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时05分 ~ 17时27分]"
+        },
+        {
+          "title": "雷军回应小米 YU7 GT 定价，「肯定会有点小贵」，售价大概会落在什么区间？产品实力能否撑起售价？",
+          "url": "https://www.zhihu.com/question/2040491234955894920",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "女护士「顶车救人」获赠新车后拍卖捐出，如何看待这种善举的延续？",
+          "url": "https://www.zhihu.com/question/2040093204977078961",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 04时06分]"
+        },
+        {
+          "title": "蔚来是怎么通过换电解决电池衰减问题的，难道每次都是换的新电池？",
+          "url": "https://www.zhihu.com/question/2038837526228645684",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 17时27分]"
+        },
+        {
+          "title": "比亚迪辟谣收购玛莎拉蒂",
+          "url": "https://wallstreetcn.com/livenews/3107326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时27分"
+        },
+        {
+          "title": "山西通报“明长城被煤矿长期破坏”",
+          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E2%80%9C%E6%98%8E%E9%95%BF%E5%9F%8E%E8%A2%AB%E7%85%A4%E7%9F%BF%E9%95%BF%E6%9C%9F%E7%A0%B4%E5%9D%8F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
@@ -291,7 +564,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -302,7 +575,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -313,7 +586,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -335,58 +608,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "顶车救人女司机获赠现场捐新车",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A1%B6%E8%BD%A6%E6%95%91%E4%BA%BA%E5%A5%B3%E5%8F%B8%E6%9C%BA%E8%8E%B7%E8%B5%A0%E7%8E%B0%E5%9C%BA%E6%8D%90%E6%96%B0%E8%BD%A6%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "自媒体黑比亚迪被罚200W",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354453&amp;topic_name=%E8%87%AA%E5%AA%92%E4%BD%93%E9%BB%91%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%A2%AB%E7%BD%9A200W",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            13
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时05分 ~ 10时43分]"
-        },
-        {
-          "title": "女护士「顶车救人」获赠新车后拍卖捐出，如何看待这种善举的延续？",
-          "url": "https://www.zhihu.com/question/2040093204977078961",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 04时06分]"
-        },
-        {
-          "title": "山西通报“明长城被煤矿长期破坏”",
-          "url": "https://www.baidu.com/s?wd=%E5%B1%B1%E8%A5%BF%E9%80%9A%E6%8A%A5%E2%80%9C%E6%98%8E%E9%95%BF%E5%9F%8E%E8%A2%AB%E7%85%A4%E7%9F%BF%E9%95%BF%E6%9C%9F%E7%A0%B4%E5%9D%8F%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
