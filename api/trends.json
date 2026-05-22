@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T10:44:12.943748+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-05-22T16:53:32.890269+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 22,
+      "match_count": 32,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -41,6 +41,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
           "url": "https://www.zhihu.com/question/2040738759281473391",
           "source": "知乎",
@@ -61,6 +72,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "郝哥李广奇回应AI买瓜",
+          "url": "https://search.bilibili.com/all?keyword=%E9%83%9D%E5%93%A5%E6%9D%8E%E5%B9%BF%E5%A5%87%E5%9B%9E%E5%BA%94AI%E4%B9%B0%E7%93%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "【每日收评】沪指放量跌超2%失守4100点，AI硬件与半导体等热门赛道大幅回调",
@@ -90,11 +123,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 16时53分]"
         },
         {
           "title": "用上AI后工作时间反而更长了",
@@ -130,6 +164,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "困扰人类80年的数学难题，被AI破解了！奥特曼：感受很复杂",
           "url": "https://wallstreetcn.com/articles/3772780",
           "source": "华尔街见闻",
@@ -141,6 +186,50 @@
           "time_info": "03时46分"
         },
         {
+          "title": "朱自清散文AI率超60%",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9C%B1%E8%87%AA%E6%B8%85%E6%95%A3%E6%96%87AI%E7%8E%87%E8%B6%8560%25%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "朱自清《荷塘月色》AI率超60%",
+          "url": "https://www.toutiao.com/trending/7642580693547057188/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "特朗普密集谈伊朗、关税与AI，称美国将获得伊浓缩铀、重申伊不能拥有核武",
+          "url": "https://wallstreetcn.com/articles/3772862",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "安联研究：欧洲需在AI领域联合行动以防依赖",
+          "url": "https://flash.jin10.com/detail/20260522162909496800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "据The Information：Anthropic的年化收入近期达到接近450亿美元水平，超过了OpenAI的250亿美元。",
           "url": "https://flash.jin10.com/detail/20260522022949905800",
           "source": "金十数据",
@@ -150,6 +239,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "固态电池产业化持续推进 新材料技术迭代有望打开增量空间",
+          "url": "https://www.cls.cn/detail/2378536",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "据The Information：OpenAI在第一季度创造了57亿美元的收入，领先竞争对手Anthropic 10亿美元",
@@ -202,7 +302,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -224,7 +324,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -238,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "港股收评：科指高开高走收涨2.11% 半导体、AI应用板块领涨大盘",
+          "url": "https://flash.jin10.com/detail/20260522161655999800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "Kepler依托Claude构建金融服务业可验证AI架构",
@@ -254,7 +365,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "“八败两胜”后小米YU7标准版“临时”下调定价 再战特斯拉Model Y",
@@ -280,6 +391,42 @@
           "time_info": "[03时46分 ~ 10时44分]"
         },
         {
+          "title": "小米YU7GT独家评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时53分]"
+        },
+        {
+          "title": "小米新品发布会：大屏旗舰17 Max售价4799元起，跑车级SUV YU7 GT震撼上市",
+          "url": "https://wallstreetcn.com/articles/3772841",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时53分]"
+        },
+        {
+          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时53分]"
+        },
+        {
           "title": "小米新品发布会",
           "url": "https://www.douyin.com/hot/2507460",
           "source": "抖音",
@@ -289,39 +436,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时46分 ~ 10时44分]"
-        },
-        {
-          "title": "小米YU7GT独家评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "小米新品发布会：大屏旗舰17 Max售价4799元起，跑车级SUV YU7 GT震撼上市",
-          "url": "https://wallstreetcn.com/articles/3772841",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "小米YU7 GT正式发布：38.99万元起售，雷军称销量输给特斯拉不丢人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205624",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "雷军报完新车售价边看手表边下台",
@@ -390,6 +504,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "雷军：“媲美保时捷和特斯拉”不是吹嘘，希望大家有耐心再等小米5年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "正考虑收购玛莎拉蒂？比亚迪回应",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A3%E8%80%83%E8%99%91%E6%94%B6%E8%B4%AD%E7%8E%9B%E8%8E%8E%E6%8B%89%E8%92%82%EF%BC%9F%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -401,6 +526,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
+          "url": "https://www.zhihu.com/question/2040888661999350787",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "小米发布首款耳夹式耳机 首销价799元",
           "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E8%80%B3%E5%A4%B9%E5%BC%8F%E8%80%B3%E6%9C%BA+%E9%A6%96%E9%94%80%E4%BB%B7799%E5%85%83",
           "source": "百度热搜",
@@ -410,6 +546,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "比亚迪官宣5月28日举办智能化战略发布会",
+          "url": "https://wallstreetcn.com/livenews/3107907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "小米YU7首战ModelY八败两胜",
@@ -470,7 +617,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗局势主导市场，纳指惊险收涨，道指收创新高，原油冲高转跌，美债走势分化",
@@ -480,8 +627,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[10时43分 ~ 16时53分]"
         },
         {
           "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
@@ -492,8 +639,19 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 16时53分]"
+        },
+        {
+          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
+          "url": "https://wallstreetcn.com/articles/3772830",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时46分 ~ 10时44分]"
+          "time_info": "[10时43分 ~ 16时53分]"
         },
         {
           "title": "特朗普再威胁伊朗交出浓缩铀 欧盟被爆考虑重启与俄正式沟通 | 环球市场",
@@ -507,15 +665,16 @@
           "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "伊朗：美方谈判文本在一定程度上“缩小了分歧”，伊方“正在回应”",
-          "url": "https://wallstreetcn.com/articles/3772830",
-          "source": "华尔街见闻",
+          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            18,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "time_info": "[03时46分 ~ 16时53分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗总统佩泽希齐扬称，不会在谈判中退让。",
@@ -551,15 +710,37 @@
           "time_info": "03时46分"
         },
         {
-          "title": "伊朗最高领袖下令：接近武器级的铀必须留在国内",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33205517",
-          "source": "澎湃新闻",
+          "title": "“是偶然还是趋势？” 伊朗冲突颠覆50万亿美元主权债市场中的通胀观点",
+          "url": "https://wallstreetcn.com/livenews/3107906",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时46分"
+          "time_info": "16时53分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗问题已有小幅进展。",
+          "url": "https://flash.jin10.com/detail/20260522162134371800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗正试图在霍尔木兹海峡建立收费系统，任何国家都不应接受这一做法。",
+          "url": "https://flash.jin10.com/detail/20260522162046116800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "伊朗外交部：现阶段谈判重点是结束所有战线战争",
@@ -576,8 +757,63 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "【老虎回应遭证监会立案：将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常】今日，证监会宣布，对Tiger Brokers (NZ) Limited、富途证券国际（香港）有限公司、长桥证券（香港）有限公司境内外相关主体在境内非法经营证券业务等行为立案调查并作出行政处罚事先告知。老虎方面回应称，“公司已注意到相关通知，将严格按照监管要求积极配合相关工作，目前公司各项业务运营正常。老虎始终将合规置于首位，并持续与监管机构保持密切沟通。”（蓝鲸新闻）",
+          "url": "https://wallstreetcn.com/livenews/3107932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "证监会：整治非法跨境证券展业，投资者的财产安全不受整治影响",
+          "url": "https://wallstreetcn.com/livenews/3107921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "中国证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://wallstreetcn.com/livenews/3107919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "证监会：非法跨境经营境外机构及协助其非法跨境经营的境内相关主体均纳入整治范围",
+          "url": "https://wallstreetcn.com/livenews/3107916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "证监会等八部门：设置2年集中整治期，全面取缔境外证券期货基金经营机构非法跨境经营活动",
+          "url": "https://wallstreetcn.com/livenews/3107914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
         {
           "title": "中国央行公开市场开展1530亿元7天期逆回购操作，操作利率1.40%，持平上日。今日5亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3107693",
@@ -585,7 +821,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -596,9 +832,53 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "中国证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://flash.jin10.com/detail/20260522162043094800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "证监会拟严厉处罚老虎、富途、长桥",
+          "url": "https://www.baidu.com/s?wd=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A%E8%80%81%E8%99%8E%E3%80%81%E5%AF%8C%E9%80%94%E3%80%81%E9%95%BF%E6%A1%A5",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "证监会严肃查处老虎等机构非法跨境展业案件。",
+          "url": "https://flash.jin10.com/detail/20260522161834862800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "《综合整治非法跨境证券期货基金经营活动实施方案》明确的整治对象有哪些？证监会回应",
+          "url": "https://flash.jin10.com/detail/20260522161654464800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
