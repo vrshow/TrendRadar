@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-23T03:27:24.751886+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-23T10:29:38.074773+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "鲁比奥：伊朗问题确实有一些进展",
           "url": "https://news.ifeng.com/c/8tKwzchzUFC",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
+        },
+        {
+          "title": "美媒：伊朗革命卫队训练人员密谋刺杀特朗普长女伊万卡",
+          "url": "https://flash.jin10.com/detail/20260523095127844800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "10时29分"
         },
         {
           "title": "受伊朗战争重创，全球航运巨头达飞海运第一季度利润暴跌",
@@ -28,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普开会商讨是否对伊朗发动新打击 周末将“坐镇白宫”",
+          "url": "https://wallstreetcn.com/livenews/3108300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击",
+          "url": "https://news.ifeng.com/c/8tLyq3d0i0r",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "据半岛电视台：一位伊朗消息人士表示，目前尚未达成任何最终协议，双方正在努力缩小差距，停止所有战线的战争是未来任何谈判的基本前提。",
@@ -48,8 +82,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         },
         {
           "title": "【伊朗外交部发言人：伊美分歧严重，难言协议接近达成】伊朗外交部发言人巴加埃22日表示，当前无法断言伊美协议已接近达成，双方分歧依然严重。据伊朗媒体22日报道，巴加埃谈及巴基斯坦高级官员访问德黑兰时说，这表明当前局势已进入“转折点或决定性阶段”。他提到，巴基斯坦陆军参谋长穆尼尔已访问德黑兰，相关沟通仍在进行中。在回答“这是否意味着谈判进程发生变化”时，巴加埃说，目前不能说伊美协议已接近达成，伊美之间存在严重且广泛的分歧，“外交是一个耗时的过程”。巴加埃说，不能期待通过数轮往返磋商，就可能在数周或数月内看到结果。他强调，外交谈判本身是长期过程，双方正利用各种机会传递各自立场。（新华社）",
@@ -72,6 +106,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "【美伊协议草案或将在数小时内公布】据沙特阿拉伯阿拉比亚电视台报道，消息人士22日透露，美国和伊朗“接近达成”的协议草案预计将在数小时内公布。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3108290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "拉夫罗夫：俄坚决反对再次发生针对伊朗的武装侵略",
+          "url": "https://wallstreetcn.com/livenews/3108289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "伊朗外交部发言人：当前伊美谈判不涉及核问题",
@@ -173,6 +229,39 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国与北约盟国正在讨论一项“B计划”，以应对伊朗拒绝重新开放霍尔木兹海峡的情况；部分北约国家可能支持采取应对措施。",
+          "url": "https://flash.jin10.com/detail/20260523083955929800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://wallstreetcn.com/livenews/3108288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
+          "title": "据伊朗国家媒体报道，伊朗军方已进入最高戒备状态。",
+          "url": "https://flash.jin10.com/detail/20260523083809091800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "共和党参议员：美国应完成摧毁伊朗常规军事能力的行动",
           "url": "https://wallstreetcn.com/livenews/3108186",
           "source": "华尔街见闻-快讯",
@@ -193,12 +282,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "知情人士：美筹备对伊朗发动新一轮军事打击 但仍未最终决定",
+          "url": "https://flash.jin10.com/detail/20260523083401521800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "证监会等八部门：全面取缔境外证券期货基金非法跨境经营活动，设置两年集中整治期",
@@ -208,8 +308,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         },
         {
           "title": "整治非法跨境证券期货基金经营活动，证监会等八部门联合出手",
@@ -217,17 +317,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "证监会拟对老虎富途长桥严厉处罚",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E5%AF%B9%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -249,22 +338,59 @@
           "url": "https://wallstreetcn.com/articles/3772942",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         },
         {
           "title": "证监会：拟对老虎、富途、长桥依法严厉处罚",
           "url": "https://wallstreetcn.com/articles/3772919",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
+        },
+        {
+          "title": "证监会拟对老虎富途长桥严厉处罚",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%81%E7%9B%91%E4%BC%9A%E6%8B%9F%E5%AF%B9%E8%80%81%E8%99%8E%E5%AF%8C%E9%80%94%E9%95%BF%E6%A1%A5%E4%B8%A5%E5%8E%89%E5%A4%84%E7%BD%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
+        },
+        {
+          "title": "证监会拟对老虎富途长桥严厉处罚",
+          "url": "https://www.douyin.com/hot/2508493",
+          "source": "抖音",
+          "ranks": [
+            16,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
+        },
+        {
+          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://www.cls.cn/detail/2379666",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时27分"
+          "time_info": "10时29分"
         },
         {
           "title": "结束“地量”操作！央行25日开展6000亿元MLF操作 5月下旬流动性扰动因素增加",
@@ -276,23 +402,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "证监会拟对老虎富途长桥严厉处罚",
-          "url": "https://www.douyin.com/hot/2508493",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -306,22 +421,34 @@
           "time_info": "03时27分"
         },
         {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
+        },
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
+        },
+        {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
           "url": "https://www.cls.cn/detail/2379110",
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
-        },
-        {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -337,6 +464,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -371,22 +509,24 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33206353",
           "source": "澎湃新闻",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         },
         {
           "title": "小米YU7GT独家评测",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%B1%B3YU7GT%E7%8B%AC%E5%AE%B6%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         },
         {
           "title": "小米 17Max 手机正式发布，起售价 4799 元，有哪些亮点？你认为值得购买吗？",
@@ -396,8 +536,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时27分"
+          "appearance_count": 2,
+          "time_info": "[03时27分 ~ 10时29分]"
         }
       ]
     }
