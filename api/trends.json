@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T10:39:22.499013+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-05-24T16:22:06.643534+08:00",
+  "total_titles_processed": 710,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 35,
+      "match_count": 48,
       "titles": [
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
@@ -20,6 +20,17 @@
           "time_info": "[03时01分 ~ 10时39分]"
         },
         {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://news.ifeng.com/c/8tNveTJoK6i",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
           "title": "据Axios报道，一名以色列官员称，美国总统特朗普预计将在周六与以色列总理内塔尼亚胡通话，讨论正在酝酿中的伊朗协议。",
           "url": "https://flash.jin10.com/detail/20260524023014038800",
           "source": "金十数据",
@@ -29,6 +40,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据路透社：伊朗高级消息人士表示，如果伊朗最高国家安全委员会批准该谅解备忘录，将会提交给最高领袖伊朗最高领袖哈梅内伊进行最终批准。",
+          "url": "https://flash.jin10.com/detail/20260524161143643800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时22分]"
         },
         {
           "title": "两名了解谈判情况的巴基斯坦消息人士称，伊朗和巴基斯坦已向美国提交了修订后的提议，内容包括结束战争、开放霍尔木兹海峡。",
@@ -65,6 +99,28 @@
           "time_info": "[03时01分 ~ 10时39分]"
         },
         {
+          "title": "伊朗战争距离真正结束，就差临门一脚了",
+          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时22分]"
+        },
+        {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://www.douyin.com/hot/2510293",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
           "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
           "url": "https://news.ifeng.com/c/8tMZVeAyacg",
           "source": "凤凰网",
@@ -76,37 +132,70 @@
           "time_info": "03时01分"
         },
         {
-          "title": "伊朗战争距离真正结束，就差临门一脚了",
-          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
-        {
           "title": "美国官员：在特朗普所称协议中，伊朗同意放弃高浓缩铀",
           "url": "https://flash.jin10.com/detail/20260524091450206800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
-          "url": "https://wallstreetcn.com/articles/3772980",
-          "source": "华尔街见闻",
+          "title": "英国首相斯塔默：伊朗绝不能被允许发展核武器，这是至关重要的。",
+          "url": "https://flash.jin10.com/detail/20260524155958178800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "伊朗方面披露美伊或将签署的备忘录内容细节",
+          "url": "https://wallstreetcn.com/livenews/3108462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "英国首相斯塔默：我欢迎美国与伊朗之间关于达成协议的进展。",
+          "url": "https://flash.jin10.com/detail/20260524155919292800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "16时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：周日晚些时候可能会宣布与伊朗达成的协议。",
+          "url": "https://flash.jin10.com/detail/20260524155810265800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗经济正在完全崩溃。",
+          "url": "https://flash.jin10.com/detail/20260524155512221800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "巴基斯坦陆军声明：元帅/陆军参谋长赛义德·阿西姆·穆尼尔圆满结束访伊行程。 参谋长对伊朗的访问“成果丰硕”。 会谈对调解进程做出了实质性贡献。 （美国与伊朗）朝着达成最终谅解取得了令人鼓舞的进展。 访问期间，穆尼尔元帅与伊朗领导层进行了多场高规格的密集会晤。他先后拜会了伊朗总统、伊朗议会议长、伊朗外交部长以及伊朗内政部长。 双方的会谈核心始终聚焦于如何加速推进目前正在进行的协商进程，以全力支持和维护中东及周边地区的和平与稳定。 声明特别指出，过去24小时内的密集谈判已经取得了令人鼓舞的突破性进展，双方正加速朝着达成最终谅解备忘录的方向迈进。",
@@ -142,6 +231,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美国国务卿鲁比奥：我们将消除伊朗制造新导弹的能力。",
+          "url": "https://flash.jin10.com/detail/20260524155309129800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "沙特媒体：伊朗欲以开放霍尔木兹海峡换美国赔偿",
           "url": "https://wallstreetcn.com/livenews/3108396",
           "source": "华尔街见闻-快讯",
@@ -151,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊总统：没有伊朗最高领袖的批准，任何决定都无法作出",
+          "url": "https://flash.jin10.com/detail/20260524154737398800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美以袭击伊朗进入第 85 天，当前局势如何？哪些信息值得关注？",
@@ -175,6 +286,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "美媒称伊朗同意放弃高浓缩铀库存",
+          "url": "https://wallstreetcn.com/livenews/3108452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：若三点问题未解决，谈判不会进行。",
           "url": "https://flash.jin10.com/detail/20260524012535234800",
           "source": "金十数据",
@@ -197,13 +319,24 @@
           "time_info": "03时01分"
         },
         {
+          "title": "消息人士：伊朗未同意交出高浓缩铀库存",
+          "url": "https://flash.jin10.com/detail/20260524153912573800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
           "url": "https://flash.jin10.com/detail/20260524054545746800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -214,7 +347,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -225,7 +358,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -269,7 +402,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -291,7 +424,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -324,7 +457,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -346,7 +479,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -390,27 +523,27 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：重申伊朗绝不能拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260524153205439800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
-          "url": "https://flash.jin10.com/detail/20260524095245715800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
-        },
         {
           "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
           "url": "https://wallstreetcn.com/articles/3772976",
@@ -418,9 +551,44 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时22分]"
+        },
+        {
+          "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
+          "url": "https://flash.jin10.com/detail/20260524095245715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时22分]"
+        },
+        {
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 16时22分]"
         },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
@@ -446,15 +614,15 @@
           "time_info": "[03时01分 ~ 10时39分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "供不应求却拒绝涨价，日东纺\"市占率保卫战\"背后，豪赌AI玻纤长期景气",
+          "url": "https://wallstreetcn.com/articles/3772986",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时39分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -474,7 +642,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -488,17 +656,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
+          "url": "https://wallstreetcn.com/articles/3772942",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
         },
         {
-          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
-          "url": "https://www.zhihu.com/question/2040070496926922044",
-          "source": "知乎",
+          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
+          "url": "https://www.cls.cn/detail/2379666",
+          "source": "财联社热门",
           "ranks": [
-            20
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时01分 ~ 16时22分]"
+        },
+        {
+          "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
+          "url": "https://wallstreetcn.com/articles/3772987",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时22分]"
+        },
+        {
+          "title": "欧洲央行管委Kocher：除非伊朗局势改善，否则欧洲央行必须集中精力采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3108463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时39分"
+          "time_info": "16时22分"
         }
       ]
     },
@@ -527,35 +735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国证监会拟对富途合计罚款18.5亿元人民币，老虎证券合计被罚没约4.1亿元",
-          "url": "https://wallstreetcn.com/articles/3772942",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "【早报】8部门出手，整治非法跨境证券期货基金经营活动；证监会拟对老虎、富途、长桥依法严厉处罚",
-          "url": "https://www.cls.cn/detail/2379666",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时01分 ~ 10时39分]"
         }
       ]
     }
