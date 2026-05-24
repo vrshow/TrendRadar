@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-24T03:01:43.242582+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-24T10:39:22.499013+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 24,
+      "match_count": 35,
       "titles": [
         {
           "title": "美伊冲突升温！特朗普不参加儿子婚礼“坐镇白宫”，伊朗警告若再遭袭将开启战斗3.0，计划“以火力”封锁曼德海峡",
           "url": "https://wallstreetcn.com/articles/3772968",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时39分]"
         },
         {
           "title": "据Axios报道，一名以色列官员称，美国总统特朗普预计将在周六与以色列总理内塔尼亚胡通话，讨论正在酝酿中的伊朗协议。",
@@ -41,17 +42,6 @@
           "time_info": "03时01分"
         },
         {
-          "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
-          "url": "https://wallstreetcn.com/livenews/3108408",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
           "title": "特朗普周末“坐镇白宫”：若谈判破裂或对伊朗发动“决定性打击”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33218086",
           "source": "澎湃新闻",
@@ -63,6 +53,18 @@
           "time_info": "03时01分"
         },
         {
+          "title": "伊朗：可能在30天或60天后的下一个阶段再进入核问题的谈判",
+          "url": "https://wallstreetcn.com/livenews/3108408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时39分]"
+        },
+        {
           "title": "美媒发现不对劲：打伊朗都这么吃力，美国未来还怎么应对中国",
           "url": "https://news.ifeng.com/c/8tMZVeAyacg",
           "source": "凤凰网",
@@ -72,6 +74,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗战争距离真正结束，就差临门一脚了",
+          "url": "https://news.ifeng.com/c/8tNe0lCsxvr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "美国官员：在特朗普所称协议中，伊朗同意放弃高浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260524091450206800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
+          "url": "https://wallstreetcn.com/articles/3772980",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "巴基斯坦陆军声明：元帅/陆军参谋长赛义德·阿西姆·穆尼尔圆满结束访伊行程。 参谋长对伊朗的访问“成果丰硕”。 会谈对调解进程做出了实质性贡献。 （美国与伊朗）朝着达成最终谅解取得了令人鼓舞的进展。 访问期间，穆尼尔元帅与伊朗领导层进行了多场高规格的密集会晤。他先后拜会了伊朗总统、伊朗议会议长、伊朗外交部长以及伊朗内政部长。 双方的会谈核心始终聚焦于如何加速推进目前正在进行的协商进程，以全力支持和维护中东及周边地区的和平与稳定。 声明特别指出，过去24小时内的密集谈判已经取得了令人鼓舞的突破性进展，双方正加速朝着达成最终谅解备忘录的方向迈进。",
@@ -162,6 +197,39 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据黎巴嫩电视台Al-Mayadeen：伊朗与美国的谅解备忘录内容包括，停火、霍尔木兹海峡重新开放、美军舰队撤回、结束海上封锁，以及释放60亿美元被冻结的伊朗资金。",
+          "url": "https://flash.jin10.com/detail/20260524054545746800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "据黎巴嫩电视台Al-Mayadeen：美伊之间由巴基斯坦斡旋的框架协议即将敲定。这是一份谅解备忘录，而非最终协议，其中不涉及伊朗核计划。",
+          "url": "https://flash.jin10.com/detail/20260524054518697800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "据法尔斯通讯社报道称，尽管伊朗同意允许通过霍尔木兹海峡的船只数量恢复至战前水平，但这并不意味着“自由通行”。",
+          "url": "https://flash.jin10.com/detail/20260524052927294800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "伊朗：与美国的分歧在最近一周缩小。 （与美国之间）仍然存在“需要经过”中间人讨论的问题。",
           "url": "https://wallstreetcn.com/livenews/3108388",
           "source": "华尔街见闻-快讯",
@@ -195,6 +263,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "伊朗媒体驳斥特朗普关于霍尔木兹海峡“恢复正常”说法",
+          "url": "https://flash.jin10.com/detail/20260524052546981800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "伊朗说伊美正处于谅解备忘录最终敲定阶段",
           "url": "https://wallstreetcn.com/livenews/3108387",
           "source": "华尔街见闻-快讯",
@@ -204,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：尽管美国总统特朗普声称霍尔木兹海峡将恢复原状，但该海峡仍将处于伊朗控制之下。",
+          "url": "https://flash.jin10.com/detail/20260524052423890800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "美国国务卿卢比奥：与伊朗在对话中取得一些进展。 美方仍然倾向于与伊朗谈判（浓缩）铀问题。",
@@ -228,6 +318,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：美国总统特朗普关于霍尔木兹海峡恢复原状的说法不实。",
+          "url": "https://flash.jin10.com/detail/20260524052344173800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "伊朗外交部：霍尔木兹海峡是沿岸国家内部事务，与美国无关",
           "url": "https://wallstreetcn.com/livenews/3108384",
           "source": "华尔街见闻-快讯",
@@ -237,6 +338,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "据伊朗学生通讯社：埃及外长与美国驻西亚特使通电话，就美伊谈判最新进展进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260524044617674800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         },
         {
           "title": "伊朗：要观察未来3-4天的事态发展。",
@@ -270,13 +382,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "美国总统特朗普：与多个穆斯林国家领导人就伊朗进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260524043506321800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "华泰证券：看好2026年起交换芯片在AI驱动下开启二次成长",
+          "url": "https://flash.jin10.com/detail/20260524095245715800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
         {
           "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
@@ -285,8 +430,31 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时39分]"
+        },
+        {
+          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
+          "url": "https://www.zhihu.com/question/2040505406502524785",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时39分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时39分"
         },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
@@ -300,6 +468,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时39分"
+        },
+        {
           "title": "AI 泡沫还能持续多久？",
           "url": "https://www.zhihu.com/question/1903030274536743238",
           "source": "知乎",
@@ -311,15 +490,15 @@
           "time_info": "03时01分"
         },
         {
-          "title": "俄银行采购中国芯片，为大模型提供算力，对中俄科技合作意味着什么？",
-          "url": "https://www.zhihu.com/question/2040505406502524785",
+          "title": "如何评价微信读书上线的 AI Skill ？使用后你的阅读习惯和体验发生了哪些变化？",
+          "url": "https://www.zhihu.com/question/2040070496926922044",
           "source": "知乎",
           "ranks": [
-            17
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "10时39分"
         }
       ]
     },
@@ -371,11 +550,12 @@
           "url": "https://www.cls.cn/detail/2379666",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 10时39分]"
         }
       ]
     }
