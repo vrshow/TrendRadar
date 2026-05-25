@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T03:08:13.479213+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-25T10:48:20.385761+08:00",
+  "total_titles_processed": 527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -37,8 +37,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 10时48分]"
         },
         {
           "title": "阿曼与伊朗讨论霍尔木兹海峡通航问题",
@@ -47,7 +47,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -58,9 +58,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "特朗普的伊朗算盘遇到新对手：美债！若收益率不跌，美国人一年多付数百亿利息",
+          "url": "https://flash.jin10.com/detail/20260525103922806800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "美官员：解冻伊朗资金取决于开放霍尔木兹及履行核承诺",
@@ -69,7 +80,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -91,9 +102,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "分析师：伊朗协议进展可能引发美元仓位大幅逆转",
+          "url": "https://flash.jin10.com/detail/20260525103809610800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -102,7 +124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -113,7 +135,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -124,7 +146,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -135,7 +157,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -146,7 +168,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -157,7 +179,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -168,7 +190,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -179,7 +201,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -190,9 +212,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "美国和伊朗制定旨在延长停火60天的谅解备忘录框架。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3108601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "波兰外长：我们拒绝伊朗拥有核弹，并支持重新开放霍尔木兹海峡。",
@@ -201,7 +234,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -212,7 +245,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -223,7 +256,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -234,7 +267,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
         },
@@ -245,68 +278,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "什么情况下，本轮AI大行情会结束？",
-          "url": "https://wallstreetcn.com/articles/3773004",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
-        },
-        {
-          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3108534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
-          "url": "https://flash.jin10.com/detail/20260525012651977800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
-          "url": "https://flash.jin10.com/detail/20260525010427079800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时08分"
-        },
-        {
-          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
-          "url": "https://flash.jin10.com/detail/20260525010206221800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "03时08分"
         }
@@ -314,7 +286,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 4,
+      "match_count": 17,
       "titles": [
         {
           "title": "下周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
@@ -339,15 +311,126 @@
           "time_info": "[03时07分 ~ 03时08分]"
         },
         {
+          "title": "华为半导体领域新突破",
+          "url": "https://www.toutiao.com/trending/7643633110405464073/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为半导体领域新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "本周重磅日程：“美联储最爱通胀指标”、中国PMI、长鑫科技上会、拼多多小米财报",
+          "url": "https://wallstreetcn.com/articles/3772885",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "小米通报空调安装「抽真空」造假，两名涉事师傅被永久拉黑，抽真空环节有多重要？这种造假行为能有效遏制吗？",
+          "url": "https://www.zhihu.com/question/2041463586346849089",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E6%AD%A3%E5%BC%8F%E5%8F%91%E8%A1%A8%E5%8D%8A%E5%AF%BC%E4%BD%93%E9%A2%86%E5%9F%9F%E6%96%B0%E5%AE%9A%E5%BE%8B",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "在长城上，武契奇笑称“我知道577”",
+          "url": "https://news.ifeng.com/c/8tPI0ccAAXR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
           "title": "武契奇到访长城：了不起的建造",
           "url": "https://www.toutiao.com/trending/7641939137745997318/",
           "source": "今日头条",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 10时48分]"
+        },
+        {
+          "title": "华为麒麟2026手机芯片今秋面世",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F2026%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为与航天能源签署合作MOU/备忘录协议",
+          "url": "https://wallstreetcn.com/livenews/3108628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为：今年秋季面世的麒麟手机芯片性能将大幅提升",
+          "url": "https://wallstreetcn.com/livenews/3108621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33225973",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         },
         {
           "title": "华为半导体首席科学家廖恒：芯片到软件深度协同配合发挥超节点系统能力",
@@ -356,26 +439,243 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "华为发表「韬（τ）定律」，半导体技术实现新突破，具有哪些重要意义？对中国半导体产业发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2042176040638707165",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为正式发表半导体领域新定律，晶体管密度与系统性能通过逻辑折叠技术实现新突破",
+          "url": "https://wallstreetcn.com/livenews/3108603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "华为麒麟2026手机芯片今秋面世",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E9%BA%92%E9%BA%9F2026%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E4%BB%8A%E7%A7%8B%E9%9D%A2%E4%B8%96",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "什么情况下，本轮AI大行情会结束？",
+          "url": "https://wallstreetcn.com/articles/3773004",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 10时48分]"
+        },
+        {
+          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3108534",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "券商晨会精华：看好AI产业链与算力网建设",
+          "url": "https://www.cls.cn/detail/2380227",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "多家巨头密集押注 “百镜大战”催热供应链！AI眼镜有望加速进入千万台级别市场？",
+          "url": "https://www.cls.cn/detail/2380061",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "开源大模型本地部署和官网的有什么区别?",
+          "url": "https://www.zhihu.com/question/8211811008",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "AI 中转站是什么，便宜 Token 背后暗藏什么玄机？",
+          "url": "https://www.zhihu.com/question/2040496731704528936",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "欧洲央行将在周二的会议上敦促银行加快保护其信息技术系统的工作，讨论最新人工智能模型所暴露的网络安全风险。",
+          "url": "https://flash.jin10.com/detail/20260525010427079800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "据英国《金融时报》：欧洲央行召集银行要求其修补最新人工智能模型暴露出的缺陷。",
+          "url": "https://flash.jin10.com/detail/20260525010206221800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时08分"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 1,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】事关美伊协议，最新进展；央行今日开展6000亿元MLF操作",
+          "url": "https://www.cls.cn/detail/2380217",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
         {
           "title": "即便美伊协议快速达成，汇丰仍认为“通胀影响持续存在，更多央行将加息”",
           "url": "https://wallstreetcn.com/articles/3772987",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时07分 ~ 03时08分]"
+          "appearance_count": 3,
+          "time_info": "[03时07分 ~ 10时48分]"
+        },
+        {
+          "title": "印度央行行长罕见表态：印度卢比或已被低估",
+          "url": "https://flash.jin10.com/detail/20260525104216323800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "印度央行行长称，印度卢比可能被低估。",
+          "url": "https://wallstreetcn.com/livenews/3108623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "印度央行行长：央行没有设定任何特定的汇率目标。",
+          "url": "https://flash.jin10.com/detail/20260525103131066800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中国央行逆回购今日净投放2570亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3108604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "印度央行行长：将“竭尽所能”维护外汇市场的秩序。",
+          "url": "https://flash.jin10.com/detail/20260525102739627800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
         }
       ]
     }
