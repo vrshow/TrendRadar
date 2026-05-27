@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T10:47:15.757996+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-05-27T17:35:11.971023+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时04分 ~ 10时47分]"
+        },
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -87,6 +99,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗官员：最终与美国签署的协议必定符合伊朗国家利益",
+          "url": "https://wallstreetcn.com/livenews/3109980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
           "url": "https://wallstreetcn.com/articles/3773097",
           "source": "华尔街见闻",
@@ -132,15 +155,15 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
+          "title": "伊朗称美将在所有战线停火60天",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%9C%A8%E6%89%80%E6%9C%89%E6%88%98%E7%BA%BF%E5%81%9C%E7%81%AB60%E5%A4%A9",
+          "source": "百度热搜",
           "ranks": [
-            19
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "伊朗公布击落美MQ-9死神无人机画面",
@@ -174,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "韩国称霍尔木兹海峡船只遇袭事件可能涉及伊朗导弹",
+          "url": "https://flash.jin10.com/detail/20260527172828121800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -220,6 +254,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗副安全事务负责人巴盖里：伊朗与美国之间的间接沟通仍在继续",
+          "url": "https://flash.jin10.com/detail/20260527171941982800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
           "url": "https://flash.jin10.com/detail/20260527015929934800",
           "source": "金十数据",
@@ -242,6 +287,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗支付超7万亿土曼“药品支持计划”相关欠款",
+          "url": "https://wallstreetcn.com/livenews/3109951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "伊媒：以无人机袭击阿联酋欲嫁祸伊朗",
           "url": "https://www.toutiao.com/trending/7643203125008105499/",
           "source": "今日头条",
@@ -262,12 +318,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "韩国公布霍尔木兹海峡船只遇袭事件调查结果。伊朗导弹或导致船只在霍尔木兹海峡遭袭。韩国将就船只在霍尔木兹海峡遇袭事件召见伊朗大使。彭博）",
+          "url": "https://wallstreetcn.com/livenews/3109941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "武契奇说买不起小米汽车 雷军回应",
@@ -281,15 +348,16 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "雷军回应武契奇说小米车漂亮但买不起",
-          "url": "https://www.toutiao.com/trending/7643645124177854510/",
-          "source": "今日头条",
+          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2042890815265923370",
+          "source": "知乎",
           "ranks": [
-            2
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
@@ -301,6 +369,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "雷军回应武契奇说小米车漂亮但买不起",
+          "url": "https://www.toutiao.com/trending/7643645124177854510/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
+        },
+        {
+          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
+          "url": "https://wallstreetcn.com/articles/3773158",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "想不想买小米汽车？武契奇：买不起",
@@ -325,6 +417,18 @@
           "time_info": "04时04分"
         },
         {
+          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773155",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 17时35分]"
+        },
+        {
           "title": "如何看待小米公布 2026 年第一财季财报，营收 991 亿元、净利润 61 亿，有哪些值得关注？",
           "url": "https://www.zhihu.com/question/2042667657242076706",
           "source": "知乎",
@@ -336,16 +440,41 @@
           "time_info": "04时04分"
         },
         {
-          "title": "小米Q1营收991亿元超预期，宣布200亿港元新回购计划｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773155",
-          "source": "华尔街见闻",
+          "title": "半导体博士解读华为韬定律",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8D%9A%E5%A3%AB%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            9,
-            7
+            20,
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 10时47分]"
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 17时35分]"
+        },
+        {
+          "title": "武契奇在小米汽车工厂买了啥",
+          "url": "https://www.toutiao.com/trending/7643858808741625894/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
+        },
+        {
+          "title": "小米宣布200亿港元回购计划",
+          "url": "https://www.douyin.com/hot/2513475",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "小米发布2026年一季度业绩",
@@ -383,60 +512,37 @@
           "time_info": "[04时04分 ~ 10时47分]"
         },
         {
-          "title": "半导体博士解读华为韬定律",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%8D%9A%E5%A3%AB%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E9%9F%AC%E5%AE%9A%E5%BE%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 10时47分]"
-        },
-        {
-          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
-          "url": "https://www.zhihu.com/question/2042890815265923370",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "小米电话会：内存成本短期难降，“做最后涨价、涨幅最小的企业”",
-          "url": "https://wallstreetcn.com/articles/3773158",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "武契奇在小米汽车工厂买了啥",
-          "url": "https://www.toutiao.com/trending/7643858808741625894/",
-          "source": "今日头条",
+          "title": "新车丑爆!法拉利股价暴跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354612&amp;topic_name=%E6%96%B0%E8%BD%A6%E4%B8%91%E7%88%86%21%E6%B3%95%E6%8B%89%E5%88%A9%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C",
+          "source": "贴吧",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
-          "title": "小米宣布200亿港元回购计划",
-          "url": "https://www.douyin.com/hot/2513475",
-          "source": "抖音",
+          "title": "法拉利纯电新车引争议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E6%8B%89%E5%88%A9%E7%BA%AF%E7%94%B5%E6%96%B0%E8%BD%A6%E5%BC%95%E4%BA%89%E8%AE%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "华为Mate 90系列配置曝光",
+          "url": "https://www.toutiao.com/trending/7643661332554203145/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "小米汽车计划2027下半年启动出海",
@@ -448,6 +554,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
+        },
+        {
+          "title": "华为Mate 90系列配置曝光",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAMate+90%E7%B3%BB%E5%88%97%E9%85%8D%E7%BD%AE%E6%9B%9D%E5%85%89",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "小米的牌面变了",
+          "url": "https://www.toutiao.com/trending/7644389416454065705/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
@@ -494,6 +622,17 @@
           "time_info": "04时04分"
         },
         {
+          "title": "民航局马兵会见俄联邦航空运输署副署长安德烈·波坦金",
+          "url": "https://flash.jin10.com/detail/20260527171750835800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "武契奇在小米工厂下单了",
           "url": "https://s.weibo.com/weibo?q=%23%E6%AD%A6%E5%A5%91%E5%A5%87%E5%9C%A8%E5%B0%8F%E7%B1%B3%E5%B7%A5%E5%8E%82%E4%B8%8B%E5%8D%95%E4%BA%86%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
@@ -508,7 +647,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
@@ -518,19 +657,31 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
+        },
+        {
+          "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
+          "url": "https://www.cls.cn/detail/2382543",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "AI坑爹,棒球名帅丢饭碗",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354604&amp;topic_name=AI%E5%9D%91%E7%88%B9%2C%E6%A3%92%E7%90%83%E5%90%8D%E5%B8%85%E4%B8%A2%E9%A5%AD%E7%A2%97",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -571,11 +722,23 @@
           "source": "贴吧",
           "ranks": [
             14,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时04分 ~ 10时47分]"
+          "appearance_count": 5,
+          "time_info": "[04时04分 ~ 17时35分]"
+        },
+        {
+          "title": "野生vs养殖,AI大战鲤鱼图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
@@ -589,6 +752,17 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
+          "title": "黄仁勋称AI时代学什么专业并不重要",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%A7%B0AI%E6%97%B6%E4%BB%A3%E5%AD%A6%E4%BB%80%E4%B9%88%E4%B8%93%E4%B8%9A%E5%B9%B6%E4%B8%8D%E9%87%8D%E8%A6%81",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
           "title": "一人之下被指用AI作画",
           "url": "https://www.douyin.com/hot/2512287",
           "source": "抖音",
@@ -598,6 +772,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "德福科技：拟31亿元投建年产5万吨高端AI电子电路铜箔项目",
+          "url": "https://flash.jin10.com/detail/20260527172733269800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "Figure AI Inc.与Catalyst Brands围绕扫描人形机器人运行情况达成协议。 这次合作在Catalyst旗下Reno分发物流中心启动。",
@@ -611,6 +796,28 @@
           "time_info": "04时04分"
         },
         {
+          "title": "中信证券裘翔：“适应AI”是市场参与主体面临的挑战 也是下阶段主旋律与机会",
+          "url": "https://flash.jin10.com/detail/20260527172701709800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "可灵AI一季度营收同比增长超300%，3月ARR近5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3109967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "如何评价 comma.ai 创始人 George Hotz 断言 AI 编程 Agent 无法真正编程？",
           "url": "https://www.zhihu.com/question/2042336304244019752",
           "source": "知乎",
@@ -622,13 +829,35 @@
           "time_info": "04时04分"
         },
         {
+          "title": "AI热潮重塑华尔街预期！高盛看高标普500指数至8000点",
+          "url": "https://flash.jin10.com/detail/20260527172035168800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "千问AI眼镜全系列线上零售额市场份额超30%",
+          "url": "https://flash.jin10.com/detail/20260527171358221800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "中亦科技中标某头部证券近4500万AI算力资源池项目",
           "url": "https://flash.jin10.com/detail/20260527100736386800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
@@ -667,7 +896,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -678,7 +907,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -689,7 +918,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -700,7 +929,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -711,7 +940,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -722,7 +951,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         }
