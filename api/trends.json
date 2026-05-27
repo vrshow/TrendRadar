@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-05-27T17:35:11.971023+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2026-05-27T23:02:52.293190+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
+        {
+          "title": "王毅谈当前伊朗局势僵局",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 23时02分]"
+        },
         {
           "title": "停火协议形同废纸！伊朗开火，回击美国空袭，小哈梅内伊：中东地区国家将不再庇护美军",
           "url": "https://wallstreetcn.com/articles/3773148",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时04分 ~ 10时47分]"
-        },
-        {
-          "title": "王毅谈当前伊朗局势僵局",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33242584",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "伊朗外交部：美国公然违反停火协议",
@@ -54,6 +55,39 @@
           "time_info": "04时04分"
         },
         {
+          "title": "伊朗官员称美国将在所有战线停火60天",
+          "url": "https://news.ifeng.com/c/8tTBSVzined",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：德黑兰附近霍梅尼机场行政大楼发生火灾，消防员已扑灭火焰。",
+          "url": "https://flash.jin10.com/detail/20260527224048966800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "伊媒：文件披露，美军事力量将撤出伊朗周边",
+          "url": "https://news.ifeng.com/c/8tTRdrF2SL8",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "伊朗是否已请求将高浓缩铀转运至中国？外交部回应",
           "url": "https://m.thepaper.cn/newsDetail_forward_33236124",
           "source": "澎湃新闻",
@@ -75,6 +109,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗情报部：敌方正通过“软战争”向伊朗施压",
+          "url": "https://news.ifeng.com/c/8tTK6rP01M9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "白宫间接否认伊朗国家电视台关于谅解备忘录草案的报道",
+          "url": "https://flash.jin10.com/detail/20260527223922617800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
@@ -105,7 +161,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -177,6 +233,39 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
+          "title": "伊朗：美方承诺在所有战线停火60天，战争重新爆发的可能性\"低\"",
+          "url": "https://wallstreetcn.com/articles/3773227",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗南部波斯湾沿岸阿萨卢耶最大石化综合体阿萨鲁耶赫发生事故，至少一人遇难，二人受伤。",
+          "url": "https://flash.jin10.com/detail/20260527221615801800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "一份协议如何让双方“宣布胜利”？美国提出新要求，伊朗有两个目标",
+          "url": "https://wallstreetcn.com/articles/3773194",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息",
           "url": "https://flash.jin10.com/detail/20260527031819045800",
           "source": "金十数据",
@@ -186,6 +275,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "白宫：伊朗国家媒体报道的谅解备忘录（MoU）系捏造，任何人都不应该相信。",
+          "url": "https://wallstreetcn.com/livenews/3110147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "美联储卡什卡利：旷日持久的伊朗战争可能引发美国“一系列”加息。",
@@ -205,9 +305,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "伊朗南部一石化项目发生事故 已致1人死亡",
+          "url": "https://wallstreetcn.com/livenews/3110143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗伊斯兰革命卫队：过去24小时25艘船只获准通过霍尔木兹海峡",
@@ -260,9 +371,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "伊朗首都一机场办公楼发生火灾",
+          "url": "https://wallstreetcn.com/livenews/3110132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "伊朗总统：毫不动摇捍卫领土与国家主权",
@@ -293,7 +415,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -326,7 +448,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -334,8 +456,20 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
+          "url": "https://www.zhihu.com/question/2042890815265923370",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 23时02分]"
+        },
         {
           "title": "武契奇说买不起小米汽车 雷军回应",
           "url": "https://www.baidu.com/s?wd=%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E4%B9%B0%E4%B8%8D%E8%B5%B7%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6+%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94",
@@ -346,18 +480,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "塞尔维亚总统武契奇说小米车漂亮但买不起，雷军回应「YU7 标准版定价 23.35 万」，如何看待这一回应？",
-          "url": "https://www.zhihu.com/question/2042890815265923370",
-          "source": "知乎",
-          "ranks": [
-            6,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 17时35分]"
         },
         {
           "title": "如何评价小米 mimo-V2.5 系列模型 5 月 27 日大降价？",
@@ -500,6 +622,18 @@
           "time_info": "[04时04分 ~ 10时47分]"
         },
         {
+          "title": "新车丑爆!法拉利股价暴跌",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354612&amp;topic_name=%E6%96%B0%E8%BD%A6%E4%B8%91%E7%88%86%21%E6%B3%95%E6%8B%89%E5%88%A9%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 23时02分]"
+        },
+        {
           "title": "雷军回应武契奇说小米车漂亮但买不起",
           "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E6%AD%A6%E5%A5%91%E5%A5%87%E8%AF%B4%E5%B0%8F%E7%B1%B3%E8%BD%A6%E6%BC%82%E4%BA%AE%E4%BD%86%E4%B9%B0%E4%B8%8D%E8%B5%B7%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -512,26 +646,16 @@
           "time_info": "[04时04分 ~ 10时47分]"
         },
         {
-          "title": "新车丑爆!法拉利股价暴跌",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354612&amp;topic_name=%E6%96%B0%E8%BD%A6%E4%B8%91%E7%88%86%21%E6%B3%95%E6%8B%89%E5%88%A9%E8%82%A1%E4%BB%B7%E6%9A%B4%E8%B7%8C",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
-        },
-        {
           "title": "法拉利纯电新车引争议",
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%95%E6%8B%89%E5%88%A9%E7%BA%AF%E7%94%B5%E6%96%B0%E8%BD%A6%E5%BC%95%E4%BA%89%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 23时02分]"
         },
         {
           "title": "华为Mate 90系列配置曝光",
@@ -576,6 +700,61 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "东风着陆场完成最后一次全系统综合演练 准备就绪迎神二十一航天员回家",
+          "url": "https://flash.jin10.com/detail/20260527221607378800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "蔚来ES9",
+          "url": "https://s.weibo.com/weibo?q=%E8%94%9A%E6%9D%A5ES9&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "武契奇抵达上海继续访问行程，26日造访清华大学及小米公司",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33238986",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "蔚来ES9上市：整车购买49.8万元起，5月28日开启交付",
+          "url": "https://flash.jin10.com/detail/20260527220237347800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
+          "title": "东风着陆场完成最后一次全系统综合演练 准备就绪迎神二十一航天员回家",
+          "url": "https://wallstreetcn.com/livenews/3110136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "除了小米，美的格力海尔等品牌是否也应公开通报安装造假案例？",
@@ -628,7 +807,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -642,23 +821,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "蔚来ES9上市，49.8万元起",
+          "url": "https://wallstreetcn.com/livenews/3110129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "和平预期与AI热潮双轮驱动，标普、纳指创新高，半导体指数五连涨，美光飙涨20%",
           "url": "https://wallstreetcn.com/articles/3773116",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 23时02分]"
         },
         {
           "title": "我国将加快研究推进人工智能健康发展综合性立法、低空经济立法等",
@@ -677,11 +868,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 17时35分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 23时02分]"
         },
         {
           "title": "从周期股到AI新王者！美光科技跻身万亿美元俱乐部",
@@ -695,6 +887,31 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
+          "title": "AI吸附挂泛滥,力度碾压端游",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            15,
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时04分 ~ 23时02分]"
+        },
+        {
+          "title": "AI热潮推动下，美股盘初美光涨5%，半导体股普涨，石油股下跌，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
+        },
+        {
           "title": "黄仁勋：AI时代“孩子学什么专业并不重要”，关键是如何用AI放大能力",
           "url": "https://www.cls.cn/detail/2382007",
           "source": "财联社热门",
@@ -704,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时04分"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         },
         {
           "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
@@ -717,28 +945,16 @@
           "time_info": "04时04分"
         },
         {
-          "title": "AI吸附挂泛滥,力度碾压端游",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354571&amp;topic_name=AI%E5%90%B8%E9%99%84%E6%8C%82%E6%B3%9B%E6%BB%A5%2C%E5%8A%9B%E5%BA%A6%E7%A2%BE%E5%8E%8B%E7%AB%AF%E6%B8%B8",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时04分 ~ 17时35分]"
-        },
-        {
           "title": "野生vs养殖,AI大战鲤鱼图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 17时35分]"
+          "appearance_count": 3,
+          "time_info": "[17时34分 ~ 23时02分]"
         },
         {
           "title": "夏奇拉发布世界杯主题曲《Dai Dai》，梅西、姆巴佩出镜 MV，如何评价这个主题曲和 MV？",
@@ -780,7 +996,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -802,7 +1018,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -813,7 +1029,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -835,7 +1051,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -846,7 +1062,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         },
@@ -860,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "大语言模型成本六个月内翻番 或威胁AI看涨逻辑",
+          "url": "https://wallstreetcn.com/livenews/3110122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     },
