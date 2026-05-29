@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T10:38:10.858096+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-05-29T17:42:45.925281+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 31,
+      "match_count": 41,
       "titles": [
         {
           "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
@@ -41,6 +41,28 @@
           "time_info": "04时11分"
         },
         {
+          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
+          "url": "https://wallstreetcn.com/articles/3773407",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "存储三巨头参投 全球AI公司估值天花板触达万亿美金 纯烧钱项目正遭资本摒弃",
+          "url": "https://www.cls.cn/detail/2385245",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "美联储巴尔金：一些与人工智能相关的领域正在显示出通胀压力。",
           "url": "https://flash.jin10.com/detail/20260529032636089800",
           "source": "金十数据",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -62,6 +95,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 10时38分]"
+        },
+        {
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
+        },
+        {
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -123,28 +180,6 @@
           "time_info": "[04时11分 ~ 10时38分]"
         },
         {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
-        },
-        {
           "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
           "url": "https://www.cls.cn/detail/2384760",
           "source": "财联社热门",
@@ -189,6 +224,17 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
+          "title": "AI眼镜的“iPhone时刻”快来了吗",
+          "url": "https://www.cls.cn/detail/2385164",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "美联储Barkin：AI投资给中性利率带来压力。 某些AI相关的领域正表现出通胀压力。",
           "url": "https://wallstreetcn.com/livenews/3110908",
           "source": "华尔街见闻-快讯",
@@ -209,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美以伊战争启示录｜当杀戮被娱乐化：扭曲的信息战中，AI造梗正在去人性化",
@@ -250,9 +307,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "多家券商研判：A股结构性行情愈发鲜明 下半年可重点布局AI全产业链、周期板块及潜力消费赛道",
+          "url": "https://wallstreetcn.com/livenews/3111313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "别再局限于芯片股！这一AI基建相关行业正在崛起……",
+          "url": "https://www.cls.cn/detail/2385002",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "AI就这么背刺大学生",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%B0%B1%E8%BF%99%E4%B9%88%E8%83%8C%E5%88%BA%E5%A4%A7%E5%AD%A6%E7%94%9F&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "万斯：关于AI，我最担心它如何改变战争形态",
+          "url": "https://wallstreetcn.com/livenews/3111308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
@@ -310,6 +411,17 @@
           "time_info": "04时11分"
         },
         {
+          "title": "联发科预计AI业务收入将在2027年迎来爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3111299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "Anthropic新一轮融资后估值达9650亿美元 超过OpenAI",
           "url": "https://flash.jin10.com/detail/20260529023507958800",
           "source": "金十数据",
@@ -327,7 +439,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -357,7 +469,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "“敢为”智能化下半场、比亚迪官宣自研4nm智驾芯片 王传福：持续投入超千亿研发资金",
@@ -369,17 +481,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时11分 ~ 10时38分]"
-        },
-        {
-          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
-          "url": "https://www.zhihu.com/question/2043426122491286329",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
         },
         {
           "title": "比亚迪发布中国首款4nm智驾芯片",
@@ -399,7 +500,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -427,6 +528,18 @@
           "time_info": "[04时11分 ~ 10时38分]"
         },
         {
+          "title": "如何评价比亚迪自研的 4nm 璇玑 A3 智驾芯片？",
+          "url": "https://www.zhihu.com/question/2043426122491286329",
+          "source": "知乎",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
+        },
+        {
           "title": "50万买宝马还是买蔚来",
           "url": "https://www.baidu.com/s?wd=50%E4%B8%87%E4%B9%B0%E5%AE%9D%E9%A9%AC%E8%BF%98%E6%98%AF%E4%B9%B0%E8%94%9A%E6%9D%A5",
           "source": "百度热搜",
@@ -436,6 +549,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
+          "url": "https://wallstreetcn.com/articles/3773371",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
         },
         {
           "title": "如何看待华为培训会要求销售认识代言人时代少年团，包括成员的姓名生日番位，还要闭卷默写考核？",
@@ -462,17 +587,6 @@
           "time_info": "[04时11分 ~ 10时38分]"
         },
         {
-          "title": "比亚迪发布首款4nm智驾芯片，已开始量产，承诺主动承担L2阶段的L3、L4安全责任",
-          "url": "https://wallstreetcn.com/articles/3773371",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
-        },
-        {
           "title": "蔚来 ES9 上市，整车购买 49.8 万起、电池租用方式购买 39 万起，有哪些技术亮点？预计销量如何？",
           "url": "https://www.zhihu.com/question/2042964791799411675",
           "source": "知乎",
@@ -482,6 +596,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时37分 ~ 10时38分]"
+        },
+        {
+          "title": "上汽集团交付第1亿辆车！中国首个“亿级车企”在上海诞生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33256421",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时11分 ~ 17时42分]"
         },
         {
           "title": "卢伟冰宣布小米17T系列国内即将发布",
@@ -495,6 +620,17 @@
           "time_info": "[10时37分 ~ 10时38分]"
         },
         {
+          "title": "比亚迪智驾出事全额赔付",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
           "title": "人民日报专访何庭波：华为比同行更早遇到这堵“墙”",
           "url": "https://wallstreetcn.com/articles/3773296",
           "source": "华尔街见闻",
@@ -506,15 +642,26 @@
           "time_info": "04时11分"
         },
         {
-          "title": "上汽集团交付第1亿辆车！中国首个“亿级车企”在上海诞生",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33256421",
-          "source": "澎湃新闻",
+          "title": "比亚迪承诺为城市领航安全兜底 1 年，天神之眼 A 、 B 新老用户均可享受，如何看待此举？实际价值有多大？",
+          "url": "https://www.zhihu.com/question/2043421622929974247",
+          "source": "知乎",
           "ranks": [
-            18
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时11分"
+          "time_info": "17时42分"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "如何看待蔚来 「突袭式」 发布新款，成都提车 9 天变旧款，车主称遭遇「背刺」？你怎么看？",
@@ -534,7 +681,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -548,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "媒体曝比亚迪对话F1高层",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AA%92%E4%BD%93%E6%9B%9D%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AF%B9%E8%AF%9DF1%E9%AB%98%E5%B1%82",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     },
@@ -560,22 +718,12 @@
           "url": "https://news.ifeng.com/c/8tVu1gkD4Ca",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
-        },
-        {
-          "title": "美称敲定“谅解备忘录”遭伊朗否认",
-          "url": "https://www.toutiao.com/trending/7645098099924323890/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 10时38分]"
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
         },
         {
           "title": "美国将部分与伊朗相关的油轮纳入制裁名单。",
@@ -609,6 +757,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时11分"
+        },
+        {
+          "title": "美称敲定“谅解备忘录”遭伊朗否认",
+          "url": "https://www.toutiao.com/trending/7645098099924323890/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时37分 ~ 17时42分]"
         },
         {
           "title": "媒体称伊朗愿意将高浓缩铀转运至中国进行处理，国防部回应",
@@ -714,8 +874,41 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "英国央行行长贝利：债券市场收紧为我们争取了一些时间。",
+          "url": "https://flash.jin10.com/detail/20260529173531287800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "英国央行行长贝利：企业称要提价很难。",
+          "url": "https://flash.jin10.com/detail/20260529173520198800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "英国央行行长贝利：更高的通胀预期并未反映在工资预期和薪资协议中。",
+          "url": "https://flash.jin10.com/detail/20260529173312126800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
         {
           "title": "东京通胀意外降温至四年低位，但仍挡不住日本央行6月加息？",
           "url": "https://flash.jin10.com/detail/20260529100157446800",
@@ -723,7 +916,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
         },
@@ -734,9 +927,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "英国央行行长贝利：经济疲软和伊朗战争带来的不确定性意味着，暂时容忍高于目标的通胀是应对政策权衡的适当方式。",
+          "url": "https://flash.jin10.com/detail/20260529171733030800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "英国央行行长贝利：但如果出现二轮效应的迹象，对通胀暂时高于目标的容忍度将会减弱。",
+          "url": "https://flash.jin10.com/detail/20260529171723059800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }
