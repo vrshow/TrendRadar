@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T04:12:23.675668+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-30T10:32:21.798125+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗议长：伊朗将通过导弹而非对话使对方让步",
@@ -15,8 +15,41 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 10时32分]"
+        },
+        {
+          "title": "特朗普称将作伊朗战事最终决定、霍尔木兹和伊核以外问题已达成一致，伊媒称其言论“真假参半”",
+          "url": "https://wallstreetcn.com/articles/3773469",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "10时32分"
+        },
+        {
+          "title": "伊朗指责美方说法与协议文本不符",
+          "url": "https://wallstreetcn.com/livenews/3111693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：与伊朗达成的任何协议都将是一份好协议。",
+          "url": "https://flash.jin10.com/detail/20260530092605791800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "美国财长贝森特：如果需要，我们在伊朗问题上还有更多可以做的。",
@@ -41,6 +74,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "美国国防部长赫格塞思：我们仍有全球义务，比如确保伊朗无法获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260530091240513800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美债价格回吐涨幅，报道称特朗普并没有在周五会议上围绕伊朗问题做决定。",
           "url": "https://wallstreetcn.com/livenews/3111605",
           "source": "华尔街见闻-快讯",
@@ -61,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "美国财政部对伊朗实施新制裁",
+          "url": "https://wallstreetcn.com/livenews/3111680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "伊朗：击落了美国-以色列一架无人机。（Tasnim）",
@@ -107,6 +162,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "美国没收伊朗10亿美元加密资产",
+          "url": "https://wallstreetcn.com/livenews/3111673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "伊朗Qeshm Island周边发生防空活动。（伊朗媒体Mehr）",
           "url": "https://wallstreetcn.com/livenews/3111590",
           "source": "华尔街见闻-快讯",
@@ -143,7 +209,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
@@ -168,6 +234,29 @@
           "time_info": "04时12分"
         },
         {
+          "title": "“广东高考将用AI批卷”不实",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 10时32分]"
+        },
+        {
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 10时32分]"
+        },
+        {
           "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
           "url": "https://wallstreetcn.com/articles/3773387",
           "source": "华尔街见闻",
@@ -177,6 +266,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
+          "url": "https://wallstreetcn.com/articles/3773413",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
@@ -212,17 +312,6 @@
           "time_info": "04时12分"
         },
         {
-          "title": "“广东高考将用AI批卷”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
-        {
           "title": "“广东夏季高考将用AI批卷”不实",
           "url": "https://www.douyin.com/hot/2516863",
           "source": "抖音",
@@ -234,15 +323,15 @@
           "time_info": "04时12分"
         },
         {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
+          "title": "AI算力烧热电力股",
+          "url": "https://www.toutiao.com/trending/7644393123837968394/",
+          "source": "今日头条",
           "ranks": [
-            15
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "10时32分"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -254,23 +343,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "40余款AI大模型集中亮相2026世界智能产业博览会",
+          "url": "https://wallstreetcn.com/livenews/3111671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "报道：Meta计划推出AI吊坠，作为其可穿戴设备路线图的一部分",
+          "url": "https://wallstreetcn.com/livenews/3111665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "435万法拉利电车撞脸13万蔚来萤火虫",
+          "url": "https://www.toutiao.com/trending/7644397891674619931/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
         {
           "title": "比亚迪智驾出事全额赔付",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354682&amp;topic_name=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%99%BA%E9%A9%BE%E5%87%BA%E4%BA%8B%E5%85%A8%E9%A2%9D%E8%B5%94%E4%BB%98",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 10时32分]"
+        },
+        {
+          "title": "雷军称被何小鹏李斌骗了，「他们说造车很有意思，实际很苦」，从当前发展看，如何评价小米入局造车这一选择？",
+          "url": "https://www.zhihu.com/question/2043773481611786018",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "10时32分"
         },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
@@ -282,6 +416,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "黄仁勋谈华为新突破",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E5%8D%8E%E4%B8%BA%E6%96%B0%E7%AA%81%E7%A0%B4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "菲律宾央行：5月年通胀率可能在7.1%至7.9%之间。",
+          "url": "https://flash.jin10.com/detail/20260530100757224800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     }
