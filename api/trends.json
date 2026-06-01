@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T10:57:56.192081+08:00",
-  "total_titles_processed": 521,
+  "generated_at": "2026-06-01T19:16:18.545894+08:00",
+  "total_titles_processed": 788,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
         {
           "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
@@ -17,6 +17,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 10时57分]"
+        },
+        {
+          "title": "AI坑健身小白买20kg哑铃",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "AI热情主导市场，英伟达盘前涨超2%，软件股大涨，美光股价站上1000美元，油价攀升",
+          "url": "https://wallstreetcn.com/articles/3773537",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "物理AI爆发临近？英伟达发布“全能”世界模型 机器人、自动驾驶有望获强力助推",
+          "url": "https://www.cls.cn/detail/2386991",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "AI芯片出口被卡死，美国“堵漏洞”盯上中企海外子公司",
+          "url": "https://news.ifeng.com/c/8tbOoFh3a7h",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
@@ -37,7 +81,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -59,7 +103,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -73,6 +117,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "6月1日A股涨停复盘：AI应用端爆发",
+          "url": "https://www.toutiao.com/trending/7646262605242482694/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "【每日收评】科创50指数再跌5%，AI硬件、半导体延续调整，AI应用逆势爆发",
+          "url": "https://www.cls.cn/detail/2387170",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "如何看待哈佛最年轻华人正教授尹希，爆出入职 open AI？",
@@ -97,6 +163,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时07分 ~ 10时57分]"
+        },
+        {
+          "title": "黄仁勋和刘强东都反对借AI名义裁员",
+          "url": "https://www.toutiao.com/trending/7646333345659358729/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
         },
         {
           "title": "OpenAI模型推翻80年的数学经典猜想，引发学界震动",
@@ -128,7 +205,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -139,7 +216,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -150,9 +227,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "美团2026年Q1财报：加速推进AI落地物理世界，核心本地商业经营亏损收窄至20亿元",
+          "url": "https://wallstreetcn.com/livenews/3112335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "创业板指涨超1%，沪指涨0.18%，深成指涨0.62%，AI PC、电池、AI应用等方向领涨，沪深京三市上涨个股超4000只。",
@@ -161,9 +249,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "春秋电子：公司目前与戴尔合作的机型中不涉及AIPC产品",
+          "url": "https://wallstreetcn.com/livenews/3112333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "黄仁勋称 AI 时代无需过度纠结「学什么专业」，工作中所需的「人性」部分无法被 AI 取代，如何看待这一观点？",
@@ -183,7 +282,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -194,16 +293,38 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "字节跳动AI Agent平台扣子Coze正式上线3.0全新版本",
+          "url": "https://wallstreetcn.com/livenews/3112314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 17,
+      "match_count": 27,
       "titles": [
+        {
+          "title": "中东停火再遭挑战：伊朗打击美军基地 以色列扩大在黎军事行动",
+          "url": "https://www.cls.cn/detail/2386651",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
         {
           "title": "伊朗军官：将与敌人的过分要求和霸权行径战斗到最后一刻",
           "url": "https://flash.jin10.com/detail/20260601023250830800",
@@ -222,9 +343,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "科威特外交部谴责伊朗对其领土发动袭击",
+          "url": "https://wallstreetcn.com/livenews/3112361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗称过去24小时有15艘船只经协调通过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3112357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "伊朗袭击科威特美军基地致7人轻伤 均已恢复执勤",
@@ -238,6 +381,29 @@
           "time_info": "03时07分"
         },
         {
+          "title": "日本首相高市早苗：已要求伊朗总统佩泽希齐扬确保霍尔木兹海峡的自由安全航行。",
+          "url": "https://flash.jin10.com/detail/20260601183930693800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 19时16分]"
+        },
+        {
           "title": "伊朗总统已向最高领袖办公室提交辞职请求",
           "url": "https://flash.jin10.com/detail/20260601015825115800",
           "source": "金十数据",
@@ -249,13 +415,36 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 19时16分]"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
           "url": "https://news.ifeng.com/c/8taeRM6Zu8b",
           "source": "凤凰网",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -269,17 +458,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
-        },
-        {
-          "title": "伊朗总统：要么强硬前行，要么牺牲",
-          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
         },
         {
           "title": "伊朗外交部长：我们不应该重视猜测。",
@@ -304,13 +482,24 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗：美国协议草案中不包含铀“转移”和“处置”条款。",
+          "url": "https://wallstreetcn.com/livenews/3112351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "战争阴霾笼罩世界杯，伊朗国家队运动员仍未获得赴美签证",
           "url": "https://m.thepaper.cn/newsDetail_forward_33276489",
           "source": "澎湃新闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
         },
@@ -337,17 +526,6 @@
           "time_info": "03时07分"
         },
         {
-          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
-          "url": "https://news.ifeng.com/c/8taubWZltKg",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时57分"
-        },
-        {
           "title": "伊朗外交部长：与美国的会谈和信息交流仍在进行。",
           "url": "https://flash.jin10.com/detail/20260601012015413800",
           "source": "金十数据",
@@ -370,6 +548,28 @@
           "time_info": "03时07分"
         },
         {
+          "title": "日本首相高市早苗：与伊朗总统通了电话。",
+          "url": "https://flash.jin10.com/detail/20260601183616154800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "伊朗称过去24小时有15艘船只经协调通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260601183437642800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "法国总统马克龙：与沙特王储、阿曼苏丹、阿联酋总统和埃及总统进行了交谈，我向他们传达了同一个信息——美国与伊朗之间尽快达成协议至关重要，必须把握机会。",
           "url": "https://flash.jin10.com/detail/20260601004849485800",
           "source": "金十数据",
@@ -381,6 +581,17 @@
           "time_info": "03时07分"
         },
         {
+          "title": "伊朗情报机构宣布捣毁一恐怖分子团伙",
+          "url": "https://wallstreetcn.com/livenews/3112326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国财长贝森特：对伊朗的经济围困是施压行动的基本组成部分。",
           "url": "https://flash.jin10.com/detail/20260531235759836800",
           "source": "金十数据",
@@ -390,12 +601,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "伊朗议会议长：美国违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3112320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "如何评价华为徐直军「感谢」美国制裁，称压力反而促成了中国半导体产业的成长？",
@@ -407,6 +629,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "经济日报：华为韬定律为何出道即顶流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33278739",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "华为nova 16价格公布",
+          "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BAnova+16%E4%BB%B7%E6%A0%BC%E5%85%AC%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "如何看待华为 6 月 1 日发布的 nova 16 系列？有哪些惊喜的功能和升级点？",
+          "url": "https://www.zhihu.com/question/2044770180505589594",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时15分 ~ 19时16分]"
+        },
+        {
+          "title": "比亚迪：5月新能源汽车销量383,453辆，上年同期382,476辆。",
+          "url": "https://wallstreetcn.com/livenews/3112353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "小米自研芯片「玄戒 o3」六月量产，台积电 3nm 加持下性能会有多大提升？",
@@ -448,9 +714,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时57分"
+        },
+        {
+          "title": "吉利汽车：5月汽车销量237637辆，同比增长1%；5月纯电动汽车销量 76633辆，同比减少19%。",
+          "url": "https://wallstreetcn.com/livenews/3112327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
+          "title": "华为耳夹耳机典藏版正式发布",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E8%80%B3%E5%A4%B9%E8%80%B3%E6%9C%BA%E5%85%B8%E8%97%8F%E7%89%88%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         },
         {
           "title": "景顺长城全球芯片LOF将于2026年6月1日开市起至当日10:30停牌。",
@@ -467,8 +755,19 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "欧盟法院已确认受理俄央行诉欧盟对乌金融支持机制案件",
+          "url": "https://wallstreetcn.com/livenews/3112356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
         {
           "title": "欧洲央行管委：欧洲央行应早行动而非晚行动",
           "url": "https://wallstreetcn.com/livenews/3111950",
