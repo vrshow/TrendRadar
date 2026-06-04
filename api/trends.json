@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-04T17:47:48.575702+08:00",
-  "total_titles_processed": 882,
+  "generated_at": "2026-06-04T22:43:26.407639+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 35,
+      "match_count": 39,
       "titles": [
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
@@ -17,6 +17,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
+          "url": "https://www.zhihu.com/question/2045546609027408734",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 22时43分]"
+        },
+        {
+          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
+          "url": "https://www.cls.cn/detail/2390517",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 22时43分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
@@ -47,29 +70,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "黄仁勋最早今晚抵韩！行程曝光：与科技大佬烤肉谈AI、首次亮相综艺……",
-          "url": "https://www.cls.cn/detail/2390517",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
-          "url": "https://www.zhihu.com/question/2045546609027408734",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -102,7 +103,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -140,6 +141,19 @@
           "time_info": "04时50分"
         },
         {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时24分 ~ 22时43分]"
+        },
+        {
           "title": "黄仁勋概念股又+1：纳微半导体暴涨创新高 凭AI电源技术切入“达链”",
           "url": "https://www.cls.cn/detail/2390246",
           "source": "财联社热门",
@@ -152,16 +166,15 @@
           "time_info": "[10时58分 ~ 17时47分]"
         },
         {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
+          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773812",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            21
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时24分 ~ 17时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时58分 ~ 22时43分]"
         },
         {
           "title": "胡彦斌一个月开发出 App，AI 时代将给普通人带来哪些机会？",
@@ -199,17 +212,6 @@
           "time_info": "[00时24分 ~ 10时58分]"
         },
         {
-          "title": "博通上季营收超预期增48%再创新高，AI收入指引逊色，盘后跌超10%| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773812",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时58分 ~ 17时47分]"
-        },
-        {
           "title": "黄仁勋向全球富豪家族力荐AI：回报“疯狂可观”，还在质疑的人才是“疯子”！",
           "url": "https://wallstreetcn.com/articles/3773784",
           "source": "华尔街见闻",
@@ -222,6 +224,18 @@
           "time_info": "[10时58分 ~ 17时47分]"
         },
         {
+          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
+          "url": "https://wallstreetcn.com/articles/3773802",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 22时43分]"
+        },
+        {
           "title": "孙正义重登亚洲首富，称 AI 才刚起步，体量有望达到互联网热潮 50 倍，怎么理解该判断？其首富位子能坐多久？",
           "url": "https://www.zhihu.com/question/2045380781644763655",
           "source": "知乎",
@@ -232,6 +246,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 04时50分]"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时47分 ~ 22时43分]"
         },
         {
           "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
@@ -268,17 +294,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
-          "url": "https://wallstreetcn.com/articles/3773802",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
           "title": "字节跳动旗下AI聊天机器人豆包拟推出付费专业版",
           "url": "https://wallstreetcn.com/livenews/3113914",
           "source": "华尔街见闻-快讯",
@@ -288,6 +303,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
+          "url": "https://wallstreetcn.com/articles/3773793",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "Ci.ai第四财季营收0.516亿美元，分析师预期0.503亿美元。 第四财季调整后每股亏损0.33美元，分析师预期亏损0.37美元。 预计2027财年营收2.10亿-2.40亿美元，分析师预期2.282亿美元。 预计第一财季营收0.5亿-0.54亿美元，分析师预期0.527亿美元。 任命Thomas M. Siebel为首席执行官（CEO）。 C3.ai（AI）美股盘后涨10%。",
@@ -301,17 +349,6 @@
           "time_info": "04时50分"
         },
         {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
           "title": "博通(AVGO.O)：我们预计第三季度来自人工智能领域的半导体营收将同比增长超过200%，达到160亿美元。",
           "url": "https://flash.jin10.com/detail/20260604041835508800",
           "source": "金十数据",
@@ -321,6 +358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "王珞丹谈手搓AI短片创作过程",
@@ -403,7 +451,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "特朗普：确实对内塔尼亚胡“爆粗口”，愿与伊朗最高领袖会面，正与伊朗达成协议，海上封锁或持续到9月",
@@ -472,6 +520,17 @@
           "time_info": "04时50分"
         },
         {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://wallstreetcn.com/livenews/3114497",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "特朗普：我希望获得伊朗的浓缩铀。我们过段时间会去把它搞到手。",
           "url": "https://flash.jin10.com/detail/20260604042528318800",
           "source": "金十数据",
@@ -536,6 +595,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列须立即停止袭击黎巴嫩",
+          "url": "https://flash.jin10.com/detail/20260604221304618800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "国际原子能机构：无法确认伊朗浓缩铀的状况和位置",
+          "url": "https://wallstreetcn.com/livenews/3114491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "特朗普：与伊朗打交道时，任何事情都可能发生。",
@@ -626,15 +707,59 @@
           "time_info": "04时50分"
         },
         {
+          "title": "国际原子能机构：报告重申，因2025年6月军事打击，该机构对伊朗受影响设施内所有此前申报核材料失去连续性掌握，此问题须以最高紧迫性加以解决。",
+          "url": "https://flash.jin10.com/detail/20260604220328126800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "国际原子能机构：鉴于伊朗持续拒绝解决未决保障监督问题，对伊朗境内可能存在未申报核材料及相关活动仍存有严重关切。",
+          "url": "https://flash.jin10.com/detail/20260604220241341800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "媒体：有关伊朗冻结资产协议进入最后阶段 双方分歧有望弥合",
           "url": "https://flash.jin10.com/detail/20260604170442981800",
           "source": "金十数据",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "国际原子能机构：在伊朗切实执行《不扩散核武器条约》保障监督协议不仅不可或缺，且刻不容缓，该协议的执行不得暂停。",
+          "url": "https://flash.jin10.com/detail/20260604220213339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
+          "title": "国际原子能机构：IAEA对伊朗截至2025年6月13日的铀浓缩库存估算与此前报告保持不变。",
+          "url": "https://flash.jin10.com/detail/20260604220202258800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "【伊朗革命卫队否认向科威特机场开火】当地时间3日，伊朗伊斯兰革命卫队发言人表示，其军队并未向科威特机场这一目标开火。 发言人称，科威特机场航站楼损毁系美国“爱国者”防空导弹系统故障所致，该系统发射的导弹在拦截伊朗导弹失败后误落至该航站楼。 科威特外交部3日发表声明说，科威特国际机场等多处民用设施当天遭伊朗弹道导弹和无人机袭击，造成1人死亡、多人受伤。科威特一度暂停该国空中交通并关闭领空。（央视）",
@@ -673,7 +798,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "调查：印度央行本周料将保持利率稳定",
@@ -682,9 +807,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
+          "url": "https://www.cls.cn/detail/2391107",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "中国央行：6月5日将开展5000亿元买断式逆回购操作",
@@ -693,7 +829,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -704,7 +840,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -726,7 +862,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         },
@@ -748,9 +884,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "央行宏审局局长周永坤“空降”四川 接替严宝玉出任省分行行长",
+          "url": "https://wallstreetcn.com/livenews/3114480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "日本内阁官房长官木原稔：政府与日本央行在经济和金融趋势方面保持密切沟通，并将继续如此。",
@@ -803,7 +950,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
@@ -811,8 +958,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "国网辽宁电力与华为联合打造端到端光通信网",
+          "url": "https://flash.jin10.com/detail/20260604222255878800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
         {
           "title": "华为人才离职创业公司估值1亿美元",
           "url": "https://www.baidu.com/s?wd=%E5%8D%8E%E4%B8%BA%E4%BA%BA%E6%89%8D%E7%A6%BB%E8%81%8C%E5%88%9B%E4%B8%9A%E5%85%AC%E5%8F%B8%E4%BC%B0%E5%80%BC1%E4%BA%BF%E7%BE%8E%E5%85%83",
@@ -832,7 +990,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
         }
