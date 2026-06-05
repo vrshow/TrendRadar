@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T10:47:02.025026+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-06-05T17:36:30.152106+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 23,
+      "match_count": 35,
       "titles": [
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时36分]"
+        },
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时36分]"
         },
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -30,26 +42,38 @@
           "time_info": "[10时46分 ~ 10时47分]"
         },
         {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
           "title": "腾讯高管：今年腾讯大部分代码都由AI生成",
           "url": "https://flash.jin10.com/detail/20260605103725002800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "SpaceX IPO路演盛况空前！华尔街火力全开 高喊AI收入将激增百倍",
+          "url": "https://www.cls.cn/detail/2391554",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时46分 ~ 17时36分]"
         },
         {
           "title": "AI脸泛滥成灾,建模师没活了",
@@ -80,17 +104,6 @@
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时46分 ~ 10时47分]"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -141,6 +154,28 @@
           "time_info": "03时57分"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中方回应外媒称AI进入“中美争霸”",
+          "url": "https://www.toutiao.com/trending/7647807825645699126/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "AI交易降温，纳指跌超1%，博通大跌14%，金涨油跌，比特币承压",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -150,6 +185,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "AI泡沫再成舆论焦点？经济学家警告：英伟达或许就是新思科！",
+          "url": "https://www.cls.cn/detail/2391541",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
@@ -174,6 +231,28 @@
           "time_info": "03时57分"
         },
         {
+          "title": "微软CEO深度访谈：过度依赖OpenAI曾让公司陷入被动，软件“未死”但传统SaaS已到转折点",
+          "url": "https://wallstreetcn.com/articles/3773884",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
           "url": "https://wallstreetcn.com/articles/3773793",
           "source": "华尔街见闻",
@@ -183,6 +262,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "陈果：牛市不仅仅是AI，中国消费股遍地黄金，处于历史大底",
+          "url": "https://wallstreetcn.com/articles/3773916",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "好怕现实中也有人长AI这样",
@@ -224,7 +325,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -235,9 +336,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "AI外呼技术兴起，骚扰电话高频化如何治理？上海市监局答复",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310752",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "韩国劳动部长：三星及其他公司应考虑分享因人工智能繁荣而获得的“超额利润”。",
@@ -246,9 +358,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，共建AI云服务产业生态",
+          "url": "https://wallstreetcn.com/livenews/3114960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "华为云发布AICS灵衢智算集群等Agentic AI新品",
@@ -257,15 +380,220 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
+        },
+        {
+          "title": "Gartner：到2030年，预计100%的IT工作都将在AI辅助下完成",
+          "url": "https://wallstreetcn.com/livenews/3114958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
+          "url": "https://www.cls.cn/detail/2391107",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时57分 ~ 10时47分]"
+        },
+        {
+          "title": "中国央行就《人民币存贷款利率管理规定》公开征求意见",
+          "url": "https://wallstreetcn.com/livenews/3114990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：下一步将制定落实《指导意见》的三年行动方案",
+          "url": "https://wallstreetcn.com/livenews/3114987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：加强私募基金监管有利于及时清除害群之马，避免劣币驱逐良币",
+          "url": "https://wallstreetcn.com/livenews/3114986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：坚决清退各种不符合要求的私募基金管理人",
+          "url": "https://wallstreetcn.com/livenews/3114985",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：下一步将制定落实《指导意见》的三年行动方案",
+          "url": "https://flash.jin10.com/detail/20260605171402713800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：加强国资基金规范管理，确保国资基金坚守功能定位",
+          "url": "https://wallstreetcn.com/livenews/3114984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：加强私募基金监管有利于及时清除害群之马，避免劣币驱逐良币",
+          "url": "https://flash.jin10.com/detail/20260605171234072800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "特朗普声称美伊进入最后谈判阶段，伊方与真主党死守停火底线；泽连斯基公开致信普京提议举行会晤，日本央行释放6月加息信号…………后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
+          "url": "https://flash.jin10.com/detail/20260605103152672800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "证监会：坚决清退各种不符合要求的私募基金管理人",
+          "url": "https://flash.jin10.com/detail/20260605171129554800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会：加强国资基金规范管理，确保国资基金坚守功能定位",
+          "url": "https://flash.jin10.com/detail/20260605170942528800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "俄罗斯央行副行长扎博特金：央行在调整关键利率路径及修订经济预测时，将把延后实现基本预算零赤字目标的因素纳入考量。",
+          "url": "https://flash.jin10.com/detail/20260605170840231800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "央行开展5000亿买断式逆回购",
+          "url": "https://www.douyin.com/hot/2523503",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "中国央行逆回购今日净投放920亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3114722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时47分"
+        },
+        {
+          "title": "香港证监会与香港金管局就修订《结算规则》下的场外衍生工具交易规定发表联合谘询总结",
+          "url": "https://wallstreetcn.com/livenews/3114959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "俄罗斯央行副行长扎博特金：降息空间并未缩小。",
+          "url": "https://flash.jin10.com/detail/20260605170333616800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "证监会核准7家机构合格境外投资者资格",
+          "url": "https://wallstreetcn.com/livenews/3114957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗外长：地区国家不应让美国利用其领土攻击伊朗",
@@ -277,6 +605,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
+        },
+        {
+          "title": "据沙特阿拉伯阿拉比亚电视台：伊朗已通知巴基斯坦，伊方接受将其部分铀库存转移至一个经其同意的第三国。",
+          "url": "https://flash.jin10.com/detail/20260605171456666800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "特朗普：绝不允许伊朗拥核，不排除与其最高领袖会晤",
@@ -301,13 +640,35 @@
           "time_info": "03时57分"
         },
         {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "伊朗外长回忆哈梅内伊遇袭当天细节",
+          "url": "https://news.ifeng.com/c/8thzeBSBwEz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "国际原子能机构警告核风险攀升：伊朗近武器级铀库存已脱离监管逾一年",
           "url": "https://flash.jin10.com/detail/20260605102619174800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -326,19 +687,31 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "新金主!比亚迪官宣赞助LPL",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354891&amp;topic_name=%E6%96%B0%E9%87%91%E4%B8%BB%21%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%AE%98%E5%AE%A3%E8%B5%9E%E5%8A%A9LPL",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
         {
           "title": "微信智能体“打通”各大手机厂商？客服：将和华为、小米等厂商合作，相关功能陆续上线",
           "url": "https://m.thepaper.cn/newsDetail_forward_33308605",
           "source": "澎湃新闻",
           "ranks": [
             17,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[03时57分 ~ 17时36分]"
         },
         {
           "title": "比亚迪王朝首款D级旗舰轿车征名",
@@ -361,46 +734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "央行将开展5000亿元买断式逆回购操作 缩量趋势延续 机构：资金面或从“异常宽松”回到“合理充裕”",
-          "url": "https://www.cls.cn/detail/2391107",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时57分 ~ 10时47分]"
         },
         {
-          "title": "特朗普声称美伊进入最后谈判阶段，伊方与真主党死守停火底线；泽连斯基公开致信普京提议举行会晤，日本央行释放6月加息信号…………后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）。",
-          "url": "https://flash.jin10.com/detail/20260605103152672800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时47分"
-        },
-        {
-          "title": "中国央行逆回购今日净投放920亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3114722",
+          "title": "兆易创新与蔚来达成战略合作",
+          "url": "https://wallstreetcn.com/livenews/3114951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时47分"
+          "time_info": "17时36分"
         }
       ]
     }
