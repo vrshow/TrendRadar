@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T10:34:08.137116+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-06T16:27:35.223943+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 23,
+      "match_count": 31,
       "titles": [
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 16时27分]"
         },
         {
           "title": "据Politico：特朗普最早将于下周与人工智能公司会面，商讨政府利润分成计划。",
@@ -39,6 +39,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "黑色星期五！“人人赚钱”的全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://wallstreetcn.com/articles/3774007",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "中国首例！盲人凭脑机接口复明成功",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%EF%BC%81%E7%9B%B2%E4%BA%BA%E5%87%AD%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A4%8D%E6%98%8E%E6%88%90%E5%8A%9F",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
@@ -75,6 +97,19 @@
           "time_info": "[03时46分 ~ 10时34分]"
         },
         {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            10,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 16时27分]"
+        },
+        {
           "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
           "url": "https://www.cls.cn/detail/2391959",
           "source": "财联社热门",
@@ -87,16 +122,40 @@
           "time_info": "[03时46分 ~ 10时34分]"
         },
         {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
+          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
+          "url": "https://www.zhihu.com/question/2046268823192302620",
+          "source": "知乎",
           "ranks": [
-            10,
-            13
+            19,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[03时46分 ~ 10时34分]"
+          "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "开麦丨AI在电话那头等你，接还是不接？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "印度高温背后的AI问题",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 16时27分]"
         },
         {
           "title": "创业板大跌超3%，机器人午后爆发，芯片半导体集体下挫，恒科指跌近2%，AI大模型股急跌",
@@ -115,39 +174,6 @@
           "source": "知乎",
           "ranks": [
             18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "抖音副总裁回应豆包误判蘑菇致用户中毒，称 AI 回应仅供参考，如何看待这一回应？这件事豆包该背锅吗？",
-          "url": "https://www.zhihu.com/question/2046268823192302620",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "开麦丨AI在电话那头等你，接还是不接？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316762",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "印度高温背后的AI问题",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E8%83%8C%E5%90%8E%E7%9A%84AI%E9%97%AE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -187,6 +213,28 @@
           "time_info": "03时46分"
         },
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "高考要用AI改卷系谣言",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E8%A6%81%E7%94%A8AI%E6%94%B9%E5%8D%B7%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
           "url": "https://www.cls.cn/detail/2391915",
           "source": "财联社热门",
@@ -209,6 +257,17 @@
           "time_info": "03时46分"
         },
         {
+          "title": "AI文风太好认",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%96%87%E9%A3%8E%E5%A4%AA%E5%A5%BD%E8%AE%A4&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
           "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3115292",
           "source": "华尔街见闻-快讯",
@@ -218,6 +277,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "全国首例盲人脑机接口复明成功",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%9B%BD%E9%A6%96%E4%BE%8B%E7%9B%B2%E4%BA%BA%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A4%8D%E6%98%8E%E6%88%90%E5%8A%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
@@ -248,9 +318,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "算得更快更准 全球海洋现象智能预报大模型“琅琊”2.0发布",
+          "url": "https://wallstreetcn.com/livenews/3115413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "周五（6月5日），美股AI软件先驱指数跌4.89%，报116.06点，本周累跌5.18%。 成分股中，甲骨文收跌9.59%，铿腾电子跌8.62%，MongoDB跌7.74%，新思科技跌5.99%，ServiceNOW跌5.79%，Elastic跌5.07%，Palantir跌4.35%，Datadog、HubSpot、Adobe、微软、ServiceNOW、Salesforce、C3.ai跌3.90%-1.42%，GitHub涨0.91%，是唯一收涨的成分股。",
@@ -259,26 +340,49 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "全球AI大牛市遭遇“当头棒喝”",
+          "url": "https://www.toutiao.com/trending/7648110650903760422/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 19,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普：将迅速结束伊朗战事",
           "url": "https://news.ifeng.com/c/8tjENyLisNK",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
+          "appearance_count": 3,
+          "time_info": "[10时33分 ~ 16时27分]"
+        },
+        {
+          "title": "伊朗外长：我亲历已故最高领袖遇害瞬间",
+          "url": "https://wallstreetcn.com/livenews/3115437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "伊朗革命卫队称中东地区美军基地遭袭",
@@ -287,7 +391,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -298,9 +402,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "伊朗外长：哈梅内伊遇害那一刻，我就在他办公室里",
+          "url": "https://news.ifeng.com/c/8tjg7UwVKTV",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "风水轮流转，轮到伊朗威胁美国了",
@@ -364,7 +479,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -375,9 +490,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "报道：多名伊朗世界杯工作人员被美国拒签",
+          "url": "https://wallstreetcn.com/livenews/3115430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "俄罗斯石油公司首席执行官谢钦：伊朗战争的主要受益者是美国石油公司，它们正以高价出售石油。",
+          "url": "https://flash.jin10.com/detail/20260606153702419800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普称将迅速结束伊朗战事",
@@ -386,7 +523,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -397,9 +534,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "白宫：伊朗国足已获得签证",
+          "url": "https://wallstreetcn.com/livenews/3115427",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "美媒：特朗普特使前往田纳西州密会核专家 以待在伊朗核谈判中发挥作用",
@@ -411,6 +559,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "科威特在因伊朗袭击而暂停空中交通后，现已恢复航班运行。",
+          "url": "https://flash.jin10.com/detail/20260606152504755800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "巴林谴责伊朗对其领土和科威特的导弹袭击",
+          "url": "https://flash.jin10.com/detail/20260606151202520800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
+        },
+        {
+          "title": "伊朗最高领袖军事顾问警告美国或将“损失惨重”",
+          "url": "https://wallstreetcn.com/livenews/3115423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
@@ -430,7 +611,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -441,9 +622,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
+        },
+        {
+          "title": "美国军事网站“战区”报道称，美国空军正紧急寻求填补MQ-9无人机库存，此前该机型在针对伊朗的行动中损失了近30架，在针对胡塞武装的任务中也有所损失。由于MQ-9A已停产，美国空军计划从通用原子公司采购未使用的库存飞机，但可供采购的数量不足10架。美军MQ-9机队规模已从2026财年初的165架减少到目前的约135架。",
+          "url": "https://flash.jin10.com/detail/20260606143356956800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "特朗普称将迅速结束伊朗战事",
@@ -452,7 +644,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -463,7 +655,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         },
@@ -474,7 +666,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时34分"
         }
@@ -482,7 +674,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "新金主!比亚迪官宣赞助LPL",
@@ -490,11 +682,23 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时46分 ~ 10时34分]"
+          "appearance_count": 4,
+          "time_info": "[03时46分 ~ 16时27分]"
+        },
+        {
+          "title": "不吉利!不登校乐队祝福高考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354923&amp;topic_name=%E4%B8%8D%E5%90%89%E5%88%A9%21%E4%B8%8D%E7%99%BB%E6%A0%A1%E4%B9%90%E9%98%9F%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         },
         {
           "title": "小米股价为什么跌跌不休",
@@ -506,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "比亚迪布局人形机器人，但“代号‘尧舜禹’”“年内自用2万台”等消息不实",
+          "url": "https://wallstreetcn.com/livenews/3115409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时27分"
         }
       ]
     },
