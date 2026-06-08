@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T03:12:16.528877+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-08T10:55:55.531568+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 16,
+      "match_count": 31,
       "titles": [
         {
           "title": "消息人士：美计划动用伊朗资产修复海湾盟友损失",
@@ -30,13 +30,35 @@
           "time_info": "[03时11分 ~ 03时12分]"
         },
         {
+          "title": "伊朗战争最新动态丨以色列打击伊朗，美国急表态",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
+          "url": "https://www.cls.cn/detail/2393027",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
           "title": "伊朗拒绝接受将其资产用于向美国盟友支付战争赔偿的设想",
           "url": "https://wallstreetcn.com/livenews/3115603",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -47,29 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
-          "url": "https://flash.jin10.com/detail/20260608021739259800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：巴基斯坦陆军总司令呼吁伊朗把握当前时机达成协议。",
-          "url": "https://flash.jin10.com/detail/20260608021659114800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -78,33 +78,102 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33327663",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时55分]"
         },
         {
-          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
-          "url": "https://www.cls.cn/detail/2392742",
-          "source": "财联社热门",
+          "title": "据以色列第12频道：一位美国安全消息人士表示，已做好防御准备，以应对伊朗可能发动的攻击。",
+          "url": "https://flash.jin10.com/detail/20260608021739259800",
+          "source": "金十数据",
           "ranks": [
-            11
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
+          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：巴基斯坦陆军总司令呼吁伊朗把握当前时机达成协议。",
+          "url": "https://flash.jin10.com/detail/20260608021659114800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
         },
         {
           "title": "世界杯签证问题持续，多国记者及伊朗队成员仍未获赴美签证",
           "url": "https://m.thepaper.cn/newsDetail_forward_33327810",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时55分]"
+        },
+        {
+          "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
+          "url": "https://www.cls.cn/detail/2392742",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时55分]"
+        },
+        {
+          "title": "时隔两月伊朗向以色列发动导弹袭击",
+          "url": "https://www.toutiao.com/trending/7648730929451745330/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗确认遭以色列导弹袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗发射导弹袭击以色列",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%8F%91%E5%B0%84%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB%E4%BB%A5%E8%89%B2%E5%88%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "伊朗议员：伊朗从通过霍尔木兹海峡的每艘船获得150万-200万美元通行费。（伊朗国家电视台IRIB）",
@@ -113,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -124,9 +193,64 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗时隔两个月再袭以色列",
+          "url": "https://www.douyin.com/hot/2526750",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "据伊朗PressTV：白宫称美国未参与以色列对伊朗目标的导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260608102852945800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "以色列正在攻击伊朗境内目标",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%9C%A8%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "伊朗媒体称，目前以色列尚未袭击德黑兰市区。",
+          "url": "https://wallstreetcn.com/livenews/3115787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
@@ -135,7 +259,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -146,9 +270,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗革命卫队：以色列对伊朗发动弹道导弹袭击",
+          "url": "https://wallstreetcn.com/livenews/3115783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "伊朗副外长：伊朗的资产既不是华盛顿的战利品，也不是其盟友的赔付基金。",
@@ -157,7 +292,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         },
@@ -168,9 +303,42 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "伊朗关闭德黑兰伊玛目霍梅尼国际机场周边空域。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3115774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "时隔两个月 伊朗向以发动导弹袭击",
+          "url": "https://www.baidu.com/s?wd=%E6%97%B6%E9%9A%94%E4%B8%A4%E4%B8%AA%E6%9C%88+%E4%BC%8A%E6%9C%97%E5%90%91%E4%BB%A5%E5%8F%91%E5%8A%A8%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社：截至目前，以色列袭击未针对德黑兰城区。",
+          "url": "https://flash.jin10.com/detail/20260608101610034800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -179,7 +347,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
         }
@@ -187,7 +355,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -205,11 +373,12 @@
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时55分]"
         },
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -243,6 +412,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时11分 ~ 03时12分]"
+        },
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
+        },
+        {
+          "title": "京东与腾讯就AI Agent达成合作：目标走向生态协同",
+          "url": "https://wallstreetcn.com/livenews/3115769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时55分"
         }
       ]
     },
@@ -251,22 +453,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "不吉利!不登校乐队祝福高考",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354923&amp;topic_name=%E4%B8%8D%E5%90%89%E5%88%A9%21%E4%B8%8D%E7%99%BB%E6%A0%A1%E4%B9%90%E9%98%9F%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83",
+          "source": "贴吧",
+          "ranks": [
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时11分 ~ 10时55分]"
+        },
+        {
           "title": "华为 PuraXMax 首月销量近 35 万台，典藏版卖得更好，这释放了哪些市场信号？",
           "url": "https://www.zhihu.com/question/2045967359232448046",
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时11分 ~ 03时12分]"
-        },
-        {
-          "title": "不吉利!不登校乐队祝福高考",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354923&amp;topic_name=%E4%B8%8D%E5%90%89%E5%88%A9%21%E4%B8%8D%E7%99%BB%E6%A0%A1%E4%B9%90%E9%98%9F%E7%A5%9D%E7%A6%8F%E9%AB%98%E8%80%83",
-          "source": "贴吧",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 2,
