@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-11T10:56:36.163089+08:00",
-  "total_titles_processed": 532,
+  "generated_at": "2026-06-11T18:13:40.678036+08:00",
+  "total_titles_processed": 781,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 18时13分]"
         },
         {
           "title": "【早报】美军空袭伊朗；黄金、白银继续大跌",
@@ -25,7 +25,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -36,9 +36,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "约旦称击落20枚伊朗导弹",
+          "url": "https://wallstreetcn.com/livenews/3118090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "伊朗战争影响海湾地区供应 美国跃升印度最大天然气供应商",
+          "url": "https://flash.jin10.com/detail/20260611180732066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "科威特民航局：科威特因伊朗袭击暂时关闭空域，航班被迫改道。",
@@ -47,18 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "美军再轰炸伊朗，凤凰记者解读前线战况",
-          "url": "https://news.ifeng.com/c/8trWptRoM8M",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -71,8 +82,43 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 18时13分]"
+        },
+        {
+          "title": "美军再轰炸伊朗，凤凰记者解读前线战况",
+          "url": "https://news.ifeng.com/c/8trWptRoM8M",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2048301839200642048",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时21分 ~ 10时56分]"
+          "time_info": "[10时56分 ~ 18时13分]"
+        },
+        {
+          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 18时13分]"
         },
         {
           "title": "伊朗公布最新海上损失：253艘船沉没或全毁，海员54死66伤",
@@ -86,15 +132,15 @@
           "time_info": "04时21分"
         },
         {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡，打击两艘非法通过海峡船只，如何解读？可能会带来哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2048301839200642048",
-          "source": "知乎",
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://news.ifeng.com/c/8trqmYEuo1k",
+          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时56分"
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗全面关闭霍尔木兹海峡",
@@ -103,9 +149,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "伊朗：用12枚导弹摧毁美军大量战机",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%94%A812%E6%9E%9A%E5%AF%BC%E5%BC%B9%E6%91%A7%E6%AF%81%E7%BE%8E%E5%86%9B%E5%A4%A7%E9%87%8F%E6%88%98%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "伊朗袭击美军第五舰队",
@@ -136,9 +193,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "伊朗再次称霍尔木兹海峡暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3118073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "美军对伊朗发动打击",
@@ -158,7 +226,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -172,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
-        },
-        {
-          "title": "伊朗宣布对所有船只关闭霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33355478",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         },
         {
           "title": "伊朗驻联合国大使：美国无法通过威胁、恐吓或使用武力的方式使伊朗达成可持续的协议。伊朗从未在威胁下进行谈判，永远不会屈服于压力或胁迫。",
@@ -202,7 +259,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -235,7 +292,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -246,7 +303,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -268,7 +325,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -279,7 +336,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -301,7 +358,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -334,7 +391,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -345,7 +402,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -364,7 +421,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 15,
+      "match_count": 26,
       "titles": [
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -372,11 +429,12 @@
           "source": "澎湃新闻",
           "ranks": [
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 10时56分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 18时13分]"
         },
         {
           "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
@@ -390,17 +448,6 @@
           "time_info": "04时21分"
         },
         {
-          "title": "抖音AI创作大赛来了",
-          "url": "https://www.douyin.com/hot/2529851",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
           "url": "https://www.cls.cn/detail/2396017",
           "source": "财联社热门",
@@ -412,15 +459,38 @@
           "time_info": "04时21分"
         },
         {
+          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
+          "url": "https://www.cls.cn/detail/2396831",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "创业板指跌超1%，此前一度涨超1.4%，物理AI、影视传媒、游戏、体育等板块跌幅居前，沪深京三市下跌个股超4500家。",
           "url": "https://wallstreetcn.com/livenews/3117872",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 18时13分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -459,15 +529,103 @@
           "time_info": "[04时21分 ~ 10时56分]"
         },
         {
+          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
+          "url": "https://wallstreetcn.com/articles/3774376",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "路透社/益普索调查显示，77%的美国人担心人工智能将推高电价。",
+          "url": "https://flash.jin10.com/detail/20260611180150999800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352142",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "脑机接口再突破！高位截瘫患者完成千里对弈",
+          "url": "https://www.cls.cn/detail/2396945",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "创业板指跌超1%，传媒、AI智能体、减速器等概念跌幅居前。",
           "url": "https://flash.jin10.com/detail/20260611103503168800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "根据路透社/益普索调查，仅有33%的美国人支持快速建设人工智能数据中心，而64%的人表示反对。",
+          "url": "https://flash.jin10.com/detail/20260611180120531800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "AI大神做漫剧真有一套",
+          "url": "https://www.douyin.com/hot/2530023",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33352580",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "北证50指数跌超3%，创业板指冲高回落翻绿，沪指、深成指均跌超0.4%，影视传媒、物理AI、旅游、机器人等板块跌幅居前，沪深京三市下跌个股超4300只。",
@@ -476,7 +634,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -487,9 +645,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "京东发布国内首个智能体自主支付协议 为AI“花钱”定规则",
+          "url": "https://flash.jin10.com/detail/20260611175146785800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "Anthropic的CEO：政府应当有权封杀、阻断高风险新AI模型的部署",
@@ -514,13 +683,24 @@
           "time_info": "04时21分"
         },
         {
+          "title": "腾讯混元AI Infra新开源：HPC-Ops推理核心算子全面升级",
+          "url": "https://wallstreetcn.com/livenews/3118048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
           "title": "报道：OpenAI正考虑大幅降价",
           "url": "https://wallstreetcn.com/livenews/3117833",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -539,7 +719,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "小米 SU7 电吸门夹伤女子致骨折，官方确认无防夹功能，汽车电吸门技术应如何平衡便利与安全？",
@@ -554,13 +734,25 @@
           "time_info": "[04时21分 ~ 10时56分]"
         },
         {
+          "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2048020930757239453",
+          "source": "知乎",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时56分 ~ 18时13分]"
+        },
+        {
           "title": "王传福称五年后比亚迪将在规模上做到真正的全球第一，真的能实现吗？可能存在哪些难点？",
           "url": "https://www.zhihu.com/question/2047749282292299196",
           "source": "知乎",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -571,18 +763,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
-        },
-        {
-          "title": "华为首款超跑 SUV 智界 RX 正式官宣，会对新能源高端市场带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2048020930757239453",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -593,7 +774,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -615,15 +796,48 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "奇瑞汽车与引望签署战略合作协议 将围绕L3级、L4级自动驾驶等技术深化合作",
+          "url": "https://flash.jin10.com/detail/20260611173735986800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "演员李健喊话极氪在横店开店",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E6%9D%8E%E5%81%A5%E5%96%8A%E8%AF%9D%E6%9E%81%E6%B0%AA%E5%9C%A8%E6%A8%AA%E5%BA%97%E5%BC%80%E5%BA%97",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
+        },
+        {
+          "title": "小米汽车科技有限公司增加增程式电动乘用车产品品种",
+          "url": "https://wallstreetcn.com/livenews/3118042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "植田和男住院缺席议息会议，市场担忧央行沟通不畅",
@@ -632,9 +846,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
+        },
+        {
+          "title": "证监会：批复同意国仪量子技术（合肥）股份有限公司首次公开发行股票注册。",
+          "url": "https://wallstreetcn.com/livenews/3118064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时13分"
         },
         {
           "title": "日本内阁官房长官木原稔：日本央行行长植田和男临时住院不太可能影响政策执行和政府合作。",
@@ -643,7 +868,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -654,7 +879,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
