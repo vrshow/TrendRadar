@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T04:01:49.481744+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-13T10:46:04.254935+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 24,
+      "match_count": 38,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -19,13 +19,35 @@
           "time_info": "[04时00分 ~ 04时01分]"
         },
         {
+          "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
+          "url": "https://news.ifeng.com/c/8tuft4KELYT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "霍尔木兹将重开？伊朗曝光14点协议草案",
+          "url": "https://news.ifeng.com/c/8tuse7CSv3h",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：如果谈判的最后阶段完成，协议将由双方以远程方式签署，随后再对外公布。",
           "url": "https://flash.jin10.com/detail/20260613035630897800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -36,9 +58,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伊朗外长：霍尔木兹海峡相关服务将收费",
@@ -47,9 +80,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美中央司令部：伊朗发射了多架单向攻击无人机，试图袭击通过霍尔木兹海峡的商船。美军在数小时内击落了所有这些无人机，海峡通航未受影响。这条国际贸易通道仍然保持开放。",
+          "url": "https://flash.jin10.com/detail/20260613093322843800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
@@ -58,7 +102,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -69,7 +113,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -83,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
+          "url": "https://wallstreetcn.com/articles/3774522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -107,13 +162,35 @@
           "time_info": "[04时00分 ~ 04时01分]"
         },
         {
+          "title": "以防长暗示未来或再动武阻止伊朗拥核",
+          "url": "https://www.toutiao.com/trending/7650086641291657267/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
           "url": "https://flash.jin10.com/detail/20260613034424534800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -124,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -135,7 +212,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -146,7 +223,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -157,7 +234,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -168,9 +245,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：一名黎巴嫩官方消息人士表示，与以色列代表的第五轮谈判将于6月22日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260613091201134800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗将确保船只安全通过霍尔木兹海峡。",
@@ -179,9 +267,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
+          "url": "https://wallstreetcn.com/livenews/3119102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
@@ -190,7 +289,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -201,7 +300,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -212,7 +311,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -223,9 +322,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
+          "url": "https://wallstreetcn.com/livenews/3119092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -234,9 +344,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗南部爆炸声因警告性射击",
+          "url": "https://wallstreetcn.com/livenews/3119090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "阿联酋坚决否认有关向伊朗转移资金的媒体报道",
+          "url": "https://flash.jin10.com/detail/20260613084629743800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "【伊朗外交部：伊方正在审议谅解备忘录草案】伊朗外交部发言人巴加埃表示，目前伊美双方已经在大多数问题上达成谅解，伊朗内部正在对谅解备忘录文本进行最后阶段的汇总。因此，伊朗外长阿拉格齐此前关于“双方已非常接近达成谅解”的表态是准确且值得关注的。相关决策机构的会议正在举行，这是一个持续推进的过程。为达成一个最终且具有决定性的结果，决策机构和相关部门之间必须形成共识。 巴加埃还表示，目前有关协议文本内容的各种猜测均未获得证实。虽然外交进程中的具体细节暂不便公开讨论，但这并不意味着公众没有知情权。（央视）",
@@ -245,7 +377,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -256,9 +388,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "据路透社：一位知情人士透露，美国军方击落多架朝霍尔木兹海峡飞来的伊朗单向攻击无人机。消息人士称，伊朗无人机对商业航运构成威胁。",
+          "url": "https://flash.jin10.com/detail/20260613083014725800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         },
         {
           "title": "以防长暗示未来以色列或再动武阻止伊朗拥核",
@@ -267,15 +410,26 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美官员称有信心未来几天内与伊朗签署谅解备忘录",
+          "url": "https://wallstreetcn.com/livenews/3119085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "抖音AI创作大赛首个爆款出现",
@@ -289,6 +443,17 @@
           "time_info": "[04时00分 ~ 04时01分]"
         },
         {
+          "title": "AI材料短缺蔓延：英伟达亲自下场抢购HVLP4铜箔，2026年缺口达1500吨",
+          "url": "https://wallstreetcn.com/articles/3774502",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
           "title": "猛男舞团翻跳Dai Dai",
           "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
           "source": "bilibili 热搜",
@@ -298,23 +463,79 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "具身智能行业5月融资额环比降近六成",
+          "url": "https://wallstreetcn.com/livenews/3119108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "报道：美国封锁境外获取Anthropic先进AI模型的渠道",
+          "url": "https://wallstreetcn.com/livenews/3119106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "OpenAI遭美国多个州的总检察长联盟调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3119103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
+          "url": "https://wallstreetcn.com/livenews/3119107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
+        },
+        {
+          "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
+          "url": "https://flash.jin10.com/detail/20260613085422876800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时46分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
           "url": "https://www.zhihu.com/question/2048823351049707836",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时00分 ~ 10时46分]"
         },
         {
           "title": "中石化比亚迪闪充站正式落地",
@@ -326,6 +547,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "近段时间所有的科技股都在大涨，小米为什么屡创新低？",
+          "url": "https://www.zhihu.com/question/2047684655617422562",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时45分 ~ 10时46分]"
         }
       ]
     },
@@ -338,11 +570,12 @@
           "url": "https://www.cls.cn/detail/2398470",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时00分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[04时00分 ~ 10时46分]"
         }
       ]
     }
