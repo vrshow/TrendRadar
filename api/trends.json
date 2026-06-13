@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-13T16:50:59.414331+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-06-13T21:45:54.988943+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 41,
+      "match_count": 58,
       "titles": [
         {
           "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
@@ -52,13 +52,24 @@
           "time_info": "04时01分"
         },
         {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://flash.jin10.com/detail/20260613210321558800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "美伊达成一致，伊朗外长：第一阶段将以远程电子方式签署",
           "url": "https://news.ifeng.com/c/8tuxeZuZndm",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -96,6 +107,28 @@
           "time_info": "10时46分"
         },
         {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://flash.jin10.com/detail/20260613210012560800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "伊朗多家银行出现技术故障 正开展修复工作",
+          "url": "https://wallstreetcn.com/livenews/3119163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：我们的剑将始终高悬在霍尔木兹海峡上。",
           "url": "https://flash.jin10.com/detail/20260613034446617800",
           "source": "金十数据",
@@ -105,6 +138,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗外交部发言人：由于对方犹豫不决，我们必须对签署日期的任何评论保持谨慎。",
+          "url": "https://flash.jin10.com/detail/20260613205949121800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "【伊朗外长：美国在谅解备忘录中承诺不发动战争】据伊朗媒体12日报道，伊朗外长阿拉格齐参加当晚的一档电视节目时表示，正在进行的伊美谅解备忘录谈判中，美国承诺不发动战争，也不使用威胁手段，双方彼此尊重主权，互不干涉内政。（新华社）",
@@ -130,24 +174,25 @@
           "time_info": "[10时46分 ~ 16时50分]"
         },
         {
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时45分 ~ 21时45分]"
+        },
+        {
           "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
           "url": "https://wallstreetcn.com/articles/3774522",
           "source": "华尔街见闻",
           "ranks": [
             8,
             7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时45分 ~ 16时50分]"
-        },
-        {
-          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            15
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -163,6 +208,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 21时45分]"
         },
         {
           "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
@@ -185,6 +242,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时00分 ~ 04时01分]"
+        },
+        {
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 21时45分]"
         },
         {
           "title": "阿联酋外交部驳斥媒体报道，称：我们尚未释放任何被冻结的伊朗资金。",
@@ -210,17 +279,6 @@
           "time_info": "[10时45分 ~ 10时46分]"
         },
         {
-          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
-          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡不存在国际水域。",
           "url": "https://flash.jin10.com/detail/20260613034424534800",
           "source": "金十数据",
@@ -230,6 +288,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗外交部发言人：不排除在未来几天内签署伊斯兰堡谅解备忘录的可能性。",
+          "url": "https://flash.jin10.com/detail/20260613205713059800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "伊朗外交部：伊美谅解备忘录不会在明天签署",
+          "url": "https://wallstreetcn.com/livenews/3119160",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "伊朗外长阿拉格齐：对德黑兰而言，处置高浓缩铀库存的唯一优选方案是将相关材料降纯稀释。",
@@ -243,6 +323,28 @@
           "time_info": "04时01分"
         },
         {
+          "title": "伊朗外交部发言人：伊斯兰堡谅解备忘录侧重于结束现阶段战争，不讨论核问题。",
+          "url": "https://flash.jin10.com/detail/20260613205541727800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美军被曝制订抢夺伊朗浓缩铀计划 特朗普未批准",
+          "url": "https://wallstreetcn.com/livenews/3119159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "伊朗外长：谅解备忘录草案内容涵盖黎巴嫩战线止战",
           "url": "https://flash.jin10.com/detail/20260613033925939800",
           "source": "金十数据",
@@ -252,6 +354,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗外交部发言人：签署备忘录的确切时间不会是明天。",
+          "url": "https://flash.jin10.com/detail/20260613205447005800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "美媒细数特朗普曾39次说与伊朗谈好",
+          "url": "https://wallstreetcn.com/livenews/3119158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "美国内政部长道格·伯格姆：（谈及伊朗谈判）特朗普已经让该地区各方与其保持一致立场。",
@@ -309,6 +433,28 @@
           "time_info": "04时01分"
         },
         {
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://wallstreetcn.com/livenews/3119155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://www.toutiao.com/trending/7650457789692825107/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
           "title": "伊朗外长：美国在谅解备忘录中承诺不发动战争",
           "url": "https://flash.jin10.com/detail/20260613033606513800",
           "source": "金十数据",
@@ -329,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://wallstreetcn.com/livenews/3119149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "伊朗外长阿拉格齐：霍尔木兹海峡的主权属于伊朗和阿曼。",
@@ -353,15 +510,15 @@
           "time_info": "04时01分"
         },
         {
-          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
-          "source": "澎湃新闻",
+          "title": "伊朗称霍尔木兹收服务费完全合理",
+          "url": "https://flash.jin10.com/detail/20260613195458355800",
+          "source": "金十数据",
           "ranks": [
-            19
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时50分"
+          "time_info": "21时45分"
         },
         {
           "title": "渣打银行驻纽约经济学家Dan Pan：（美国与伊朗达成）协议前景仍存在大量不确定性。 如果我们看到风险情绪因突发新闻而出现回调，我也不会感到惊讶。",
@@ -373,6 +530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "伊朗已故最高领袖将于7月9日下葬",
+          "url": "https://wallstreetcn.com/livenews/3119145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "阿联酋已同意向伊朗释放总计100亿美元的资金。（路透）",
@@ -395,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "伊朗公布已故最高领袖哈梅内伊葬礼安排",
+          "url": "https://wallstreetcn.com/livenews/3119144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "阿联酋坚决否认有关向伊朗转移资金的媒体报道",
@@ -461,13 +640,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "伊朗司法总监：绝不信任美国",
+          "url": "https://flash.jin10.com/detail/20260613191057762800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
+          "url": "https://www.cls.cn/detail/2398996",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 21时45分]"
+        },
         {
           "title": "科大讯飞发布星火多模态大模型X2-VL",
           "url": "https://wallstreetcn.com/livenews/3119130",
@@ -475,18 +677,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时50分"
-        },
-        {
-          "title": "SpaceX万亿美元IPO背后：一场由星链造血、星舰远征、AI叙事支撑的资本盛宴",
-          "url": "https://www.cls.cn/detail/2398996",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -566,9 +757,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "周五（6月12日），美股人工智能（AI）赢家指数涨1.93%，报424.15点，本周累计上涨5.43%。 成分股中，Arm控股收涨11.27%，希捷科技涨7.25%，西部数据涨6.35%，高意公司Coherent涨5.90%表现第四，阿斯麦ADR收跌1.89%跌幅第四大。",
@@ -588,7 +790,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -599,9 +801,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
+        },
+        {
+          "title": "太空AI算力泡沫有多大",
+          "url": "https://www.toutiao.com/trending/7650812029468413450/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "如何评价 HDC 官宣鸿蒙高校创新赛？国赛平台和零门槛 AI 开发，能为参赛大学生带来哪些价值？",
+          "url": "https://www.zhihu.com/question/2048803279166088696",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         },
         {
           "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型FABLE 5和Mythos 5的访问。",
@@ -613,12 +837,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "ARCRaiders国服首测PV",
+          "url": "https://search.bilibili.com/all?keyword=ARCRaiders%E5%9B%BD%E6%9C%8D%E9%A6%96%E6%B5%8BPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "6 月 12 日华为发布开源盘古 2.0 模型，如何评价 openPangu 2.0 ？",
@@ -639,7 +874,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时50分"
         },
@@ -664,6 +899,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "吉利控股董事长李书福：集中资源做强吉利汽车上市公司",
+          "url": "https://wallstreetcn.com/livenews/3119146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
+        },
+        {
+          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
+          "url": "https://wallstreetcn.com/livenews/3119142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时45分"
         }
       ]
     },
