@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-16T04:50:07.505825+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-06-16T11:27:08.889805+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
+        {
+          "title": "录音显示美军仍在执行对伊朗海上封锁",
+          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 11时27分]"
+        },
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 11时27分]"
+        },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
           "url": "https://wallstreetcn.com/articles/3774634",
@@ -30,15 +55,16 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
-          "title": "录音显示美军仍在执行对伊朗海上封锁",
-          "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
-          "source": "凤凰网",
+          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
+          "url": "https://wallstreetcn.com/articles/3774682",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时50分]"
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 11时27分]"
         },
         {
           "title": "特朗普：将允许伊朗进行低水平铀浓缩",
@@ -53,39 +79,59 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
+          "title": "伊朗2:2新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗2比2新西兰",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%972%E6%AF%942%E6%96%B0%E8%A5%BF%E5%85%B0&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗两度扳平2-2新西兰 华裔前锋双响",
+          "url": "https://www.toutiao.com/trending/7651096132386635803/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "世界杯：伊朗vs新西兰",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
           "title": "据伊朗电视台报道称，美国已开始解除对伊朗的海上封锁。",
           "url": "https://wallstreetcn.com/livenews/3119874",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
-        },
-        {
-          "title": "报道：伊朗将允许霍尔木兹海峡自由过境60天",
-          "url": "https://wallstreetcn.com/articles/3774682",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时50分]"
-        },
-        {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时50分]"
         },
         {
           "title": "英法德意发表联合声明称，美伊达成协议后，各方准备解除对伊朗相关制裁，伊朗未来发展会迎来转机吗？",
@@ -145,6 +191,50 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
+          "title": "万斯：伊朗可能获得3000亿重建资金，海湾国家出钱",
+          "url": "https://news.ifeng.com/c/8tzCGDrMLoe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗vs新西兰",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗国足获准世界杯比赛时在美国过夜",
+          "url": "https://www.toutiao.com/trending/7651802129094463002/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗国足获准世界杯比赛时在美过夜",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%8E%B7%E5%87%86%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E6%97%B6%E5%9C%A8%E7%BE%8E%E8%BF%87%E5%A4%9C",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
           "title": "伊朗：将对霍尔木兹航运服务收费",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B0%86%E5%AF%B9%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E8%88%AA%E8%BF%90%E6%9C%8D%E5%8A%A1%E6%94%B6%E8%B4%B9",
           "source": "百度热搜",
@@ -173,7 +263,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -283,7 +373,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -316,7 +406,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -393,7 +483,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         },
@@ -404,7 +494,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -412,7 +502,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
@@ -421,9 +511,43 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "AI版支付宝正式发布，为史上最大改版",
+          "url": "https://wallstreetcn.com/livenews/3120021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时05分 ~ 11时27分]"
+        },
+        {
+          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
+          "url": "https://wallstreetcn.com/articles/3774700",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时49分 ~ 11时27分]"
         },
         {
           "title": "AI为何成为能源之战",
@@ -485,26 +609,26 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
-          "title": "批量撰写不实信息一年牟利15元，四川射洪一AI写手被处罚",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33378154",
-          "source": "澎湃新闻",
+          "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
+          "url": "https://www.cls.cn/detail/2400563",
+          "source": "财联社热门",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时05分 ~ 04时50分]"
-        },
-        {
-          "title": "200亿美元！英伟达五年来首度发行公司债，AI科技巨头借贷热潮延续",
-          "url": "https://wallstreetcn.com/articles/3774700",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 04时50分]"
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33377908",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
         },
         {
           "title": "摩根士丹利：电力短缺正成为AI的核心瓶颈",
@@ -529,6 +653,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "AI版支付宝“阿宝”正式推出",
+          "url": "https://flash.jin10.com/detail/20260616105302162800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "伊朗用AI让球员牵遇难儿童入场",
           "url": "https://www.toutiao.com/trending/7651542350414037011/",
           "source": "今日头条",
@@ -543,8 +678,30 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "日本央行如期加息25个基点",
+          "url": "https://flash.jin10.com/detail/20260616111911480800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日本至6月16日央行目标利率 1%，预期1.00%，前值0.75%。",
+          "url": "https://flash.jin10.com/detail/20260616111906512800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
         {
           "title": "证监会四问零跑",
           "url": "https://www.toutiao.com/trending/7650875978250387494/",
@@ -557,13 +714,35 @@
           "time_info": "01时05分"
         },
         {
+          "title": "日本央行6月利率决议看点前瞻",
+          "url": "https://wallstreetcn.com/livenews/3120019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
+          "title": "日本央行加息预期已被高度计入，日元空头仓位较拥挤",
+          "url": "https://flash.jin10.com/detail/20260616110918373800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时27分"
+        },
+        {
           "title": "津巴布韦央行将政策利率从35%下调至30%。",
           "url": "https://flash.jin10.com/detail/20260616034629938800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
         }
@@ -571,8 +750,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "网曝疑似朱一龙在 lululemon 长城活动敲日本太鼓，粉丝称是中国羯鼓，这到底是什么鼓？",
+          "url": "https://www.zhihu.com/question/2049910438834300872",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 11时27分]"
+        },
         {
           "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
           "url": "https://www.zhihu.com/question/2049485598407373278",
