@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-06-17T00:32:09.334225+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-06-17T04:43:36.731843+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗队赛前获准在美国过夜，赛后却被勒令立即离开，如何看待此事？风波背后折射出美伊关系怎样的冰与火？",
           "url": "https://www.zhihu.com/question/2050229682415613269",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "翻脸不认球,美国驱赶伊朗队",
@@ -26,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "美国勒令伊朗队立刻离境，为何此时突然变脸？",
@@ -37,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -48,8 +49,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[00时32分 ~ 04时43分]"
         },
         {
           "title": "两度扳平!伊朗2-2新西兰",
@@ -59,19 +72,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "伊朗队突然被勒令离开美国",
           "url": "https://www.toutiao.com/trending/7651870551576677938/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "time_info": "[00时32分 ~ 04时43分]"
         },
         {
           "title": "伊朗队被勒令离开美国",
@@ -85,24 +111,13 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
-          "source": "澎湃新闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
           "title": "伊朗暂不允许国际原子能机构检查其核设施",
           "url": "https://wallstreetcn.com/livenews/3120423",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -113,7 +128,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -124,9 +139,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗副总统：德黑兰将维持对霍尔木兹海峡的控制权",
+          "url": "https://flash.jin10.com/detail/20260617033850014800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "报道：美国与伊朗的协议允许伊朗立即销售石油",
@@ -135,9 +161,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "安全消息人士称，无人机袭击了伊拉克埃尔比勒东部的一个伊朗反对派营地。",
+          "url": "https://flash.jin10.com/detail/20260617033223707800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "伊朗武装部队哈塔姆安比亚中央总部指控以色列在过去两天内违反黎巴嫩停火协议84次，并警告称如果侵犯行为持续，伊朗将予以武力回应。",
+          "url": "https://flash.jin10.com/detail/20260617032841521800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "报道称美国将允许伊朗立即恢复石油出口销售",
@@ -146,18 +194,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "伊朗队主帅：球队突然被勒令立即离开美国，此前获准在美过夜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33389618",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -168,9 +205,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "刚完赛就被勒令离开美国！伊朗队主帅抱怨球队在世界杯受压迫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33389989",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "伊朗议长加利巴夫：以色列必须从黎巴嫩撤军",
@@ -179,7 +227,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -190,9 +238,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "美政府或将为伊朗设3000亿美元基金",
+          "url": "https://www.toutiao.com/trending/7650825259012227118/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "伊朗议会议长、顶级谈判员卡利巴夫与黎巴嫩议会议长通电话时表示：以色列必须退出黎巴嫩“被占领的地区”。 以色列必须从所有战线离开，其中就包括黎巴嫩。",
@@ -201,27 +260,27 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "国际足联主席赛后在伊朗更衣室讲话",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E4%B8%BB%E5%B8%AD%E8%B5%9B%E5%90%8E%E5%9C%A8%E4%BC%8A%E6%9C%97%E6%9B%B4%E8%A1%A3%E5%AE%A4%E8%AE%B2%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 13,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
         {
           "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
           "url": "https://www.cls.cn/detail/2401113",
@@ -230,19 +289,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
           "url": "https://www.cls.cn/detail/2401236",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "报道：SpaceX全股票收购AI编程工具Cursor，交易估值600亿美元",
@@ -252,8 +312,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "为什么DeepSeek是AI泡沫斩杀线",
+          "url": "https://www.toutiao.com/trending/7651979830128283145/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "OpenAI开发者：本周，Codex的更多功能正在向欧洲各地陆续推出。我们正在向欧洲经济区、英国和瑞士的Codex用户提供计算机操作功能、CodexChrome扩展程序、个性化记忆功能以及Chronicle。",
@@ -262,7 +334,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -274,8 +346,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
+          "url": "https://www.zhihu.com/question/2049548864626202351",
+          "source": "知乎",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
@@ -285,8 +369,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
+          "url": "https://www.cls.cn/detail/2401317",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "GPT-5.6 惊现 150 万上下文窗口，将如何影响大模型竞争格局？",
@@ -300,26 +396,15 @@
           "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "“无人晶圆厂”要来了？存储双雄接连布局 AI加速反哺半导体制造",
-          "url": "https://www.cls.cn/detail/2401317",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
-        },
-        {
-          "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2049548864626202351",
+          "title": "腾讯大幅下调员工 AI Token 额度，从月均上万降至千元级别意味着什么？AI 算力成本面临哪些困局？",
+          "url": "https://www.zhihu.com/question/2050239948306092201",
           "source": "知乎",
           "ranks": [
-            13
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "苹果2027年将推出搭载摄像头的AirPods 智能眼镜最早明年末推出",
@@ -328,7 +413,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -339,7 +424,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         },
@@ -350,37 +435,177 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "红杉资本看好SpaceX太空数据中心与AI实力，长期持有者称其愿景“永恒”",
+          "url": "https://wallstreetcn.com/livenews/3120472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "英伟达时隔五年再发美元债，华尔街 AI 融资热再增 250 亿，巨头为何扎堆融资，透露出哪些信息？",
+          "url": "https://www.zhihu.com/question/2050039889400435846",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国城堡证券：宽松的金融条件、持续的供应链中断、劳动力市场的加速复苏以及人工智能投资的激增正相互叠加，持续维持着通胀压力。",
+          "url": "https://flash.jin10.com/detail/20260617030007710800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "美国商务部长卢特尼克在信函中就顶级AI模型的限制问题警告Anthropic。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3120464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "消息人士称，美国商务部长卢特尼克在致Anthropic的信函中警告将对高级人工智能模型实施限制，这导致了Anthropic关闭Mythos模型的相关功能。",
+          "url": "https://flash.jin10.com/detail/20260617025425639800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 2,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
           "url": "https://wallstreetcn.com/articles/3774766",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
         },
         {
           "title": "世界黄金协会调查：全球央行增持意愿创纪录 黄金战略储备地位进一步提升",
           "url": "https://www.cls.cn/detail/2401197",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 04时43分]"
+        },
+        {
+          "title": "欧洲央行管委：英国可助力欧盟打破资本市场停滞局面",
+          "url": "https://wallstreetcn.com/livenews/3120476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "周二（6月16日）纽约尾盘，美元兑日元涨0.05%，报160.41日元，日内交投区间为160.05-160.46日元，北京时间11:08（临近日本央行在11:19宣布加息至1995年以来最高水平）刷新日低，随后持续上扬。 欧元兑日元涨0.23%，报186.27日元；英镑兑日元涨0.17%，报215.438日元。",
+          "url": "https://wallstreetcn.com/livenews/3120471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "秘鲁央行：在即期外汇市场买入2.21亿美元。",
+          "url": "https://flash.jin10.com/detail/20260617025107306800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "秘鲁央行进行了110万索尔的货币互换操作。",
+          "url": "https://flash.jin10.com/detail/20260617025054879800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "法国央行下调2026年经济预期：预计2026年GDP将增长0.5%，之前预计增长0.9%。 预计2026年通胀为2.5%，之前预计为1.7%；预计2027年为1.7%，之前预计为1.4%。 央行行长表示，自己（对欧洲央行货币政策）既不持鹰派立场、也不持鸽派立场。",
+          "url": "https://wallstreetcn.com/livenews/3120457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "伊朗央行行长：谅解备忘录规定美有义务解冻伊资产",
+          "url": "https://wallstreetcn.com/livenews/3120455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "纳斯达克金龙中国指数初步收跌2.4%。 热门中概股里，日月光半导体跌4.5%，小马智行、小鹏跌超4%，腾讯、美团、蔚来、百度、网易跌超3%。 ETF中，KWEB跌2.8%，CQQQ跌1.6%，EMXC跌1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3120485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         }
       ]
     }
