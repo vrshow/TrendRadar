@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-16T11:27:08.889805+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-06-16T19:00:00.458716+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 44,
+      "match_count": 60,
       "titles": [
+        {
+          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
+          "url": "https://wallstreetcn.com/articles/3774714",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时05分 ~ 19时00分]"
+        },
         {
           "title": "录音显示美军仍在执行对伊朗海上封锁",
           "url": "https://news.ifeng.com/c/8tyu4XVxrh4",
@@ -20,17 +34,15 @@
           "time_info": "[01时05分 ~ 11时27分]"
         },
         {
-          "title": "美副总统：霍尔木兹海峡将“长期开放、免费通行”，伊朗：将收取航运服务费，核谈判和解除制裁将在60天内开始",
-          "url": "https://wallstreetcn.com/articles/3774714",
-          "source": "华尔街见闻",
+          "title": "伊朗2:2新西兰",
+          "url": "https://www.douyin.com/hot/2535961",
+          "source": "抖音",
           "ranks": [
-            6,
-            5,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时05分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时00分]"
         },
         {
           "title": "美伊协议“达成”！特朗普称“霍尔木兹海峡周五免费开放”，抨击内塔尼亚胡“失去理智”，伊朗称“所获成果远大于承诺”",
@@ -79,15 +91,70 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
-          "title": "伊朗2:2新西兰",
-          "url": "https://www.douyin.com/hot/2535961",
-          "source": "抖音",
+          "title": "伊朗主帅：球队被勒令立即离开美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%BB%E5%B8%85%EF%BC%9A%E7%90%83%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%AB%8B%E5%8D%B3%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "伊朗队被勒令离开美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%98%9F%E8%A2%AB%E5%8B%92%E4%BB%A4%E7%A6%BB%E5%BC%80%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "伊朗2-2新西兰",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "bilibili 热搜",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "翻脸不认球,美国驱赶伊朗队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355210&amp;topic_name=%E7%BF%BB%E8%84%B8%E4%B8%8D%E8%AE%A4%E7%90%83%2C%E7%BE%8E%E5%9B%BD%E9%A9%B1%E8%B5%B6%E4%BC%8A%E6%9C%97%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "伊朗队突然被勒令离开美国",
+          "url": "https://www.toutiao.com/trending/7651870551576677938/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "两度扳平!伊朗2-2新西兰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355198&amp;topic_name=%E4%B8%A4%E5%BA%A6%E6%89%B3%E5%B9%B3%21%E4%BC%8A%E6%9C%972-2%E6%96%B0%E8%A5%BF%E5%85%B0",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "伊朗2比2新西兰",
@@ -202,6 +269,17 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
+          "title": "伊朗2比2新西兰，本届世界杯“亚洲球队”保持不败",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33388299",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
           "title": "伊朗vs新西兰",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97vs%E6%96%B0%E8%A5%BF%E5%85%B0%23&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -213,6 +291,17 @@
           "time_info": "[11时26分 ~ 11时27分]"
         },
         {
+          "title": "伊朗队，在美国进球了",
+          "url": "https://www.cls.cn/detail/2400858",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
           "title": "伊朗国足获准世界杯比赛时在美国过夜",
           "url": "https://www.toutiao.com/trending/7651802129094463002/",
           "source": "今日头条",
@@ -222,6 +311,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "伊朗队主帅：球队突然被勒令，立即离开美国",
+          "url": "https://news.ifeng.com/c/8u0F5JVZ8LL",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "伊朗国足获准世界杯比赛时在美过夜",
@@ -299,6 +399,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美伊正式签署协议前 两艘与伊朗有关联的油轮驶过霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3120258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "特朗普称即使以色列攻击黎巴嫩 也破坏不了伊朗协议",
+          "url": "https://wallstreetcn.com/livenews/3120254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗及其盟友）我认为我们不需要太多帮助，但这不是个坏主意。",
@@ -400,6 +522,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "特朗普称美国现在与伊朗“理性”人士打交道",
+          "url": "https://wallstreetcn.com/livenews/3120243",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "伊朗总统：伊美谅解备忘录是停止战争开启谈判的重要一步",
           "url": "https://flash.jin10.com/detail/20260616025742789800",
           "source": "金十数据",
@@ -431,6 +564,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普：以黎冲突是小战争，不影响伊朗协议",
+          "url": "https://flash.jin10.com/detail/20260616181530500800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "美国总统特朗普：我们要获取伊朗的核材料。 即便以色列袭击黎巴嫩，该协议仍能维持。",
+          "url": "https://wallstreetcn.com/livenews/3120234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "美国高级官员：制裁减免不与任何特定行为挂钩，而是取决于伊朗采取适当行动。",
@@ -497,13 +652,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时50分"
+        },
+        {
+          "title": "花旗：美国与伊朗冲突的缓和应能加快卡塔尔和阿联酋的液化天然气出口增长。",
+          "url": "https://flash.jin10.com/detail/20260616180713216800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议进入第二阶段。 我们认为这是一份公平的协议。 我们不会在伊朗投入任何资金。 伊朗永远无法拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3120218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 15,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "存储红利向“非AI”扩散：这两类内存年内涨价翻倍 机构预计下半年“涨声”不断",
+          "url": "https://www.cls.cn/detail/2401113",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "支撑人工智能等高质量发展 算力网开启万亿级投资周期",
+          "url": "https://www.cls.cn/detail/2401236",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
         {
           "title": "周一（6月15日），美股信息科技指数涨5.44%，报460.94点。 人工智能（AI）赢家指数涨5.65%，报448.13点。 AI软件先驱指数涨2.19%，报110.89点。 北美科技软件股指数ETF收涨2.20%，报92.68美元。",
           "url": "https://wallstreetcn.com/livenews/3119872",
@@ -522,7 +721,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -609,6 +808,17 @@
           "time_info": "[01时05分 ~ 04时50分]"
         },
         {
+          "title": "【每日收评】创业板指涨1.72%，全市场连续两日超百股涨停，AI硬件方向延续强势",
+          "url": "https://www.cls.cn/detail/2401228",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
           "title": "瞄准AI数据中心需求 磷化铟衬底巨头计划将产能扩大至多10倍",
           "url": "https://www.cls.cn/detail/2400563",
           "source": "财联社热门",
@@ -618,6 +828,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时26分 ~ 11时27分]"
+        },
+        {
+          "title": "苏姿丰最近很忙！参建PCB工厂、扫货激光芯片 AMD加入AI军备竞赛",
+          "url": "https://www.cls.cn/detail/2401117",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "【午报】创业板指震荡走高涨超2%，AI硬件持续爆发，MLCC、玻纤等细分领涨",
+          "url": "https://www.cls.cn/detail/2400951",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "澎湃思想周报丨世界杯沦为特朗普的马戏；当马丁·斯科塞斯拥抱AI",
@@ -642,6 +874,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "抖音利用AI打击诈骗",
+          "url": "https://wallstreetcn.com/livenews/3120248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "小米工程师称怕某大模型刷水军",
           "url": "https://s.weibo.com/weibo?q=%E5%B0%8F%E7%B1%B3%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%A7%B0%E6%80%95%E6%9F%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%88%B7%E6%B0%B4%E5%86%9B&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -659,7 +902,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -678,8 +921,19 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "1995年以来最高！日本央行如期加息 以应对通胀压力",
+          "url": "https://www.cls.cn/detail/2400927",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
         {
           "title": "日本央行如期加息25个基点",
           "url": "https://flash.jin10.com/detail/20260616111911480800",
@@ -687,7 +941,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -698,9 +952,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "日本央行加息至1%，为1995年以来最高水平，2027年起暂停缩债",
+          "url": "https://wallstreetcn.com/articles/3774766",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "证监会四问零跑",
@@ -720,7 +985,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -731,7 +996,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
         },
@@ -750,18 +1015,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "网曝疑似朱一龙在 lululemon 长城活动敲日本太鼓，粉丝称是中国羯鼓，这到底是什么鼓？",
           "url": "https://www.zhihu.com/question/2049910438834300872",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 11时27分]"
+          "appearance_count": 4,
+          "time_info": "[11时26分 ~ 19时00分]"
         },
         {
           "title": "蔚来李斌称做好今年全行业跌 15%~20% 的准备，多位车企高管预警非常时期至少持续五年，背后根源是什么？",
@@ -773,6 +1039,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "朱一龙疑似在长城敲日本太鼓",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%B1%E4%B8%80%E9%BE%99%E7%96%91%E4%BC%BC%E5%9C%A8%E9%95%BF%E5%9F%8E%E6%95%B2%E6%97%A5%E6%9C%AC%E5%A4%AA%E9%BC%93",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "小米集团(01810.HK)6月16日回购400万股B股股份，耗资1.03亿港元。",
+          "url": "https://flash.jin10.com/detail/20260616181921315800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         }
       ]
     }
