@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-18T18:11:53.868042+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-06-18T22:55:15.804106+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
+          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时55分]"
+        },
         {
           "title": "美国公布与伊朗达成的谅解备忘录正式文本",
           "url": "https://news.ifeng.com/c/8u2tzPSA7C4",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        },
-        {
-          "title": "伊朗称要成为中国真正的伙伴，外交部表态",
-          "url": "https://news.ifeng.com/c/8u3juhtDVpR",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         },
         {
           "title": "伊朗方面披露美伊谅解备忘录文本内容",
@@ -63,6 +63,17 @@
           "time_info": "10时54分"
         },
         {
+          "title": "以色列驻美大使：我们希望伊朗不被允许决定黎巴嫩的未来。",
+          "url": "https://flash.jin10.com/detail/20260618224727595800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗学者：霍尔木兹海峡不会再回到从前",
           "url": "https://news.ifeng.com/c/8u3AJ4a0eEd",
           "source": "凤凰网",
@@ -74,17 +85,16 @@
           "time_info": "10时54分"
         },
         {
-          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
-          "source": "澎湃新闻",
+          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
+          "url": "https://www.zhihu.com/question/2050871601684550857",
+          "source": "知乎",
           "ranks": [
-            14,
-            9,
-            6
+            17,
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时05分 ~ 18时11分]"
+          "time_info": "[18时11分 ~ 22时55分]"
         },
         {
           "title": "美国或赔偿伊朗3千亿",
@@ -93,7 +103,21 @@
           "ranks": [
             20,
             22,
-            29
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时05分 ~ 22时55分]"
+        },
+        {
+          "title": "特朗普：如果我不满意，将恢复向伊朗投掷炸弹",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33400508",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            9,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -158,6 +182,39 @@
           "time_info": "04时05分"
         },
         {
+          "title": "美国参议院共和党领袖图恩：预计下周国会将听取行政部门关于伊朗谅解备忘录的情况通报。",
+          "url": "https://flash.jin10.com/detail/20260618224016712800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "伊美签署谅解备忘录后 伊朗总统与巴基斯坦总理首次通话",
+          "url": "https://wallstreetcn.com/livenews/3121777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
+          "title": "伊朗官员：伊南部港口的商船通行已恢复正常",
+          "url": "https://wallstreetcn.com/livenews/3121776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "伊朗称若以继续袭击黎巴嫩将被视为违反美承诺",
           "url": "https://wallstreetcn.com/livenews/3121368",
           "source": "华尔街见闻-快讯",
@@ -180,17 +237,6 @@
           "time_info": "04时05分"
         },
         {
-          "title": "伊朗议长称霍尔木兹海峡「永远不会回到以前的状态」，伊朗会在霍尔木兹海峡收取「服务费用」，有何影响？",
-          "url": "https://www.zhihu.com/question/2050871601684550857",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
           "title": "据伊朗伊斯兰共和国通讯社：备忘录签署后至制裁解除前，美国承诺发放伊朗石油、石化产品及衍生物出口以及所有相关服务的豁免许可。",
           "url": "https://flash.jin10.com/detail/20260618032733439800",
           "source": "金十数据",
@@ -200,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊美签署谅解备忘录后 伊朗总统与巴基斯坦总理首次通话",
+          "url": "https://flash.jin10.com/detail/20260618222816041800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗官方通讯社就谅解备忘录文本表示：双方承诺将在60天谈判期内达成最终协议，该谈判期限可延长。",
@@ -219,9 +276,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
+        },
+        {
+          "title": "伊媒称伊朗代表团赴瑞士行程未确定",
+          "url": "https://wallstreetcn.com/livenews/3121766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社：（霍尔木兹海峡）免费通行仅适用于60天的期限。",
@@ -233,6 +301,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "伊朗官员：伊南部港口的商船通行已恢复正常",
+          "url": "https://flash.jin10.com/detail/20260618222430068800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "伊朗外交部发言人：伊美谅解备忘或由两国总统签署",
@@ -296,7 +375,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -310,13 +389,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗，声称：石油在流动。",
+          "url": "https://wallstreetcn.com/livenews/3121767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
+        {
+          "title": "让AI走进千家万户",
+          "url": "https://www.baidu.com/s?wd=%E8%AE%A9AI%E8%B5%B0%E8%BF%9B%E5%8D%83%E5%AE%B6%E4%B8%87%E6%88%B7",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
+          "url": "https://www.cls.cn/detail/2403573",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时55分]"
+        },
         {
           "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
           "url": "https://wallstreetcn.com/articles/3774852",
@@ -342,6 +455,17 @@
           "time_info": "[04时05分 ~ 18时11分]"
         },
         {
+          "title": "【每日收评】科创50放量涨近4%，AI硬件与半导体持续火爆，多只科技权重续创历史新高",
+          "url": "https://www.cls.cn/detail/2403645",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
           "title": "中国正加紧筹建世界人工智能合作组织",
           "url": "https://m.thepaper.cn/newsDetail_forward_33396659",
           "source": "澎湃新闻",
@@ -354,24 +478,24 @@
           "time_info": "[04时05分 ~ 10时54分]"
         },
         {
+          "title": "AI贡献最大的一道题出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%B4%A1%E7%8C%AE%E6%9C%80%E5%A4%A7%E7%9A%84%E4%B8%80%E9%81%93%E9%A2%98%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
           "title": "黄金和AI：谁在见顶？",
           "url": "https://wallstreetcn.com/articles/3774914",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "商务部等八部门发布《关于加快“人工智能+消费”发展的实施意见》",
-          "url": "https://www.cls.cn/detail/2403573",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -382,7 +506,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -426,7 +550,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -437,7 +561,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -448,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -462,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "机构：美国极少使用AI的科技工作者面临三倍的裁员风险",
+          "url": "https://wallstreetcn.com/livenews/3121775",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
         },
         {
           "title": "如果我们生活在 AI 构建的虚拟世界里，随手抛一枚均匀硬币，正面朝上的概率还是现实中公认的「50%」吗？",
@@ -508,6 +643,17 @@
           "time_info": "04时05分"
         },
         {
+          "title": "据AXIOS：美国佛蒙特州独立参议员伯尼·桑德斯公布了一项计划，提议美国政府持有大型人工智能公司50%的股权。",
+          "url": "https://flash.jin10.com/detail/20260618222802674800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "A股AI语料板块短线拉升，昆仑万维涨超12%，国安股份封板涨停，天娱数科触及涨停，智度股份、天地在线、因赛集团、宣亚国际、思美传媒等跟涨。",
           "url": "https://flash.jin10.com/detail/20260618102236438800",
           "source": "金十数据",
@@ -525,7 +671,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -536,7 +682,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -558,7 +704,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -576,8 +722,115 @@
       ]
     },
     {
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "小米集团：与经纪商订立回购不超过40亿港元协议",
+          "url": "https://wallstreetcn.com/livenews/3121603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "一汽解放前5个月拉美区域销量同比增长103.4%",
+          "url": "https://flash.jin10.com/detail/20260618173927043800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
+          "url": "https://www.zhihu.com/question/2050275486652000215",
+          "source": "知乎",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时05分 ~ 10时54分]"
+        },
+        {
+          "title": "东风标致508停产后部分配件断供？售后称恢复供应环节多难实现",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33396434",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 22时55分]"
+        },
+        {
+          "title": "小Lin对话华为终端CEO",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B0%8FLin%E5%AF%B9%E8%AF%9D%E5%8D%8E%E4%B8%BA%E7%BB%88%E7%AB%AFCEO",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "比亚迪主品牌迈出高端化关键一步",
+          "url": "https://www.toutiao.com/trending/7652689657457557558/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时54分 ~ 22时55分]"
+        },
+        {
+          "title": "小米集团：与经纪商订立回购不超过40亿港元协议",
+          "url": "https://flash.jin10.com/detail/20260618173458459800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "小米空调10年免费加氟",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%8310%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%8A%A0%E6%B0%9F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "华为乾崑智驾ADS高阶功能包优惠将收窄？知情人士：消息属实",
+          "url": "https://wallstreetcn.com/livenews/3121761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "宣布六项政策，央行行长潘功胜详解中国金融结构变迁和金融市场现代化",
@@ -592,13 +845,24 @@
           "time_info": "[04时05分 ~ 10时54分]"
         },
         {
+          "title": "机构：不能排除英国央行加息的可能性",
+          "url": "https://flash.jin10.com/detail/20260618224121407800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时55分"
+        },
+        {
           "title": "Momenta港股IPO获中国证监会备案",
           "url": "https://wallstreetcn.com/livenews/3121591",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -609,7 +873,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -620,7 +884,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -631,7 +895,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时11分"
         },
@@ -667,79 +931,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "小米集团：与经纪商订立回购不超过40亿港元协议",
-          "url": "https://wallstreetcn.com/livenews/3121603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "一汽解放前5个月拉美区域销量同比增长103.4%",
-          "url": "https://flash.jin10.com/detail/20260618173927043800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "小米高管称数字抽真空会成为趋势，格力称空调不行抽多久真空也白扯，如何看待双方观点？双方到底在争什么？",
-          "url": "https://www.zhihu.com/question/2050275486652000215",
-          "source": "知乎",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时05分 ~ 10时54分]"
-        },
-        {
-          "title": "小米集团：与经纪商订立回购不超过40亿港元协议",
-          "url": "https://flash.jin10.com/detail/20260618173458459800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "小米空调10年免费加氟",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E7%A9%BA%E8%B0%8310%E5%B9%B4%E5%85%8D%E8%B4%B9%E5%8A%A0%E6%B0%9F%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "东风标致508停产后部分配件断供？售后称恢复供应环节多难实现",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396434",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时11分"
         }
       ]
     }
