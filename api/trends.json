@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-20T10:44:22.545034+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-06-20T16:45:44.775409+08:00",
+  "total_titles_processed": 737,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗推迟赴瑞士行程！黎巴嫩问题成变数 万斯指责以色列对美缺乏信任",
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 16时45分]"
         },
         {
           "title": "【早报】芯片股暴涨；伊朗推迟赴瑞士行程；瑞士4-1波黑",
@@ -28,8 +29,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 16时45分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -55,13 +56,36 @@
           "time_info": "[03时30分 ~ 03时31分]"
         },
         {
+          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
+          "url": "https://wallstreetcn.com/articles/3775098",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 16时45分]"
+        },
+        {
+          "title": "伊朗国防部：持续努力提升军事准备，改善防御能力。",
+          "url": "https://flash.jin10.com/detail/20260620161710499800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "美媒：伊朗外长将赴瑞士，美总统特使正在途中",
           "url": "https://news.ifeng.com/c/8u6WrTf14JE",
           "source": "凤凰网",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -77,48 +101,27 @@
           "time_info": "03时31分"
         },
         {
-          "title": "伊朗革命卫队发表致最高领袖公开信",
-          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
           "title": "市场消息：伊朗告知调停方，黎巴嫩停火对德黑兰而言是一个至关重要的问题。",
           "url": "https://flash.jin10.com/detail/20260620100238653800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
         {
-          "title": "以色列被曝与黎真主党达成停火，伊朗证实推迟与美谈判，特朗普施压“耗完60天”，白宫放风准备尽早启程谈判",
-          "url": "https://wallstreetcn.com/articles/3775098",
-          "source": "华尔街见闻",
+          "title": "伊朗革命卫队发表致最高领袖公开信",
+          "url": "https://news.ifeng.com/c/8u5q1dToOV0",
+          "source": "凤凰网",
           "ranks": [
-            5
+            3,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
-          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
-          "url": "https://wallstreetcn.com/livenews/3122203",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 16时45分]"
         },
         {
           "title": "日企掏钱,伊朗白捡三千亿",
@@ -126,11 +129,24 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 16时45分]"
+        },
+        {
+          "title": "美媒：美国、卡塔尔拟联手解冻伊朗百亿资金",
+          "url": "https://wallstreetcn.com/livenews/3122203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 16时45分]"
         },
         {
           "title": "伊朗宣布霍尔木兹海峡通行新规",
@@ -183,7 +199,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -194,9 +210,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "伊朗外长将会见巴基斯坦内政部长",
+          "url": "https://flash.jin10.com/detail/20260620155452920800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美媒：美卡拟联手解冻伊朗百亿资金 人道主义采购成破冰首步",
@@ -205,9 +232,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "伊朗内政部发言人：在谈判问题上我们不存在“激进派”与“温和派”的区别。",
+          "url": "https://flash.jin10.com/detail/20260620154600607800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "伊朗革命卫队：坚定支持国家领导层",
@@ -216,7 +254,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -227,9 +265,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "伊朗内政部发言人：我们将见证一场盛大的葬礼，送别这位历史上著名而声望卓著的伊朗领袖——哈梅内伊。",
+          "url": "https://flash.jin10.com/detail/20260620154111929800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外交部发言人表示，伊朗外交部长将在德黑兰与巴基斯坦内政部长会晤。",
+          "url": "https://flash.jin10.com/detail/20260620154109194800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "据AXIOS：美国总统特朗普表示，（关于伊朗战争）这种事可能引发全球性大萧条，达成的协议避免了这一命运。",
@@ -249,9 +309,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "伊朗称不信任美国 正在做两手准备",
+          "url": "https://wallstreetcn.com/livenews/3122212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
@@ -271,7 +342,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -282,7 +353,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -293,7 +364,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -307,12 +378,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "五角大楼或需800亿美元为伊朗战事“埋单”",
+          "url": "https://wallstreetcn.com/livenews/3122209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗队进球功臣还在穿2014年的球鞋",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E8%BF%9B%E7%90%83%E5%8A%9F%E8%87%A3%E8%BF%98%E5%9C%A8%E7%A9%BF2014%E5%B9%B4%E7%9A%84%E7%90%83%E9%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "中国大模型何时能达Fable级别？马斯克预计明年Q1 唐杰称不用那么久",
@@ -320,11 +413,12 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时30分 ~ 10时44分]"
+          "appearance_count": 4,
+          "time_info": "[03时30分 ~ 16时45分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -349,6 +443,39 @@
           "time_info": "[03时30分 ~ 03时31分]"
         },
         {
+          "title": "第一次见心眼这么多的AI",
+          "url": "https://www.douyin.com/hot/2541043",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
+          "url": "https://wallstreetcn.com/articles/3775106",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时44分 ~ 16时45分]"
+        },
+        {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
           "url": "https://www.zhihu.com/question/2051267421386937558",
           "source": "知乎",
@@ -371,26 +498,26 @@
           "time_info": "[03时30分 ~ 03时31分]"
         },
         {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时44分"
-        },
-        {
           "title": "埃森哲股价暴跌18%创近十年新低，AI冲击与中东动荡双重施压",
           "url": "https://wallstreetcn.com/articles/3775063",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "url": "https://flash.jin10.com/detail/20260620160408389800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "亚马逊旗下电影部门放弃拍摄有关OpenAI的电影。（纽约时报）",
@@ -399,7 +526,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -410,7 +537,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -421,16 +548,49 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
+        },
+        {
+          "title": "当AI开始自己造AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93AI%E5%BC%80%E5%A7%8B%E8%87%AA%E5%B7%B1%E9%80%A0AI&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "男子称高价挂专家号 医生竟悄悄问AI",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%A7%B0%E9%AB%98%E4%BB%B7%E6%8C%82%E4%B8%93%E5%AE%B6%E5%8F%B7+%E5%8C%BB%E7%94%9F%E7%AB%9F%E6%82%84%E6%82%84%E9%97%AEAI",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "比亚迪向巴基斯坦警方交付电动汽车",
+          "url": "https://www.baidu.com/s?wd=%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%90%91%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E8%AD%A6%E6%96%B9%E4%BA%A4%E4%BB%98%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
         {
           "title": "郑州一汽车用品商城起火2人遇难",
           "url": "https://search.bilibili.com/all?keyword=%E9%83%91%E5%B7%9E%E4%B8%80%E6%B1%BD%E8%BD%A6%E7%94%A8%E5%93%81%E5%95%86%E5%9F%8E%E8%B5%B7%E7%81%AB2%E4%BA%BA%E9%81%87%E9%9A%BE",
@@ -438,7 +598,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         }
