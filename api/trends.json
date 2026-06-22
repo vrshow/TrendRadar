@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T00:43:38.732710+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-23T04:38:45.741586+08:00",
+  "total_titles_processed": 448,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 19,
+      "match_count": 27,
       "titles": [
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "王毅会见伊朗最高国家安全委员会副秘书",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "伊媒：伊朗代表团拒绝继续在瑞士进行伊美谈判",
@@ -37,8 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "伊朗公布哈梅内伊葬礼安排",
@@ -48,19 +48,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
           "url": "https://wallstreetcn.com/articles/3775177",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
+          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "source": "知乎",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -70,19 +83,55 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "头条世界杯｜贝兰万德封神！坚硬的不是球门，是这支伊朗的命",
           "url": "https://m.thepaper.cn/newsDetail_forward_33426003",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "特朗普：伊朗被冻结资金将用于购买美国农产品",
+          "url": "https://wallstreetcn.com/livenews/3123007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时38分"
         },
         {
           "title": "伊朗外交部发言人巴加埃：伊朗将继续按照现有程序，并根据议会通过的法律和最高国家安全委员会的决定，与国际原子能机构（IAEA）开展合作。",
@@ -107,6 +156,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普：只要伊朗尊重美国，我们就不会有任何烦恼。",
+          "url": "https://flash.jin10.com/detail/20260623041553835800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
           "url": "https://wallstreetcn.com/livenews/3122950",
           "source": "华尔街见闻-快讯",
@@ -129,15 +189,15 @@
           "time_info": "00时43分"
         },
         {
-          "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
-          "url": "https://www.zhihu.com/question/2052442119843701055",
+          "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
+          "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
           "ranks": [
-            12
+            13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时43分"
+          "time_info": "04时38分"
         },
         {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗谈判代表团已启程前往阿曼首都马斯喀特，他们将在马斯喀特讨论霍尔木兹的管理计划。",
@@ -145,17 +205,6 @@
           "source": "金十数据",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "伊朗队在洛杉矶更衣室留下感谢信",
-          "url": "https://www.toutiao.com/trending/7654111669110669353/",
-          "source": "今日头条",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -173,6 +222,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "美国总统特朗普：如果伊朗不遵守协议，我将采取必要措施。",
+          "url": "https://flash.jin10.com/detail/20260623040810149800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "市场消息：伊朗首席谈判代表卡利巴夫将就加强双边合作、共同努力稳定伊朗管理霍尔木兹海峡的安排进行磋商。",
           "url": "https://flash.jin10.com/detail/20260622235313475800",
           "source": "金十数据",
@@ -184,22 +244,22 @@
           "time_info": "00时43分"
         },
         {
+          "title": "伊朗向中方通报伊美谈判最新情况",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%91%E4%B8%AD%E6%96%B9%E9%80%9A%E6%8A%A5%E4%BC%8A%E7%BE%8E%E8%B0%88%E5%88%A4%E6%9C%80%E6%96%B0%E6%83%85%E5%86%B5",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "社交媒体上的动态显示，伊朗首席谈判代表卡利巴夫前往阿曼。",
           "url": "https://flash.jin10.com/detail/20260622235242390800",
           "source": "金十数据",
           "ranks": [
             19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -215,13 +275,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "伊朗首席谈判代表：美国和伊朗都将保证黎巴嫩的领土完整。",
+          "url": "https://flash.jin10.com/detail/20260623040409497800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "伊朗将在已故最高领袖葬礼期间实施航班管制",
+          "url": "https://wallstreetcn.com/livenews/3122988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "美国能源部长赖特：尽管遭到伊朗的阻挠，我们仍以危机前的水平经由霍尔木兹海峡输送石油。",
+          "url": "https://flash.jin10.com/detail/20260623040108761800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
+          "url": "https://flash.jin10.com/detail/20260623043203412800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
         {
           "title": "谷歌股价下跌，因又一位AI明星人才跳槽至竞争对手公司",
           "url": "https://flash.jin10.com/detail/20260623003003062800",
@@ -234,15 +338,38 @@
           "time_info": "00时43分"
         },
         {
+          "title": "据Business Insider：在近期发生敏感数据泄露并可被全公司访问事件后，Meta公司暂停了一项内部人工智能培训项目。",
+          "url": "https://flash.jin10.com/detail/20260623043007263800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "谷歌母公司Alphabet收跌5%，此前该公司AI负责人Jumper离职。",
+          "url": "https://wallstreetcn.com/livenews/3123013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
@@ -252,8 +379,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "渐冻症患者用脑机接口说出近200万字",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E7%94%A8%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%AF%B4%E5%87%BA%E8%BF%91200%E4%B8%87%E5%AD%97",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
@@ -261,17 +400,6 @@
           "source": "知乎",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "渐冻症患者用脑机接口说出近200万字",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%90%E5%86%BB%E7%97%87%E6%82%A3%E8%80%85%E7%94%A8%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%AF%B4%E5%87%BA%E8%BF%91200%E4%B8%87%E5%AD%97",
-          "source": "百度热搜",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -314,18 +442,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "东风-17首次公开发射画面有何意义",
           "url": "https://www.toutiao.com/trending/7654184188634992147/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "东风 -17 导弹发射状态首次公开，多车齐射有何战略意义？",
@@ -335,19 +464,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        },
-        {
-          "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
-          "url": "https://www.zhihu.com/question/2052342121999380803",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
         },
         {
           "title": "雷军再谈与董明珠赌约直言后悔，称本是玩笑董大姐当真了，小米被逼做空调，如何看待当年赌约对小米布局影响？",
@@ -355,6 +473,28 @@
           "source": "知乎",
           "ranks": [
             11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时43分 ~ 04时38分]"
+        },
+        {
+          "title": "纳斯达克金龙中国指数初步收跌1.2%。 热门中概股里，小马智行初步收跌5.5%，文远知行跌4.6%，小米跌4.1%，比亚迪跌3.5%，阿里跌2.1%，拼多多跌1.8%，再鼎医药涨1.6%，携程涨3%。",
+          "url": "https://wallstreetcn.com/livenews/3123011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "如何评价小米 YU7 GT 以 10 分 29 秒 483 创下全球首个纽北自动驾驶圈速记录？",
+          "url": "https://www.zhihu.com/question/2052342121999380803",
+          "source": "知乎",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -370,6 +510,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        },
+        {
+          "title": "乐道总裁回应买不起蔚来才买乐道",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%90%E9%81%93%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E4%B9%B0%E4%B8%8D%E8%B5%B7%E8%94%9A%E6%9D%A5%E6%89%8D%E4%B9%B0%E4%B9%90%E9%81%93",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        },
+        {
+          "title": "半导体分析师：华为一定会搞定EUV",
+          "url": "https://www.toutiao.com/trending/7654144176527294490/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "委内瑞拉央行：一季度石油出口收入达到54.9亿美元，同比增长21.5%。",
+          "url": "https://wallstreetcn.com/livenews/3123000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时38分"
         }
       ]
     }
