@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-23T17:27:35.331481+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2026-06-23T22:34:56.150095+08:00",
+  "total_titles_processed": 1141,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗谈判团队称伊美谈判达成5项要点",
@@ -84,7 +84,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -95,7 +95,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -128,7 +128,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -140,11 +140,12 @@
             20,
             17,
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时43分 ~ 17时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时43分 ~ 22时34分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -205,6 +206,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "为期60天，美国暂时解除对伊朗石油制裁，这是过去数十年来第一次！",
+          "url": "https://wallstreetcn.com/articles/3775244",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "伊朗世界杯特种兵式参赛",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E4%B8%96%E7%95%8C%E6%9D%AF%E7%89%B9%E7%A7%8D%E5%85%B5%E5%BC%8F%E5%8F%82%E8%B5%9B",
           "source": "bilibili 热搜",
@@ -222,7 +234,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -233,7 +245,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -332,7 +344,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -354,7 +366,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -453,7 +465,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -486,7 +498,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -497,7 +509,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -538,7 +550,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 29,
+      "match_count": 37,
       "titles": [
         {
           "title": "【企业微信agent“大圆”开始内测】6月23日，在微信的AI内测消息曝出后，企业微信也即将推出名为“大圆”的AI agent，目前已进入内测阶段。据了解，该产品并不要求用户反复说上下文，而是可以基于企业微信内已有的群聊、文档、会议、邮件、日程等工作数据，自动理解用户诉求，并结合对应场景给出回复。（界面新闻）",
@@ -547,9 +559,22 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "AI算力新变局：谁能动英伟达奶酪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时38分 ~ 22时34分]"
         },
         {
           "title": "IBM(IBM.N)与OpenAI扩大网络安全合作，推出前沿人工智能能力，帮助企业抵御机器速度的网络威胁。",
@@ -583,6 +608,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "AI概念股遭全球抛售 纳指期货跌3% 美光科技盘前跌超9% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2407151",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "港股人工智能板块走低，智谱跌超13%，曦智科技-P、群核科技跌超7%，MINIMAX-W跌超6%，澜起科技、兆易创新跌超5%。",
@@ -641,16 +677,52 @@
           "time_info": "[00时43分 ~ 04时38分]"
         },
         {
-          "title": "AI算力新变局：谁能动英伟达奶酪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33431385",
-          "source": "澎湃新闻",
+          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
+          "url": "https://wallstreetcn.com/articles/3775254",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            4
+            9,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时38分 ~ 17时27分]"
+          "time_info": "[17时27分 ~ 22时34分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时38分 ~ 22时34分]"
+        },
+        {
+          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2044875348719005741",
+          "source": "知乎",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 22时34分]"
+        },
+        {
+          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
+          "url": "https://wallstreetcn.com/articles/3775250",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 22时34分]"
         },
         {
           "title": "渐冻症患者用脑机接口说出近200万字",
@@ -665,28 +737,6 @@
           "time_info": "[00时43分 ~ 04时38分]"
         },
         {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时38分"
-        },
-        {
-          "title": "DeepseekV4.1 即将发布，网友期待「降价、打爆国外 AI」，它将如何改变 AI 市场格局？",
-          "url": "https://www.zhihu.com/question/2044875348719005741",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
           "url": "https://www.cls.cn/detail/2406155",
           "source": "财联社热门",
@@ -698,15 +748,15 @@
           "time_info": "10时38分"
         },
         {
-          "title": "创业板跌逾3%，算力硬件、有色金属重挫，创新药、大金融拉升，港股“大模型双雄”大跌",
-          "url": "https://wallstreetcn.com/articles/3775254",
-          "source": "华尔街见闻",
+          "title": "AI周期已接近终点？空头大佬警告：暴跌30%至50%的大熊市即将到来",
+          "url": "https://www.cls.cn/detail/2406973",
+          "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "22时34分"
         },
         {
           "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
@@ -720,15 +770,26 @@
           "time_info": "10时38分"
         },
         {
-          "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
-          "url": "https://wallstreetcn.com/articles/3775250",
+          "title": "高盛警告AI泡沫：首个削减支出的巨头出现时，全市场将重新定价",
+          "url": "https://wallstreetcn.com/articles/3775302",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "22时34分"
+        },
+        {
+          "title": "【每日收评】创业板震荡走低跌近4%，有色、AI硬件集体调整，创新药板块逆势走强",
+          "url": "https://www.cls.cn/detail/2406846",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "港股AI双雄遭空头伏击 7月超千亿港元解禁潮如何考验其成色？",
@@ -737,7 +798,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -770,7 +831,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -786,13 +847,35 @@
           "time_info": "00时43分"
         },
         {
+          "title": "韩股大跌近 10% 再现熔断，韩国拟对「杠杆 ETF 炒作」出手干预，如何看全球 AI 半导体「散户杠杆化」现象？",
+          "url": "https://www.zhihu.com/question/2052673340993811952",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "微博 CEO 讨论 WPS 背刺随后删除称为龙虾误发，如何看待这一操作？AI 这篇点评有道理吗？",
+          "url": "https://www.zhihu.com/question/2052439090260178506",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "《十日终焉》原著作者借助 AI 批判自己的写作大纲，以此打磨作品，如何看待这种 AI 辅助创作方式？",
           "url": "https://www.zhihu.com/question/2052545440508108960",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -803,7 +886,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -819,6 +902,17 @@
           "time_info": "00时43分"
         },
         {
+          "title": "刘国中在江苏调研时强调 打造生物医药新兴支柱产业 培育发展脑机接口未来产业",
+          "url": "https://wallstreetcn.com/livenews/3123491",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "物理AI第一股上市首日高开302%",
           "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
           "source": "百度热搜",
@@ -828,6 +922,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时38分"
+        },
+        {
+          "title": "大模型横评:多款AI翻车实录",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355576&amp;topic_name=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%A8%AA%E8%AF%84%3A%E5%A4%9A%E6%AC%BEAI%E7%BF%BB%E8%BD%A6%E5%AE%9E%E5%BD%95",
+          "source": "贴吧",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "SpaceX与美国开源人工智能（AI）初创公司Reflection签署价值至多63亿美元的算力协议。（CNBC）",
@@ -858,7 +963,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
@@ -866,7 +971,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "如何看待懂车帝直播测试小米 su7 和尚界 z7 北京到上海 1300 公里续航？",
@@ -886,9 +991,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2052658991981973630",
+          "source": "知乎",
+          "ranks": [
+            16,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 22时34分]"
         },
         {
           "title": "东风-17首次公开发射画面有何意义",
@@ -944,7 +1061,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -993,6 +1110,17 @@
           "time_info": "10时38分"
         },
         {
+          "title": "小米电视疑似误报地震预警",
+          "url": "https://www.baidu.com/s?wd=%E5%B0%8F%E7%B1%B3%E7%94%B5%E8%A7%86%E7%96%91%E4%BC%BC%E8%AF%AF%E6%8A%A5%E5%9C%B0%E9%9C%87%E9%A2%84%E8%AD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
           "title": "券商股再度拉升，长城证券2连板，中信建投涨近7%，广发证券、华安证券、招商证券、西南证券跟涨。",
           "url": "https://wallstreetcn.com/livenews/3123109",
           "source": "华尔街见闻-快讯",
@@ -1004,24 +1132,13 @@
           "time_info": "10时38分"
         },
         {
-          "title": "华为宣布对智驾系统进行「兜底」，此举将对智能驾驶行业和消费者带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2052658991981973630",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
           "title": "华为乾崑高阶智驾包自 7 月 1 日起调价， 一次性购买恢复至标准价 3.6 万元，你怎么看？",
           "url": "https://www.zhihu.com/question/2050900350299852955",
           "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1032,7 +1149,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1062,8 +1179,30 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "欧洲央行副行长武伊契奇：通胀将持续高位运行。",
+          "url": "https://flash.jin10.com/detail/20260623221647515800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "欧洲央行副行长武伊契奇：通胀预期在长期内仍然稳定。",
+          "url": "https://flash.jin10.com/detail/20260623221531841800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
         {
           "title": "泰国央行料将维持利率不变 以保留政策空间",
           "url": "https://flash.jin10.com/detail/20260623171317760800",
@@ -1071,7 +1210,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1082,7 +1221,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1093,7 +1232,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1104,7 +1243,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -1137,9 +1276,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "加拿大央行行长Macklem：贸易战的相互伤害会降低所有人的增长。 在美国退缩之际，加拿大和欧盟应深化开放贸易。 必须使美国以外的投资更具吸引力。 重申对冲基金在政府债券市场中的风险。 对全球加密货币监管缺失表示担忧。",
+          "url": "https://wallstreetcn.com/livenews/3123484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "欧洲央行首席经济学家连恩：即使情况更为温和，也需要采取审慎的政策应对措施。",
@@ -1148,9 +1298,31 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "加拿大央行行长Macklem对使用关税和货币贬值提出批评。",
+          "url": "https://wallstreetcn.com/livenews/3123483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
+        },
+        {
+          "title": "加拿大央行：美元的吸引力可能使失衡状况持续存在。 美国贸易逆差由大量外国资本流入弥补。",
+          "url": "https://wallstreetcn.com/livenews/3123482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     }
