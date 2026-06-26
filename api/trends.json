@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T03:50:39.589813+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-26T10:43:38.077676+08:00",
+  "total_titles_processed": 542,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -41,31 +41,69 @@
           "time_info": "03时50分"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
           "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
           "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
         },
         {
           "title": "AI机器女友发布,仿真拉满",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
           "source": "贴吧",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
+        {
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
+        {
+          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2409443",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
@@ -85,6 +123,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "“1/6的价格，打爆美国AI护城河”——智谱开源模型GLM 5.2震动硅谷",
+          "url": "https://wallstreetcn.com/articles/3775500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
           "url": "https://www.cls.cn/detail/2409159",
           "source": "财联社热门",
@@ -96,37 +145,48 @@
           "time_info": "03时50分"
         },
         {
-          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
-          "source": "澎湃新闻",
+          "title": "北京头部大模型累计注册用户达20.5亿",
+          "url": "https://wallstreetcn.com/livenews/3124969",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "10时43分"
         },
         {
-          "title": "美光业绩提振AI板块 纳指期货涨超2% PCE数据缓解加息担忧 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2409443",
-          "source": "财联社热门",
+          "title": "智谱（02513）盘中市值一度破万亿，涨超 40%，年内翻 20 倍，是什么让港股的 AI 能如此疯狂？",
+          "url": "https://www.zhihu.com/question/2052348492203439014",
+          "source": "知乎",
           "ranks": [
-            12
+            17
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "10时43分"
         },
         {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
+          "title": "如何看待九成高报师用 AI 辅助填志愿？学生跳过高报师直接用 AI 报志愿可行吗？",
+          "url": "https://www.zhihu.com/question/2053444677655688859",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "我国首条AI+个性化靶点肿瘤疫苗产线在北京经开区开建",
+          "url": "https://wallstreetcn.com/livenews/3124945",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "10时43分"
         }
       ]
     },
@@ -248,7 +308,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊朗警告船舶勿使用未经授权的海峡航线",
@@ -260,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
@@ -293,6 +364,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "美官员称伊朗袭击新加坡货船 霍尔木兹海峡疏散暂停",
+          "url": "https://flash.jin10.com/detail/20260626102551396800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时43分"
         },
         {
           "title": "伊朗“波斯湾海峡管理部门”：因通过未经授权航线而引发的后果，将由船主、运营商及船长承担责任。",
@@ -342,8 +424,20 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
+          "url": "https://www.zhihu.com/question/2052889255903499836",
+          "source": "知乎",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
         {
           "title": "东风-17发射画面“震惊美军”，国防部回应",
           "url": "https://news.ifeng.com/c/8uFWghMqyBu",
@@ -356,15 +450,15 @@
           "time_info": "03时50分"
         },
         {
-          "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
-          "url": "https://www.zhihu.com/question/2052889255903499836",
+          "title": "疑似小米员工发文《置身米内》，将雷军比作项羽，有哪些看点？",
+          "url": "https://www.zhihu.com/question/2052883811151745057",
           "source": "知乎",
           "ranks": [
-            3
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "10时43分"
         },
         {
           "title": "专家：东风快递可摧毁10万吨核航母",
@@ -382,11 +476,23 @@
           "url": "https://www.toutiao.com/trending/7654797767532973631/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            25
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时50分 ~ 10时43分]"
+        },
+        {
+          "title": "蔚来李斌：2030年新能源汽车渗透率将超90%",
+          "url": "https://flash.jin10.com/detail/20260626102521568800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "10时43分"
         }
       ]
     }
