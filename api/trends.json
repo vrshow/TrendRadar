@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T10:43:38.077676+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2026-06-26T16:54:59.467022+08:00",
+  "total_titles_processed": 782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 16,
+      "match_count": 22,
       "titles": [
         {
           "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
@@ -58,11 +58,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            11
+            11,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 16时54分]"
         },
         {
           "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
@@ -101,6 +102,17 @@
           "time_info": "[03时50分 ~ 10时43分]"
         },
         {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
           "url": "https://wallstreetcn.com/articles/3775448",
           "source": "华尔街见闻",
@@ -110,6 +122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
+        },
+        {
+          "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
+          "url": "https://wallstreetcn.com/articles/3775558",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
@@ -129,9 +152,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "AI算力“烤”热培育钻石 金刚石散热现成长拐点 业内：2027年或迎放量期",
+          "url": "https://www.cls.cn/detail/2409699",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "分析师：AI驱动的股市行情变得越来越不稳定",
+          "url": "https://flash.jin10.com/detail/20260626164340411800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
@@ -145,15 +190,37 @@
           "time_info": "03时50分"
         },
         {
+          "title": "被SpaceX大跌吓退了？OpenAI据传考虑推迟IPO计划 力争万亿美元估值",
+          "url": "https://www.cls.cn/detail/2409706",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "北京头部大模型累计注册用户达20.5亿",
           "url": "https://wallstreetcn.com/livenews/3124969",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "短剧男主自曝因AI失业已返乡卖菜",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E7%94%B7%E4%B8%BB%E8%87%AA%E6%9B%9D%E5%9B%A0AI%E5%A4%B1%E4%B8%9A%E5%B7%B2%E8%BF%94%E4%B9%A1%E5%8D%96%E8%8F%9C%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "智谱（02513）盘中市值一度破万亿，涨超 40%，年内翻 20 倍，是什么让港股的 AI 能如此疯狂？",
@@ -162,7 +229,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -173,7 +240,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -184,15 +251,187 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
       ]
     },
     {
+      "keyword_group": "# 地区局势组 伊朗 @10",
+      "match_count": 15,
+      "titles": [
+        {
+          "title": "【WTI原油日内跌幅达4.0%，伊朗：霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理】WTI原油日内跌幅达4.0%，报69.04美元/桶；布伦特原油跌近4%。伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "意大利协助美国打伊朗？梅洛尼：吕特你别乱说",
+          "url": "https://news.ifeng.com/c/8uGv7gSoz4a",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
+          "url": "https://flash.jin10.com/detail/20260626030730178800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
+          "url": "https://www.cls.cn/detail/2409704",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 16时54分]"
+        },
+        {
+          "title": "伊朗民众：战争让人们重新理解了“拒绝屈辱”",
+          "url": "https://news.ifeng.com/c/8uH0HxuqiJE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "在伊华商：战争改变伊朗民众对中国的看法",
+          "url": "https://news.ifeng.com/c/8uGjlCe4dNV",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伊朗表示，霍尔木兹海峡航行将按照与美国的谅解备忘录进行管理。",
+          "url": "https://wallstreetcn.com/livenews/3125148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
+          "url": "https://wallstreetcn.com/livenews/3124821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理部门”：使用未经授权航线的船只将无法获得保险或相关责任承保。",
+          "url": "https://flash.jin10.com/detail/20260626024938592800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美官员称伊朗袭击新加坡货船 霍尔木兹海峡疏散暂停",
+          "url": "https://flash.jin10.com/detail/20260626102551396800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理部门”：因通过未经授权航线而引发的后果，将由船主、运营商及船长承担责任。",
+          "url": "https://flash.jin10.com/detail/20260626024912589800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "伊朗“波斯湾海峡管理部门”：对于未按本部门指定航线航行的船只，将无法保证其安全通行。",
+          "url": "https://flash.jin10.com/detail/20260626024849477800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3124812",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        },
+        {
+          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3124808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "墨西哥央行全体一致决定维持利率不变。",
@@ -303,128 +542,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "伊朗警告船舶勿使用未经授权的海峡航线",
-          "url": "https://flash.jin10.com/detail/20260626030730178800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
         },
         {
-          "title": "霍尔木兹波澜又起！有船只遭袭、疏散行动暂停 伊朗再发警告",
-          "url": "https://www.cls.cn/detail/2409704",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理局”：未按照PGSA设定航线航行的船只，将无法获得安全通行的保障",
-          "url": "https://wallstreetcn.com/livenews/3124821",
+          "title": "交易员不再充分押注欧洲央行年内将升息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3125139",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
           "ranks": [
             17
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理部门”：使用未经授权航线的船只将无法获得保险或相关责任承保。",
-          "url": "https://flash.jin10.com/detail/20260626024938592800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美官员称伊朗袭击新加坡货船 霍尔木兹海峡疏散暂停",
-          "url": "https://flash.jin10.com/detail/20260626102551396800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理部门”：因通过未经授权航线而引发的后果，将由船主、运营商及船长承担责任。",
-          "url": "https://flash.jin10.com/detail/20260626024912589800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "伊朗“波斯湾海峡管理部门”：对于未按本部门指定航线航行的船只，将无法保证其安全通行。",
-          "url": "https://flash.jin10.com/detail/20260626024849477800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "新兴市场外汇指数回吐涨幅，报道称伊朗袭击霍尔木兹海峡的船只。 布伦特原油日内涨幅达2.0%，报75.38美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3124812",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
-        },
-        {
-          "title": "美国官员：伊朗袭击了霍尔木兹海峡的一艘船。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3124808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时50分"
+          "time_info": "16时54分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "小米股价跌至 22.5 港元，股民「破防」怒骂雷军，这反映了投资者怎样的心态？",
@@ -456,7 +590,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -477,11 +611,12 @@
           "source": "今日头条",
           "ranks": [
             8,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 16时54分]"
         },
         {
           "title": "蔚来李斌：2030年新能源汽车渗透率将超90%",
@@ -490,9 +625,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "零跑新车上市半天黑稿已编到第三天",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9B%B6%E8%B7%91%E6%96%B0%E8%BD%A6%E4%B8%8A%E5%B8%82%E5%8D%8A%E5%A4%A9%E9%BB%91%E7%A8%BF%E5%B7%B2%E7%BC%96%E5%88%B0%E7%AC%AC%E4%B8%89%E5%A4%A9%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
