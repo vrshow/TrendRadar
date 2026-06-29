@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-06-29T10:49:23.504504+08:00",
-  "total_titles_processed": 539,
-  "failed_sources": [],
+  "generated_at": "2026-06-29T18:31:02.234758+08:00",
+  "total_titles_processed": 792,
+  "failed_sources": [
+    "zhihu"
+  ],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普威胁：伊朗或将不复存在；美军连续第二天空袭伊朗，伊朗革命卫队威胁对美军基地发起“地狱”式打击",
@@ -28,6 +30,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "伊朗官员称本周未安排技术工作组会议",
+          "url": "https://flash.jin10.com/detail/20260629175938214800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社，伊朗表示本周没有与美国进行技术性会谈的计划。塔斯尼姆通讯社",
+          "url": "https://wallstreetcn.com/livenews/3126058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
@@ -66,24 +90,25 @@
           "time_info": "[03时08分 ~ 10时49分]"
         },
         {
+          "title": "伊朗补刀,韩国队命悬一线",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 18时31分]"
+        },
+        {
           "title": "伊朗最后时刻无缘淘汰赛，一图速览世界杯32强",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470690",
           "source": "澎湃新闻",
           "ranks": [
             16,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 10时49分]"
-        },
-        {
-          "title": "伊朗补刀,韩国队命悬一线",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355692&amp;topic_name=%E4%BC%8A%E6%9C%97%E8%A1%A5%E5%88%80%2C%E9%9F%A9%E5%9B%BD%E9%98%9F%E5%91%BD%E6%82%AC%E4%B8%80%E7%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            16
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -99,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗方面表示与美国在多哈的会谈地点尚未确认。",
+          "url": "https://flash.jin10.com/detail/20260629175656558800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
@@ -156,6 +192,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "伊朗：本周未安排技术会议",
+          "url": "https://flash.jin10.com/detail/20260629175238491800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470245",
           "source": "澎湃新闻",
@@ -195,9 +242,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：受美国采取激进措施影响，霍尔木兹海峡航运活动有所减少，目前船舶过境作业通过伊朗航道进行。",
+          "url": "https://flash.jin10.com/detail/20260629173551889800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "伊朗队队长怒斥国际足联",
@@ -236,7 +294,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
@@ -248,6 +306,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 10时49分]"
+        },
+        {
+          "title": "清华姚班UP主详解AI专业就业",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%ADUP%E4%B8%BB%E8%AF%A6%E8%A7%A3AI%E4%B8%93%E4%B8%9A%E5%B0%B1%E4%B8%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
+        },
+        {
+          "title": "年中盘点|站在“光”里，走进“芯”里，“存”在“PCB”里，AI上游材料通胀行情“星光璀璨”…… 一文看懂2026年上半年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2411748",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
@@ -283,6 +363,17 @@
           "time_info": "03时08分"
         },
         {
+          "title": "日本防卫省正考虑引进美企人工智能系统",
+          "url": "https://wallstreetcn.com/livenews/3126063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
           "url": "https://wallstreetcn.com/articles/3775696",
           "source": "华尔街见闻",
@@ -307,6 +398,18 @@
           "time_info": "[03时08分 ~ 10时49分]"
         },
         {
+          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
+          "url": "https://wallstreetcn.com/articles/3775705",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 18时31分]"
+        },
+        {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
@@ -318,15 +421,15 @@
           "time_info": "[03时08分 ~ 10时49分]"
         },
         {
-          "title": "“央行中的央行”拉响AI泡沫警报：万亿美元资本支出狂潮恐演变为漫长崩盘",
-          "url": "https://wallstreetcn.com/articles/3775705",
-          "source": "华尔街见闻",
+          "title": "马斯克：Grok 4.5内测已比肩Opus，今年每月都发布一个全新大模型！",
+          "url": "https://www.cls.cn/detail/2411430",
+          "source": "财联社热门",
           "ranks": [
-            7
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -338,6 +441,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "当一个人的创造力加上 AI 杠杆，这代年轻人能做出多有趣的事来？",
+          "url": "https://www.zhihu.com/roundtable/opc",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育 提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "AI初创公司Firmus携手英伟达在印尼建设数据中心",
@@ -360,6 +485,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "国务院：推进人工智能全学段教育，提升学生人工智能素养",
+          "url": "https://wallstreetcn.com/livenews/3126032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "英国消费者健康公司Haleon：协议支持在业务中更广泛地采用人工智能驱动的工具。",
+          "url": "https://flash.jin10.com/detail/20260629173454903800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "富达国际资深股票分析师：具身智能投资从追本体转向掘金细分产业链",
@@ -387,7 +534,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "比亚迪市值为何蒸发8000亿",
@@ -400,6 +547,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时08分 ~ 10时49分]"
+        },
+        {
+          "title": "蔚来回应高压水枪洗车掉漆",
+          "url": "https://www.baidu.com/s?wd=%E8%94%9A%E6%9D%A5%E5%9B%9E%E5%BA%94%E9%AB%98%E5%8E%8B%E6%B0%B4%E6%9E%AA%E6%B4%97%E8%BD%A6%E6%8E%89%E6%BC%86",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "二手车调价速度跟不上新车打折节奏",
@@ -419,7 +577,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -430,7 +588,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -438,7 +596,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "本周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -447,9 +605,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 18时31分]"
+        },
+        {
+          "title": "沃什即将重磅登场！“欧洲版全球央行年会”本周隆重召开",
+          "url": "https://www.cls.cn/detail/2411302",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
         },
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -463,13 +632,24 @@
           "time_info": "03时08分"
         },
         {
+          "title": "专家预计全球央行加息节奏将出现反复",
+          "url": "https://www.toutiao.com/trending/7656437162279452713/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 18时31分]"
+        },
+        {
           "title": "中国央行今日开展1575亿元7天期逆回购操作，操作利率1.4%，与此前持平。今日有4765亿元逆回购到期。同时，中国央行进行3000亿元隔夜逆回购操作。",
           "url": "https://wallstreetcn.com/livenews/3125771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
