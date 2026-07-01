@@ -1,8 +1,201 @@
 {
-  "generated_at": "2026-07-01T10:49:48.024698+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-07-01T17:35:05.004279+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 17时35分]"
+        },
+        {
+          "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
+          "url": "https://www.cls.cn/detail/2413771",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "纳睿雷达：发布超460公里探测范围S波段全极化相控阵雷达及AI大模型",
+          "url": "https://wallstreetcn.com/livenews/3127315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
+          "url": "https://flash.jin10.com/detail/20260701103204339800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
+          "url": "https://www.zhihu.com/question/2053591589927262082",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "AI裁员 硅谷叶文洁出现了",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A3%81%E5%91%98%20%E7%A1%85%E8%B0%B7%E5%8F%B6%E6%96%87%E6%B4%81%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
+          "url": "https://www.cls.cn/detail/2413162",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "松下计划进一步拓展人工智能业务，以巩固其创纪录的估值",
+          "url": "https://flash.jin10.com/detail/20260701101628663800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "为什么有人愿意花百万买一个AI恋人",
+          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        },
+        {
+          "title": "AI预测2026英雄联盟MSI谁能夺冠",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
       "match_count": 17,
@@ -197,103 +390,53 @@
       ]
     },
     {
-      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 8,
+      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
+      "match_count": 13,
       "titles": [
         {
-          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "A股AI语料概念震荡反弹，新华传媒涨停，德生科技、读客文化、中信出版、果麦文化、人民网、同方股份、中国出版等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260701103204339800",
-          "source": "金十数据",
+          "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
+          "url": "https://www.cls.cn/detail/2414041",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
+          "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
+          "url": "https://www.zhihu.com/question/2055596626312541231",
+          "source": "知乎",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
+          "title": "刚买两天新车被4S店销售撞成事故车",
+          "url": "https://www.baidu.com/s?wd=%E5%88%9A%E4%B9%B0%E4%B8%A4%E5%A4%A9%E6%96%B0%E8%BD%A6%E8%A2%AB4S%E5%BA%97%E9%94%80%E5%94%AE%E6%92%9E%E6%88%90%E4%BA%8B%E6%95%85%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            8
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
         {
-          "title": "上半年银行理财收益率“冰火两重天”！AI算力类产品暴涨近200%、悦己经济跌超60%",
-          "url": "https://www.cls.cn/detail/2413162",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "松下计划进一步拓展人工智能业务，以巩固其创纪录的估值",
-          "url": "https://flash.jin10.com/detail/20260701101628663800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        },
-        {
-          "title": "为什么有人愿意花百万买一个AI恋人",
-          "url": "https://www.toutiao.com/trending/7657146718630461482/",
+          "title": "今天的长安街满眼中国红",
+          "url": "https://www.toutiao.com/trending/7656956438488858660/",
           "source": "今日头条",
           "ranks": [
-            30
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 17时35分]"
         },
-        {
-          "title": "AI预测2026英雄联盟MSI谁能夺冠",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%A2%84%E6%B5%8B2026%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9FMSI%E8%B0%81%E8%83%BD%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 7,
-      "titles": [
         {
           "title": "据理想汽车微博消息，2026年6月，理想汽车交付新车30895辆。",
           "url": "https://wallstreetcn.com/livenews/3127106",
@@ -301,7 +444,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -312,7 +455,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -323,7 +466,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -334,9 +477,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "东风奕派6月交付23,231辆，上半年累计交付同比增21%",
+          "url": "https://wallstreetcn.com/livenews/3127292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "理想汽车：6月交付新车30,895辆。截至2026年6月30日，累计交付量达到1,733,687辆。截至6月，理想i6累计生产突破15万辆。全新理想L6预计将于2026年7月上市。",
@@ -345,7 +499,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         },
@@ -356,9 +510,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
+        },
+        {
+          "title": "上汽集团：6月整车销量39.48万辆，同比增长8.07%",
+          "url": "https://wallstreetcn.com/livenews/3127279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "小米公司：6月小米汽车交付量持续超过30000台。",
@@ -367,7 +532,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
@@ -375,8 +540,19 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "欧元区通胀数据公布后，市场略微削减了对欧洲央行加息的押注，目前预计年末前将加息23个基点。",
+          "url": "https://flash.jin10.com/detail/20260701170716643800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
         {
           "title": "欧洲央行管委Kazaks：继续加息的紧迫性已经显著下降。 当前无需采取强有力的通胀应对手段。 难以判断央行将在7月、9月采取什么行动。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3126958",
@@ -387,6 +563,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "欧元区6月通胀率降至2.8% 对欧洲央行而言是一大利好",
+          "url": "https://flash.jin10.com/detail/20260701170554627800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "欧元区通胀数据公布后，市场略微削减了对欧洲央行加息的押注，目前预计年末前将加息23个基点。",
+          "url": "https://wallstreetcn.com/livenews/3127309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
         },
         {
           "title": "日元跌破 1 美元兑 162 日元关口，创下近 40 年来新低，日本央行已加息至 1%，为何完全挡不住日元贬值颓势？",
@@ -422,6 +620,28 @@
           "time_info": "03时46分"
         },
         {
+          "title": "欧洲央行管委Kocher：接下来的决策要么加息，要么维持不变。 工资协议可能使通胀持续处于高位。 通胀威胁有所降低，但尚未完全遏制住。",
+          "url": "https://wallstreetcn.com/livenews/3127297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "欧洲央行管委、比利时央行行长Wunsch：需要更强的第二轮效应才会进一步收紧政策。 如果没有重大的第二轮效应，一次加息可能就足够了。",
+          "url": "https://wallstreetcn.com/livenews/3127291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
           "title": "欧洲央行管委卡扎克斯：目前没有必要采取强有力的通胀应对措施。很难预测七月和九月会发生什么。",
           "url": "https://flash.jin10.com/detail/20260701031511938800",
           "source": "金十数据",
@@ -450,7 +670,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时49分"
         }
