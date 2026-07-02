@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T16:45:31.893207+08:00",
-  "total_titles_processed": 767,
+  "generated_at": "2026-07-02T21:44:41.500709+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 23,
+      "match_count": 32,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -16,8 +16,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 21时44分]"
+        },
+        {
+          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
+          "url": "https://wallstreetcn.com/articles/3776029",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 21时44分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -37,9 +49,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "超弱美国非农助力黄金拉升 AI牛股止跌转涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2415745",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -53,15 +76,15 @@
           "time_info": "03时44分"
         },
         {
-          "title": "Meta一句“卖算力”砸崩AI硬件！华尔街火速拆解：别慌，这不等于算力过剩，这不是行业拐点",
-          "url": "https://wallstreetcn.com/articles/3776029",
-          "source": "华尔街见闻",
+          "title": "美媒：中国人工智能发展愿景以人为本",
+          "url": "https://wallstreetcn.com/livenews/3128068",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "21时44分"
         },
         {
           "title": "如何评价AI巨头之间的混战",
@@ -70,22 +93,37 @@
           "ranks": [
             6,
             17,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 21时44分]"
         },
         {
           "title": "Meta收涨8.8%！报道：筹划进军云计算市场，以出售富余的AI算力资源",
           "url": "https://wallstreetcn.com/articles/3775980",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时39分 ~ 16时45分]"
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 21时44分]"
+        },
+        {
+          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
+          "url": "https://wallstreetcn.com/articles/3775997",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时39分 ~ 21时44分]"
         },
         {
           "title": "SpaceX“造AI手机”传闻带飞高通 马斯克火速否认浇灭市场热情",
@@ -100,16 +138,16 @@
           "time_info": "[10时39分 ~ 16时45分]"
         },
         {
-          "title": "Meta消息砸盘！AI基础设施股重挫，盘中闪迪、CoreWeave跌超10%，市场开始担心算力过剩？",
-          "url": "https://wallstreetcn.com/articles/3775997",
-          "source": "华尔街见闻",
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
           "ranks": [
-            9,
-            8
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时39分 ~ 16时45分]"
+          "time_info": "[16时45分 ~ 21时44分]"
         },
         {
           "title": "甲骨文的AI焦虑：建了数千亿数据中心，但就怕OpenAI付不起账单",
@@ -123,15 +161,37 @@
           "time_info": "[10时39分 ~ 16时45分]"
         },
         {
-          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
-          "url": "https://www.zhihu.com/question/2055934590297150773",
-          "source": "知乎",
+          "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
+          "url": "https://www.cls.cn/detail/2415670",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "脉脉发布校招数据：校招岗位量增长3.56%，AI岗位增长47.3%",
+          "url": "https://wallstreetcn.com/livenews/3128067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
+          "url": "https://www.cls.cn/detail/2415416",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "21时44分"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
@@ -167,6 +227,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "AI演员已经能演出情绪变化了",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E5%B7%B2%E7%BB%8F%E8%83%BD%E6%BC%94%E5%87%BA%E6%83%85%E7%BB%AA%E5%8F%98%E5%8C%96%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "AI行情促使投资再平衡 外资从亚洲股市撤回创纪录的1370亿美元",
           "url": "https://flash.jin10.com/detail/20260702100642712800",
           "source": "金十数据",
@@ -176,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        },
+        {
+          "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
+          "url": "https://www.cls.cn/detail/2415407",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "人工智能冲击婚纱影楼",
@@ -228,9 +310,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "好多人为啥根本意识不到，就算 AI 崩盘，消费级 DDR 内存也不会暴跌至远低于 2024 年的低位价格？",
+          "url": "https://www.zhihu.com/question/2052018919150450628",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
@@ -250,7 +343,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -264,151 +357,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "巴基斯坦外交部：巴基斯坦总理谢里夫将出席伊朗前最高领袖哈梅内伊的葬礼。",
-          "url": "https://flash.jin10.com/detail/20260702163910803800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
-          "title": "伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3127921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
-          "url": "https://flash.jin10.com/detail/20260702030012797800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
-          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖葬礼",
-          "url": "https://www.douyin.com/hot/2555610",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
-          "url": "https://wallstreetcn.com/livenews/3127569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗武装部队统一指挥部称，所有船只必须遵循伊朗指定的海上航线，以确保安全通过霍尔木兹海峡。美国在霍尔木兹海峡的任何干涉行为都将遭到“迅速而果断的回应”。",
-          "url": "https://flash.jin10.com/detail/20260702162933862800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
-          "url": "https://wallstreetcn.com/livenews/3127562",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美方警告伊朗 改变霍尔木兹海峡现状将被视为违反协议",
-          "url": "https://flash.jin10.com/detail/20260702162647112800",
+          "title": "美国白宫国家经济委员会主任哈塞特：我们正在与所有人工智能公司讨论分享收益的事宜。",
+          "url": "https://flash.jin10.com/detail/20260702211921655800",
           "source": "金十数据",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时45分"
-        },
-        {
-          "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
-          "url": "https://wallstreetcn.com/livenews/3127554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "美方试图劝说伊朗放弃征收通行费，称解除制裁后收益将高出“百倍”。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3127553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时44分"
-        },
-        {
-          "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼",
-          "url": "https://wallstreetcn.com/livenews/3127888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
+          "time_info": "21时44分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "如何看待比亚迪 6 月销量 403472 辆？",
+          "url": "https://www.zhihu.com/question/2055723812524652185",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时45分 ~ 21时44分]"
+        },
         {
           "title": "怎么看待「小米辟谣」正式上线？这一举动可能会为小米带来哪些影响？",
           "url": "https://www.zhihu.com/question/2055340835823212244",
@@ -420,17 +397,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时39分 ~ 16时45分]"
-        },
-        {
-          "title": "如何看待比亚迪 6 月销量 403472 辆？",
-          "url": "https://www.zhihu.com/question/2055723812524652185",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时45分"
         },
         {
           "title": "新势力半年“交卷”：零跑单月破9万再创纪录 蔚来、小鹏同步冲高",
@@ -450,9 +416,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
+        },
+        {
+          "title": "小米卢伟冰称「失控的成本已经席卷了整个手机市场，而千元机毫无疑问受伤最严重」，如何看待这一言论？",
+          "url": "https://www.zhihu.com/question/2055964863189537048",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
         },
         {
           "title": "“新汽车”上半年收官：鸿蒙智行锁定200万辆目标 小米前6月交付超18万",
@@ -472,11 +449,12 @@
           "ranks": [
             11,
             13,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时44分 ~ 16时45分]"
+          "appearance_count": 4,
+          "time_info": "[03时44分 ~ 21时44分]"
         },
         {
           "title": "6 月鸿蒙智行交付超 5 万台，小米汽车再破 3 万台，如何看待各家车企表现？行业下半年走势如何？",
@@ -523,6 +501,17 @@
           "time_info": "10时39分"
         },
         {
+          "title": "国家发改委赴小米集团开展工作调研",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%AE%B6%E5%8F%91%E6%94%B9%E5%A7%94%E8%B5%B4%E5%B0%8F%E7%B1%B3%E9%9B%86%E5%9B%A2%E5%BC%80%E5%B1%95%E5%B7%A5%E4%BD%9C%E8%B0%83%E7%A0%94%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
           "title": "恒指高开0.83%，报23071.43点；恒生科技指数涨1.25%。小鹏、百度、比亚迪股份涨近5%，零跑汽车、京东、快手等多股涨超3%。华虹宏力跌逾7%，中芯国际跌近6%。",
           "url": "https://wallstreetcn.com/livenews/3127708",
           "source": "华尔街见闻-快讯",
@@ -532,6 +521,155 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 地区局势组 伊朗 @10",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "巴基斯坦外交部：巴基斯坦总理谢里夫将出席伊朗前最高领袖哈梅内伊的葬礼。",
+          "url": "https://flash.jin10.com/detail/20260702163910803800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗称将对美国在霍尔木兹海峡的干预作出回应。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3127921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "美国总统特朗普：美国与伊朗关系非常融洽。",
+          "url": "https://flash.jin10.com/detail/20260702030012797800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖葬礼",
+          "url": "https://www.douyin.com/hot/2555610",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗称美方违反谅解备忘录承诺，将建立监督机制审查违规行为",
+          "url": "https://wallstreetcn.com/livenews/3127569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "伊朗国家队回国向民众道歉",
+          "url": "https://www.toutiao.com/trending/7657124026443402793/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时44分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗武装部队统一指挥部称，所有船只必须遵循伊朗指定的海上航线，以确保安全通过霍尔木兹海峡。美国在霍尔木兹海峡的任何干涉行为都将遭到“迅速而果断的回应”。",
+          "url": "https://flash.jin10.com/detail/20260702162933862800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "伊朗副外长表示，伊朗代表团在多哈的会谈已结束。（伊朗伊斯兰共和国通讯社IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3127562",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美方警告伊朗 改变霍尔木兹海峡现状将被视为违反协议",
+          "url": "https://flash.jin10.com/detail/20260702162647112800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
+          "url": "https://wallstreetcn.com/livenews/3127554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "美方试图劝说伊朗放弃征收通行费，称解除制裁后收益将高出“百倍”。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3127553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时44分"
+        },
+        {
+          "title": "何维将出席伊朗已故最高领袖哈梅内伊葬礼",
+          "url": "https://wallstreetcn.com/livenews/3127888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         }
       ]
     },
@@ -579,7 +717,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -590,7 +728,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
@@ -601,7 +739,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
         },
