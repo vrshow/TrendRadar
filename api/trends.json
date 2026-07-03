@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-03T10:14:37.540524+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-07-03T16:54:10.156106+08:00",
+  "total_titles_processed": 757,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
+          "url": "https://wallstreetcn.com/articles/3776101",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
         {
           "title": "Meta被曝计划出售算力，AI算力过剩了吗？多家机构发声",
           "url": "https://www.cls.cn/detail/2415670",
@@ -32,6 +44,17 @@
           "time_info": "[03时15分 ~ 10时14分]"
         },
         {
+          "title": "砸钱时代落幕？Meta和Anthropic接连出招，AI行业逻辑悄然生变",
+          "url": "https://www.cls.cn/detail/2416232",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
           "title": "Meta Platforms(META.O)CEO：2026年初，高管们曾担心在人工智能领域“行动不够迅速”。",
           "url": "https://flash.jin10.com/detail/20260703030444713800",
           "source": "金十数据",
@@ -54,15 +77,16 @@
           "time_info": "03时15分"
         },
         {
-          "title": "芯片股两连跌！AI“鬼故事”不断：Meta、Anthropic相继传出新动作，市场开始重估AI交易？",
-          "url": "https://wallstreetcn.com/articles/3776101",
-          "source": "华尔街见闻",
+          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
+          "url": "https://www.cls.cn/detail/2415999",
+          "source": "财联社热门",
           "ranks": [
-            5
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
         },
         {
           "title": "【每日收评】创业板指跌近6%，机器人概念股逆势活跃，AI硬件、 半导体等科技权重批量跌停",
@@ -88,6 +112,64 @@
           "time_info": "[03时15分 ~ 10时14分]"
         },
         {
+          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
+          "url": "https://wallstreetcn.com/articles/3776098",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
+        {
+          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
+          "url": "https://www.cls.cn/detail/2415850",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
+        {
+          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
+        {
+          "title": "AI光互联领域重要信号！英伟达技术大牛跳槽 VCSEL路线重塑CPO格局？",
+          "url": "https://www.cls.cn/detail/2416215",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
+          "title": "AI情绪逆转！全球股市反弹，美股期货上涨1%，金铜拉涨，美元下跌",
+          "url": "https://wallstreetcn.com/articles/3776124",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
+        {
           "title": "脑机接口进医保 医院挤满想试的人",
           "url": "https://www.baidu.com/s?wd=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E8%BF%9B%E5%8C%BB%E4%BF%9D+%E5%8C%BB%E9%99%A2%E6%8C%A4%E6%BB%A1%E6%83%B3%E8%AF%95%E7%9A%84%E4%BA%BA",
           "source": "百度热搜",
@@ -111,17 +193,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "Meta“卖算力”原因曝光？扎克伯格：AI智能体开发速度不及预期",
-          "url": "https://www.cls.cn/detail/2415999",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "Meta Platforms(META.O)CEO：过去四个月里，AI智能体的开发并未“如我们预期的那样加速”。",
           "url": "https://flash.jin10.com/detail/20260703025612811800",
           "source": "金十数据",
@@ -133,17 +204,6 @@
           "time_info": "03时15分"
         },
         {
-          "title": "Meta收跌5%！报道：扎克伯格称Meta AI智能体开发不及预期",
-          "url": "https://wallstreetcn.com/articles/3776098",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
-        },
-        {
           "title": "AI究竟是福是祸？全球顶级经济学家激辩：风险不可忽视",
           "url": "https://www.cls.cn/detail/2415407",
           "source": "财联社热门",
@@ -153,17 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时15分"
-        },
-        {
-          "title": "Robinhood CEO：AI智能体很快将媲美人类交易员 散户有望获得机构级交易能力",
-          "url": "https://www.cls.cn/detail/2415850",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
         },
         {
           "title": "AI演员已经能演出情绪变化了",
@@ -188,15 +237,15 @@
           "time_info": "03时15分"
         },
         {
-          "title": "对话｜硅谷为何争抢哲学家？AI生成内容越廉价，判断力越是稀缺能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33501142",
-          "source": "澎湃新闻",
+          "title": "Meta据悉考虑由三星代工10万亿韩元定制AI芯片生产",
+          "url": "https://wallstreetcn.com/livenews/3128547",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时14分"
+          "time_info": "16时54分"
         },
         {
           "title": "美国AI三大巨头争抢哲学家",
@@ -224,7 +273,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待比亚迪 6 月销量 403472 辆？",
@@ -238,38 +287,52 @@
           "time_info": "03时15分"
         },
         {
+          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2056094088609390914",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
+        {
           "title": "月供五百开SU7?小米拿捏年轻人",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355844&amp;topic_name=%E6%9C%88%E4%BE%9B%E4%BA%94%E7%99%BE%E5%BC%80SU7%3F%E5%B0%8F%E7%B1%B3%E6%8B%BF%E6%8D%8F%E5%B9%B4%E8%BD%BB%E4%BA%BA",
           "source": "贴吧",
           "ranks": [
             7,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时15分 ~ 10时14分]"
-        },
-        {
-          "title": "国家发改委价格监测中心副主任刘刚带队赴小米集团开展工作调研，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2056094088609390914",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "appearance_count": 4,
+          "time_info": "[03时15分 ~ 16时54分]"
         },
         {
           "title": "曝西安赛格曾涉违章加盖、对商户打砸抢 6 天、占长安大教学用地，具体情况如何？还有哪些问题值得关注？",
           "url": "https://www.zhihu.com/question/2056002373693038752",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时14分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时14分 ~ 16时54分]"
+        },
+        {
+          "title": "比亚迪海豹 08 上市价格 19.69-23.99 万，值得入手吗？",
+          "url": "https://www.zhihu.com/question/2056041972998083528",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "港股科网股持续走强，小米集团(01810.HK)涨超5%，京东健康(06618.HK)涨超4%，阿里健康(00241.HK)、百度(09888.HK)、腾讯控股(00700.HK)等跟涨。",
@@ -278,7 +341,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -294,13 +357,24 @@
           "time_info": "03时15分"
         },
         {
+          "title": "据德国汽车管理局：特斯拉6月份新车注册量增幅最大，高达317.6%，市场份额达到2.6%。比亚迪紧随其后，注册量增幅为273.7%，市场份额为2.1%。",
+          "url": "https://flash.jin10.com/detail/20260703163737148800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "港股汽车股盘初冲高，比亚迪股份(01211.HK)涨超5%，零跑汽车(09863.HK)涨近3%，北京汽车(01958.HK)、广汽集团(02238.HK)等跟涨。",
           "url": "https://flash.jin10.com/detail/20260703093203015800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -311,7 +385,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -330,8 +404,30 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "日本企业工资涨幅连续第三年超过5%，支持日本央行加息路径",
+          "url": "https://flash.jin10.com/detail/20260703164451891800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "证监会同意广东中塑新材料股份有限公司首次公开发行股票。",
+          "url": "https://flash.jin10.com/detail/20260703164338624800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
         {
           "title": "A股机器人概念股继续活跃，北纬科技、雷赛智能、首开股份竞价涨停，景兴纸业、中大力德、日盈电子、卧龙电驱跟涨，消息上，证监会同意宇树科技股份有限公司首次公开发行股票并在科创板上市的注册申请。",
           "url": "https://wallstreetcn.com/livenews/3128339",
@@ -339,9 +435,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "俄罗斯央行：第二季度GDP增长将受到燃料生产量下降的影响。",
+          "url": "https://flash.jin10.com/detail/20260703163805925800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "日本财务大臣片山皋月：具体的货币政策应该留待日本央行作出。 预计日本央行将与政府密切沟通。 预计日本央行将以物价为目标来管理政策。",
@@ -350,7 +457,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -361,9 +468,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "英国央行决策委员会：企业未来一年预期工资增长在截至六月的三个月内上升0.1个百分点，达到3.5%，截至五月的三个月内为3.4%。",
+          "url": "https://flash.jin10.com/detail/20260703163402590800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "英国央行决策委员会：企业对未来一年自身价格通胀的预期在截至六月的三个月内为4.1%，比截至五月的三个月内报告的高出0.1个百分点。",
+          "url": "https://flash.jin10.com/detail/20260703163325244800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "日本财务大臣片山皋月：关于日本央行的经济蓝图，目前没有任何新内容。",
@@ -372,7 +501,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         },
@@ -391,8 +520,30 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 4,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗议会议长卡利巴夫表示，美国和以色列未能实现其在战争中的任何目标。如今各方都已得出结论：针对伊朗的军事行动已经失败。",
+          "url": "https://flash.jin10.com/detail/20260703164936827800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "哈梅内伊遗体告别仪式在伊朗举行",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E9%81%97%E4%BD%93%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F%E5%9C%A8%E4%BC%8A%E6%9C%97%E4%B8%BE%E8%A1%8C",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
+        },
         {
           "title": "伊朗外长：只有在全面、包容且不受外部干涉的情况下，本地区的和平才能得以维系。",
           "url": "https://flash.jin10.com/detail/20260703024121722800",
@@ -416,15 +567,48 @@
           "time_info": "03时15分"
         },
         {
+          "title": "据伊朗学生通讯社：伊朗首席谈判代表卡里巴夫表示，如果美国和以色列不履行其承诺，伊朗将恢复适当措施。",
+          "url": "https://flash.jin10.com/detail/20260703163545257800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "受伊朗战争影响 英国服务业大幅萎缩",
+          "url": "https://flash.jin10.com/detail/20260703163315483800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
           "title": "何维将出席伊朗已故最高领袖葬礼",
           "url": "https://www.douyin.com/hot/2555610",
           "source": "抖音",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
+        },
+        {
+          "title": "国际原子能机构：尚未获准进入伊朗核设施",
+          "url": "https://wallstreetcn.com/livenews/3128532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
           "title": "花旗预计伊朗与美国谅解备忘录得以维系 布伦特油价年底在60-65美元",
@@ -433,7 +617,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时14分"
         }
