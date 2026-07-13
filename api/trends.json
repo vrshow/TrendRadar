@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-13T02:56:48.293057+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-13T10:06:05.239442+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 22,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗关闭霍尔木兹海峡、打击美在中东目标，美军对伊发动新一轮袭击、多地传出爆炸声",
@@ -15,8 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
+        },
+        {
+          "title": "【早报】美国对伊朗发动打击；油价大涨，黄金跌破4100美元；半导体设备龙头，今日复牌",
+          "url": "https://www.cls.cn/detail/2423960",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗外交部发表声明，强烈谴责美军新一轮袭击",
+          "url": "https://news.ifeng.com/c/8uiM52n08OU",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "特朗普：伊朗违背承诺，刚谈完不到一小时就袭击商船",
+          "url": "https://news.ifeng.com/c/8uidsBIJWO9",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "安全消息人士：无人机袭击目标为伊朗库尔德反对派在伊拉克东部苏莱曼尼亚的营地。",
@@ -114,24 +147,36 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
-          "url": "https://flash.jin10.com/detail/20260713012608595800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
         },
         {
           "title": "如何看待 7 月 12 日伊朗再次宣布关闭霍尔木兹海峡？这种封锁会成为常态吗？从长期看，要怎么应对？",
           "url": "https://www.zhihu.com/question/2059566718733776028",
           "source": "知乎",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
+        },
+        {
+          "title": "中东局势追踪：伊朗、阿曼展开通航磋商 霍尔木兹海峡再度关闭",
+          "url": "https://www.cls.cn/detail/2423670",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗革命卫队此前在科威特的无人机行动中瞄准了美国火箭弹发射系统。",
+          "url": "https://flash.jin10.com/detail/20260713012608595800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
@@ -171,6 +216,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时56分"
+        },
+        {
+          "title": "美军袭击伊朗一水泵站 致1死4伤",
+          "url": "https://wallstreetcn.com/livenews/3132512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
         },
         {
           "title": "伊朗海军军官在美军袭击中身亡",
@@ -253,7 +309,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "人口第一大国，被AI做空了",
@@ -263,8 +319,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
+        },
+        {
+          "title": "本周重磅日程：中国GDP与美国CPI、沃什听证会、WAIC大会、长鑫科技打新与台积电财报",
+          "url": "https://wallstreetcn.com/articles/3776632",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "AI热潮推动下 行业人士：HBM4价格明年或翻倍",
@@ -304,11 +371,78 @@
           "url": "https://wallstreetcn.com/articles/3776720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时56分"
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
+        },
+        {
+          "title": "苹果指控OpenAI偷窃商业机密",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8C%87%E6%8E%A7OpenAI%E5%81%B7%E7%AA%83%E5%95%86%E4%B8%9A%E6%9C%BA%E5%AF%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "手机成大模型竞争新赛场 AI“超级载体”利好哪些硬件环节？",
+          "url": "https://www.cls.cn/detail/2422793",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "Meta又闯祸了，新AI图像功能被喷到下线",
+          "url": "https://www.cls.cn/detail/2423666",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "手慢无、买完还得防举报：“空调羞耻”下欧洲人的AI自救",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33559448",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "五大亮点提前看！世界人工智能大会本周开幕：智慧、硬核、体验、年轻、治理",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33571516",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "印度本土为何跑不出一家OpenAI",
+          "url": "https://www.toutiao.com/trending/7661777860511665706/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
         },
         {
           "title": "AI是如何“杀死”印度IT行业的",
@@ -325,18 +459,47 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "环球下周看点：通胀、财报与中东风险“三碰头” 标普再冲新高",
           "url": "https://www.cls.cn/detail/2423676",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时56分 ~ 10时06分]"
+        },
+        {
+          "title": "比亚迪开启电动车“炫耀之旅”",
+          "url": "https://www.toutiao.com/trending/7661674856559152682/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 10时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国央行公开市场今日净投放2170亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3132510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时56分"
+          "time_info": "10时06分"
         }
       ]
     }
