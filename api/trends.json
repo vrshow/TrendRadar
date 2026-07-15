@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T09:48:42.449971+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-07-15T15:55:36.422097+08:00",
+  "total_titles_processed": 753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 22,
+      "match_count": 29,
       "titles": [
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -30,6 +30,17 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 15时55分]"
+        },
+        {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
           "url": "https://news.ifeng.com/c/8ukLcwiKckH",
           "source": "凤凰网",
@@ -47,9 +58,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "伊朗革命卫队：只要美国在地区的“邪恶行动”存在，地区将不会有一滴石油和天然气出口。",
@@ -63,15 +85,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
+          "title": "两艘运载伊朗原油油轮将目的地改为巴基斯坦 或为规避美国海上封锁",
+          "url": "https://flash.jin10.com/detail/20260715154301840800",
+          "source": "金十数据",
           "ranks": [
-            3
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "15时55分"
         },
         {
           "title": "伊朗革命卫队：只要美国继续行动，霍尔木兹海峡的重新开放就将被推迟。",
@@ -91,7 +113,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -107,16 +129,15 @@
           "time_info": "03时09分"
         },
         {
-          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
-          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
-          "source": "凤凰网",
+          "title": "载有伊朗石油的两艘油轮指示目的地是巴基斯坦。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3134197",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -125,6 +146,18 @@
           "ranks": [
             9,
             7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 15时55分]"
+        },
+        {
+          "title": "惊险！伊朗客机准备降落，沙特导弹砸向跑道，瞬间一片火海",
+          "url": "https://news.ifeng.com/c/8ul2v0dWeKd",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -159,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -186,6 +219,17 @@
           "time_info": "03时09分"
         },
         {
+          "title": "伊朗军方称美军袭击伊朗沙赫尔军营致7人死亡。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3134191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "伊朗向科威特目标、巴林目标发射导弹和无人机。（伊朗媒体MEHR）",
           "url": "https://wallstreetcn.com/livenews/3133823",
           "source": "华尔街见闻-快讯",
@@ -197,13 +241,35 @@
           "time_info": "03时09分"
         },
         {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "美称将继续打击伊朗",
           "url": "https://www.toutiao.com/trending/7661877138492149289/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -217,6 +283,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         },
         {
           "title": "据ABC：一名美国官员证实，美军目前正在伊朗境内实施空袭行动。该官员表示，空袭已持续数小时。",
@@ -247,16 +324,277 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
       ]
     },
     {
-      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 14,
+      "keyword_group": "# 政策动态组 证监会 央行 @5",
+      "match_count": 22,
       "titles": [
+        {
+          "title": "央行：未来一段时期，贷款的降速提质可能成为宏观运行的新常态之一",
+          "url": "https://flash.jin10.com/detail/20260715154328413800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "中国央行：今日开展4265亿元7天逆回购操作，投标量4265亿元，中标量4265亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260715092056306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "央行：人民币汇率预计会继续双向波动",
+          "url": "https://wallstreetcn.com/livenews/3134198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "加拿大央行将维持“观望模式” 保留加息和降息两种选项",
+          "url": "https://flash.jin10.com/detail/20260715153932008800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行将开展14000亿元买断式逆回购",
+          "url": "https://www.douyin.com/hot/2571364",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时08分 ~ 03时09分]"
+        },
+        {
+          "title": "罢工打乱发布流程 加拿大央行取消利率决议媒体预览",
+          "url": "https://flash.jin10.com/detail/20260715091735819800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "央行：现阶段7天期逆回购利率还是主要政策利率",
+          "url": "https://wallstreetcn.com/livenews/3134194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "中国央行公开市场今日净投放4115亿元人民币",
+          "url": "https://wallstreetcn.com/livenews/3133974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "央行为何开展1.4万亿买断式逆回购",
+          "url": "https://www.toutiao.com/trending/7662584212725173798/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：前5月以人民币开展跨境贸易结算比例约30%",
+          "url": "https://flash.jin10.com/detail/20260715153530599800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：研究逐步增加隔夜逆回购的操作频率",
+          "url": "https://wallstreetcn.com/livenews/3134187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "【央行：不宜根据单次公开市场操作量多少判断央行政策取向】7月15日，人民银行副行长邹澜在国新办新闻发布会上表示，人民银行会统筹考虑多种因素变化，合理安排公开市场操作的品种和规模，有时回笼，有时投放，最终是保持流动性总量处于合适水平，从而促进短端利率在政策利率附近平稳运行。某一次的操作量多少是服务于流动性总量调控的需要，不宜根据单次操作量的多少来判断央行的政策取向。相对于央行的操作量，短端市场利率水平是一个更适宜的观测指标。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3134185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：加大逆周期和跨周期调节力度 巩固拓展经济稳中向好势头",
+          "url": "https://wallstreetcn.com/livenews/3134184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：截至6月末普惠小微贷款同比增长8.3%",
+          "url": "https://wallstreetcn.com/livenews/3134182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "【央行：1—6月新发放企业贷款加权平均利率大约为3%】7月15日，人民银行副行长邹澜在国新办新闻发布会上表示，1—6月，新发放企业贷款加权平均利率大约为3%，比上年同期低约20个基点；新发放的个人住房贷款利率约3.1%，与上年同期基本持平。",
+          "url": "https://wallstreetcn.com/livenews/3134180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：研究逐步增加隔夜逆回购的操作频率",
+          "url": "https://flash.jin10.com/detail/20260715153310954800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "欧洲央行管委会成员兼德国央行行长Nagel：6月决议后，欧洲央行利率处于合适水平。 中东局势动荡，不确定性高。 如有必要，欧洲央行必须果断采取行动。 欧洲央行政策将保持警惕立场。",
+          "url": "https://wallstreetcn.com/livenews/3134176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "加量续作：央行15日将开展14000亿元6个月期买断式逆回购操作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583125",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "中国央行：初步统计，2026年6月末社会融资规模存量为462.06万亿元，同比增长7.4%。",
+          "url": "https://wallstreetcn.com/livenews/3134175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：人民币汇率预计会继续双向波动",
+          "url": "https://flash.jin10.com/detail/20260715153102112800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "中国央行：上半年人民币存款增加17.76万亿元",
+          "url": "https://wallstreetcn.com/livenews/3134170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "央行：截至4月末银行发放科技创新和技术改造贷款1.5万亿元",
+          "url": "https://flash.jin10.com/detail/20260715152903594800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
+          "url": "https://wallstreetcn.com/articles/3776903",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 15时55分]"
+        },
         {
           "title": "AI时代需要什么样的人：从DeepSeek招聘清单说起",
           "url": "https://m.thepaper.cn/newsDetail_forward_33570712",
@@ -284,23 +622,25 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
           "source": "贴吧",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "全美首个州级“刹车令”！纽约州暂停新建大型AI数据中心，一年内不再发放新许可",
-          "url": "https://wallstreetcn.com/articles/3776903",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
+            3,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 09时48分]"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 15时55分]"
+        },
+        {
+          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 15时55分]"
         },
         {
           "title": "美联储主席沃什国会首秀讲稿：誓言驯服通胀 看好AI投资红利",
@@ -350,18 +690,6 @@
           "time_info": "[03时08分 ~ 09时48分]"
         },
         {
-          "title": "摄影获奖作品被质疑为AI生成，呼和浩特官方发布情况通报",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583402",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 09时48分]"
-        },
-        {
           "title": "如何评价 OpenAI 新模型 GPT-5.6 Sol Ultra，在不到一小时内证明循环双覆盖猜想？",
           "url": "https://www.zhihu.com/question/2059349642496710015",
           "source": "知乎",
@@ -384,13 +712,46 @@
           "time_info": "[03时08分 ~ 03时09分]"
         },
         {
+          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
+          "url": "https://www.zhihu.com/question/2060645375338180828",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "AI短剧以假乱真了",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%E4%BA%86&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "AI 编程时代，被誉为「软件工程圣经」的《人月神话》，有哪些理论过时了？",
+          "url": "https://www.zhihu.com/question/2058996805182960802",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
           "title": "全球首款植入式脑机接口产品完成首例手术",
           "url": "https://flash.jin10.com/detail/20260715090044976800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -412,57 +773,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中国央行：今日开展4265亿元7天逆回购操作，投标量4265亿元，中标量4265亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260715092056306800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "央行将开展14000亿元买断式逆回购",
-          "url": "https://www.douyin.com/hot/2571364",
-          "source": "抖音",
-          "ranks": [
-            15
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时08分 ~ 03时09分]"
-        },
-        {
-          "title": "罢工打乱发布流程 加拿大央行取消利率决议媒体预览",
-          "url": "https://flash.jin10.com/detail/20260715091735819800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "中国央行公开市场今日净投放4115亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3133974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -470,8 +781,19 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如何看待比亚迪回应一辆比亚迪唐电机总成脱落事件，称底盘发生严重磕碰，非产品质量问题？",
+          "url": "https://www.zhihu.com/question/2059993881601749194",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
         {
           "title": "专家：比亚迪不是车企",
           "url": "https://www.baidu.com/s?wd=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8D%E6%98%AF%E8%BD%A6%E4%BC%81",
@@ -501,9 +823,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "华为昇腾950超节点将首次真机亮相 国产算力板块高景气有望延续",
+          "url": "https://www.cls.cn/detail/2426602",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时55分"
         }
       ]
     }
