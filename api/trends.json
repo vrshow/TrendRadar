@@ -1,1020 +1,320 @@
 {
-  "generated_at": "2026-07-16T21:29:00.804138+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-07-17T03:02:08.984092+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 39,
+      "match_count": 13,
       "titles": [
         {
-          "title": "5张图看懂中国人工智能进化之路",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586048",
+          "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33600950",
           "source": "澎湃新闻",
           "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 16时02分]"
-        },
-        {
-          "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
-          "url": "https://wallstreetcn.com/articles/3777042",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 21时29分]"
-        },
-        {
-          "title": "国行苹果AI完成备案",
-          "url": "https://www.douyin.com/hot/2572485",
-          "source": "抖音",
-          "ranks": [
-            4,
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 09时59分]"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "如何看待网传 DeepSeek 实习日薪突破 5500 元？这反映了 AI 行业与求职市场哪些现状？",
-          "url": "https://www.zhihu.com/question/2060769193977280048",
-          "source": "知乎",
+          "title": "世界人工智能合作组织协定签署",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E5%8D%8F%E5%AE%9A%E7%AD%BE%E7%BD%B2",
+          "source": "bilibili 热搜",
           "ranks": [
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "世界人工智能合作组织协定签署仪式举行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33599928",
+          "title": "经纬度：在上海，WAIC见证人工智能改变未来",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583299",
           "source": "澎湃新闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "小浪花看WAIC丨“三地四馆”全攻略：路线、看点、隐藏玩法一次说清",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33589310",
-          "source": "澎湃新闻",
+          "title": "业绩预增、再签新单 AI芯片三龙头携手“报喜”",
+          "url": "https://www.cls.cn/detail/2428746",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
+        },
+        {
+          "title": "超300款全球首发AI产品即将亮相",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B6%85300%E6%AC%BE%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91AI%E4%BA%A7%E5%93%81%E5%8D%B3%E5%B0%86%E4%BA%AE%E7%9B%B8%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "7款手机端侧大模型获备案！苹果Apple智能在列，阿里、百度提供支持",
-          "url": "https://www.cls.cn/detail/2427348",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "微软在安全业务更换八名高管、裁员数百人，将侧重于网络防御方面的AI。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3134561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "澳大利亚政府成立AI办公室",
-          "url": "https://news.ifeng.com/c/8unXnFx9vmo",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时02分]"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "外资机构把脉A股：AI景气度仍向好，市场正进入结构性分化新阶段",
           "url": "https://m.thepaper.cn/newsDetail_forward_33586841",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 21时29分]"
-        },
-        {
-          "title": "马上评｜AI“入侵”艺术评奖，不能只靠撤奖遮羞",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33592256",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时02分]"
-        },
-        {
-          "title": "AI拿冠军,摄影比赛闹笑话",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356179&amp;topic_name=AI%E6%8B%BF%E5%86%A0%E5%86%9B%2C%E6%91%84%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%97%B9%E7%AC%91%E8%AF%9D",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 09时59分]"
-        },
-        {
-          "title": "披着AI外衣的现实短片",
-          "url": "https://www.douyin.com/hot/2573340",
-          "source": "抖音",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 21时29分]"
-        },
-        {
-          "title": "花钱就看这?功夫女足公开用AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 21时29分]"
-        },
-        {
-          "title": "世界人工智能大会逛展攻略来了",
-          "url": "https://www.douyin.com/hot/2570881",
-          "source": "抖音",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
           "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
           "source": "澎湃新闻",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "世界人工智能大会前瞻",
-          "url": "https://www.toutiao.com/trending/7663024659046075940/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "世界AI大会将如何影响你的钱袋子",
-          "url": "https://www.toutiao.com/trending/7662915305316499475/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "AI会带来水资源危机吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%B8%A6%E6%9D%A5%E6%B0%B4%E8%B5%84%E6%BA%90%E5%8D%B1%E6%9C%BA%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "诺基亚与英伟达推出商用AI-RAN平台",
-          "url": "https://www.toutiao.com/trending/7661847683241885750/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "世界人工智能合作组织协定签署仪式举行",
-          "url": "https://www.toutiao.com/trending/7663098499700903467/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
-        },
-        {
-          "title": "据The Information：为推动公司安全体系和人工智能转型，微软(MSFT.O)新任安全负责人海耶特·加洛特已替换至少8名曾向前任安全负责人查理·贝尔汇报的高管。",
-          "url": "https://flash.jin10.com/detail/20260716023727073800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "有外媒渲染中国提供开源AI模型是“陷阱”，外交部：反对以意识形态划线",
-          "url": "https://wallstreetcn.com/livenews/3134930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "AWS发布AI-DLC与Kiro工具 瞄准AI编程“效率低、安全弱”痛点",
-          "url": "https://flash.jin10.com/detail/20260716155335282800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "纽约州叫停建设AI数据中心？特朗普怒喷：你们在白白丢掉“摇钱树”！",
-          "url": "https://www.cls.cn/detail/2427879",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
-          "url": "https://www.zhihu.com/question/2060645375338180828",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "有外媒渲染中国提供开源AI模型是“陷阱”，外交部：反对以意识形态划线",
-          "url": "https://flash.jin10.com/detail/20260716155157506800",
-          "source": "金十数据",
-          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "中国首个水风光一体化智慧运营大模型发布",
-          "url": "https://wallstreetcn.com/livenews/3134924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "据报道，日本将采购27,500枚英伟达Rubin芯片，用于建设机器人AI系统。",
-          "url": "https://wallstreetcn.com/livenews/3134922",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "AI 时代，更稀缺的是「提出好问题」还是「判断好答案」?",
-          "url": "https://www.zhihu.com/question/2058593981005665566",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "日本拟采购2.75万颗英伟达Rubin芯片 开发本土机器人AI模型",
-          "url": "https://flash.jin10.com/detail/20260716154717041800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "国行 iPhone 即将牵手阿里千问上线「苹果 AI」，有哪些亮点？可能给手机行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2060770809543758786",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "京东：推出京麦AI经营中心",
-          "url": "https://wallstreetcn.com/livenews/3134917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "面对 AI 冲击，职场人应该赌「专业深度」还是拼「跨界广度」？",
-          "url": "https://www.zhihu.com/question/2058593716542222509",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "国会山作证第二天，沃什称：AI造成的价格效应未必推高通胀",
-          "url": "https://wallstreetcn.com/livenews/3134541",
-          "source": "华尔街见闻-快讯",
+          "title": "披着AI外衣的现实短片",
+          "url": "https://www.douyin.com/hot/2573340",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "英伟达与Kawasaki Heavy Shipyard将得到人工智能（AI）技术的支持。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3134540",
-          "source": "华尔街见闻-快讯",
+          "title": "花钱就看这?功夫女足公开用AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356211&amp;topic_name=%E8%8A%B1%E9%92%B1%E5%B0%B1%E7%9C%8B%E8%BF%99%3F%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E5%85%AC%E5%BC%80%E7%94%A8AI",
+          "source": "贴吧",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "【DeepSeek估值超3500亿元】上市公司开润股份一纸投资进展公告，意外披露了国内头部人工智能企业“深度求索”（DeepSeek）的最新市场估值。按公告数据推算，DeepSeek本轮融资后估值已攀升至约3510亿元。记者从接近DeepSeek处人士确认，随着本轮融资完成，该公司目前已经开始启动第二轮融资了，但是年底是否冲刺科创板，目前并未确定。不过，该人士并未透露更多细节。（上证报）",
-          "url": "https://wallstreetcn.com/livenews/3135077",
+          "title": "OpenAI董事长称对其他公司的商业机密“没有兴趣”",
+          "url": "https://flash.jin10.com/detail/20260717022344954800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：即使油价维持高位，天然气输送能力等限制因素也可能阻碍生产商提高产量。 石油出口的增加主要来自库存的释放，而非新增产量。 即使采用最保守的估算，数据中心需求带来的电价上涨也很可能成为另一个温和通胀压力的来源。 对人工智能带来的长期生产力提升持非常乐观的态度。 目前对人工智能的投资需求是巨大且真实的，并已在短期内产生了通胀效应。",
+          "url": "https://wallstreetcn.com/livenews/3135215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "美联储洛根：人工智能生产率提升的规模和时间仍存在不确定性。",
+          "url": "https://flash.jin10.com/detail/20260717015506006800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
+        },
+        {
+          "title": "欧盟要求谷歌开放安卓AI功能并共享搜索数据",
+          "url": "https://wallstreetcn.com/livenews/3135211",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "市场消息：日本将购买27500颗英伟达(NVDA.O)RUBIN芯片，用于构建机器人人工智能系统。",
-          "url": "https://flash.jin10.com/detail/20260716154128609800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "世界人工智能合作组织协定签署仪式举行。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3135070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "03时02分"
         }
       ]
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 34,
+      "match_count": 13,
       "titles": [
         {
-          "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
-          "url": "https://www.cls.cn/detail/2427842",
-          "source": "财联社热门",
+          "title": "伊朗司法机构称未释放任何美国在押人员。（MIZAN）",
+          "url": "https://wallstreetcn.com/livenews/3135237",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时58分 ~ 16时02分]"
-        },
-        {
-          "title": "美国持续打击伊朗，战争成本预测高达1000亿美元",
-          "url": "https://news.ifeng.com/c/8umxPSPZXoN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "特朗普感谢伊朗",
-          "url": "https://news.ifeng.com/c/8undGPmAvXz",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "03时02分"
         },
         {
-          "title": "三名美国官员称，近期美国对伊朗的打击行动正在增强美方进一步升级行动的选项。",
-          "url": "https://flash.jin10.com/detail/20260716024749247800",
+          "title": "伊朗司法部门：暂无美国囚犯从伊朗监狱获释或交换。",
+          "url": "https://flash.jin10.com/detail/20260717024825919800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "对抗情绪升温，伊朗人又拿“特朗普”出气",
-          "url": "https://news.ifeng.com/c/8umustJIuDD",
-          "source": "凤凰网",
-          "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "03时02分"
         },
         {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "伊朗议长称为维护国家利益必须时刻做好准备",
-          "url": "https://wallstreetcn.com/livenews/3134563",
+          "title": "美军发动新一轮空袭，连续第五晚打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3135236",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "03时02分"
         },
         {
-          "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
-          "url": "https://wallstreetcn.com/articles/3776989",
-          "source": "华尔街见闻",
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3135235",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时01分 ~ 09时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
-          "title": "美军称对伊朗进行了90分钟打击",
-          "url": "https://wallstreetcn.com/articles/3777022",
-          "source": "华尔街见闻",
+          "title": "伊朗阿巴斯港西部传出三次爆炸声",
+          "url": "https://flash.jin10.com/detail/20260717023701527800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            7
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时01分 ~ 16时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
           "url": "https://www.cls.cn/detail/2428434",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "美军对驶往伊朗油轮射“地狱火”导弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E5%AF%B9%E9%A9%B6%E5%BE%80%E4%BC%8A%E6%9C%97%E6%B2%B9%E8%BD%AE%E5%B0%84%E2%80%9C%E5%9C%B0%E7%8B%B1%E7%81%AB%E2%80%9D%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "伊朗“无意谈判”再袭美军基地",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E2%80%9C%E6%97%A0%E6%84%8F%E8%B0%88%E5%88%A4%E2%80%9D%E5%86%8D%E8%A2%AD%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
-        },
-        {
-          "title": "上千枚导弹，要飞向伊朗？",
-          "url": "https://news.ifeng.com/c/8umrKcjjbd0",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "特朗普答轰炸伊朗：不喜欢设定最后期限",
-          "url": "https://flash.jin10.com/detail/20260716023558998800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗方面称发现被击落的美军MQ-9无人机残骸",
-          "url": "https://flash.jin10.com/detail/20260716210436791800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "美国完成对伊朗的最新一轮打击，袭击了伊朗的指挥中心和防空设施。",
-          "url": "https://wallstreetcn.com/livenews/3134709",
+          "title": "美军开始对伊朗实施新一轮袭击。",
+          "url": "https://wallstreetcn.com/livenews/3135229",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）他们最好老实点。",
-          "url": "https://flash.jin10.com/detail/20260716022948918800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "美国一连五天袭击伊朗 局势升级导致霍尔木兹海峡石油运输量骤降",
-          "url": "https://wallstreetcn.com/livenews/3134925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "美国总统特朗普：（关于伊朗）不喜欢设定最后期限。",
-          "url": "https://flash.jin10.com/detail/20260716022930853800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗卫生部：美国近期对伊军事打击已致35人死亡",
-          "url": "https://wallstreetcn.com/livenews/3134548",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "白宫发言人Anna Kelly：我们能够在任何时候袭击（伊朗的）任何地方。",
-          "url": "https://wallstreetcn.com/livenews/3134547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "伊朗革命卫队称将摧毁美国“进攻性基础设施”",
-          "url": "https://wallstreetcn.com/livenews/3134701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美国副总统万斯：以色列对美国的影响力超过多数国家。 当伊朗违反承诺时，我们做出回应。 我们正在（针对中东局势）进行微妙的外交斡旋。",
-          "url": "https://wallstreetcn.com/livenews/3134545",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "美军称结束对伊朗最新一轮打击",
-          "url": "https://flash.jin10.com/detail/20260716092622532800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "伊朗议会议长、顶级谈判员卡利巴夫：我们必须应用外交+谈判手段。 伊朗必须随时准备好（与敌人）战斗。 如果与美国达成的停火谅解备忘录（MoU）不能（给伊朗）带来好处，那就没理由遵守。 国家安全完全取决于伊朗在霍尔木兹海峡问题上的安排。 谈判不等于妥协。 我们正面临一场复杂的战争。（伊朗电视台）",
-          "url": "https://wallstreetcn.com/livenews/3134542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社16日凌晨报道，伊朗首都德黑兰启动防空系统，以应对敌对威胁。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3134691",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "伊朗军方：若敌对行动持续 冲突将扩展至新领域",
-          "url": "https://wallstreetcn.com/livenews/3134912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "伊朗称美进入正式战争状态",
-          "url": "https://www.douyin.com/hot/2571461",
-          "source": "抖音",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "报道：伊朗威胁打击中东基础设施以回应美国",
-          "url": "https://wallstreetcn.com/livenews/3134908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "美国军方：已完成对伊朗的最新一轮打击。",
-          "url": "https://flash.jin10.com/detail/20260716092424775800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "伊朗外交部称伊方目前没有谈判计划，专注于防御",
-          "url": "https://wallstreetcn.com/livenews/3134535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "巴林：周四拦截了多次伊朗空中打击。",
-          "url": "https://wallstreetcn.com/livenews/3134907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "伊朗被曝或要求也门胡塞武装封锁曼德海峡",
-          "url": "https://wallstreetcn.com/livenews/3135075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "韩国央行：首尔及其周边地区房价上涨步伐加快。",
-          "url": "https://flash.jin10.com/detail/20260716093251931800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "03时02分"
         },
         {
-          "title": "尼日利亚央行行长：尼日利亚净外汇储备从2023年的约30亿至40亿美元，增长至超过400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260716211149636800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时29分"
-        },
-        {
-          "title": "韩国央行：半导体行业、中东局势发展及贸易环境变化仍存在不确定性。",
-          "url": "https://flash.jin10.com/detail/20260716093242113800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国央行：家庭贷款大幅增加。",
-          "url": "https://flash.jin10.com/detail/20260716093230871800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国央行：需要关注房地产市场和家庭债务增长。",
-          "url": "https://flash.jin10.com/detail/20260716093203936800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国央行：通胀压力将继续上升，预计将保持在目标水平之上。",
-          "url": "https://flash.jin10.com/detail/20260716093145949800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国央行：将评估通胀压力进一步上升的时机、国内经济的好转趋势以及金融稳定性。",
-          "url": "https://flash.jin10.com/detail/20260716093135956800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "韩国央行：今年的增长率预计将大幅超过5月份预测的2.6%。",
-          "url": "https://flash.jin10.com/detail/20260716093054813800",
+          "title": "据伊朗国家电视台：伊朗南部阿巴斯港地区遭到美国炮弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260717022858052800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "03时02分"
         },
         {
-          "title": "瑞士央行2026年6月货币政策评估讨论摘要（全文翻译）",
-          "url": "https://flash.jin10.com/detail/20260716155355341800",
+          "title": "美国连续第六晚打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260717022528646800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "03时02分"
         },
         {
-          "title": "中国央行公开市场今日净投放6160亿元人民币",
-          "url": "https://wallstreetcn.com/livenews/3134707",
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3135227",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
+          "time_info": "03时02分"
         },
         {
-          "title": "韩国央行：周四的利率决定是一致通过的。",
-          "url": "https://flash.jin10.com/detail/20260716093044580800",
+          "title": "白宫称伊朗仍在与美国对话",
+          "url": "https://flash.jin10.com/detail/20260717022111991800",
           "source": "金十数据",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "俄罗斯至7月10日当周央行黄金和外汇储备 7224亿美元，前值7217亿美元。",
-          "url": "https://flash.jin10.com/detail/20260716210004476800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时29分"
+          "time_info": "03时02分"
         },
         {
-          "title": "瑞士央行：当前货币政策适宜。 通胀压力基本未变。 已增强外汇市场干预意愿，必要时将果断行动。 无需立即采取行动。 未来几个季度通胀应会进一步上升。 伊朗冲突的不确定性显著上升。 第二轮效应可能增强。 瑞郎强劲升值的风险仍然存在。 当前通胀风险偏向上行。",
-          "url": "https://wallstreetcn.com/livenews/3134916",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗媒体Fars News：约旦外交部长表示，美国在约旦没有军事基地，但有美军人员驻扎，这是约旦与华盛顿军事合作的一部分。",
+          "url": "https://flash.jin10.com/detail/20260717015624270800",
+          "source": "金十数据",
           "ranks": [
-            21
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时02分"
+          "time_info": "03时02分"
         },
         {
-          "title": "韩国央行将基准利率从2.50%上调至2.75%，符合预期。",
-          "url": "https://wallstreetcn.com/livenews/3134692",
+          "title": "白宫新闻秘书Leavitt：伊朗继续与美国对话。 美方袭击伊朗，是因为伊朗违反了两国之间的谅解备忘录（MoU）。",
+          "url": "https://wallstreetcn.com/livenews/3135213",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "美联储理事库克关切通胀问题，称如不降温将支持央行采取行动",
-          "url": "https://wallstreetcn.com/livenews/3134533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "time_info": "03时02分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
-          "title": "如何评价 Q2 全球智能手机出货量同比下滑，小米跌幅最大，三星、苹果、华为逆势上涨？",
-          "url": "https://www.zhihu.com/question/2060476741349646921",
-          "source": "知乎",
+          "title": "玛莎拉蒂新车88万二手只要24.8万",
+          "url": "https://www.toutiao.com/trending/7662570680754569270/",
+          "source": "今日头条",
           "ranks": [
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
           "title": "匈牙利前外长加入比亚迪：曾是最年轻议员，主导“东方开放”政策",
@@ -1025,40 +325,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时28分 ~ 21时29分]"
+          "time_info": "[03时01分 ~ 03时02分]"
         },
         {
-          "title": "比亚迪高管：没美国市场销量也超丰田",
-          "url": "https://www.toutiao.com/trending/7662542579950977060/",
-          "source": "今日头条",
+          "title": "长城汽车 2026 年上半年净利润骤降近六成，是什么原因导致的？",
+          "url": "https://www.zhihu.com/question/2060421321046205380",
+          "source": "知乎",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "比亚迪回应王朝系列车型设计",
-          "url": "https://www.toutiao.com/trending/7661850102524280895/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
-        },
-        {
-          "title": "成都一汽车销售门店让流浪狗乘凉",
-          "url": "https://www.baidu.com/s?wd=%E6%88%90%E9%83%BD%E4%B8%80%E6%B1%BD%E8%BD%A6%E9%94%80%E5%94%AE%E9%97%A8%E5%BA%97%E8%AE%A9%E6%B5%81%E6%B5%AA%E7%8B%97%E4%B9%98%E5%87%89",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
+          "appearance_count": 2,
+          "time_info": "[03时01分 ~ 03时02分]"
         }
       ]
     }
