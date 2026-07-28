@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-28T09:54:31.098652+08:00",
-  "total_titles_processed": 506,
+  "generated_at": "2026-07-28T16:22:23.467857+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "美宣称拟对中国人工智能企业开展调查并实施制裁，中方回应",
@@ -20,6 +20,17 @@
           "time_info": "[03时17分 ~ 09时54分]"
         },
         {
+          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
+          "url": "https://wallstreetcn.com/articles/3777993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
+        },
+        {
           "title": "国内首部AI长片首播",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%86%85%E9%A6%96%E9%83%A8AI%E9%95%BF%E7%89%87%E9%A6%96%E6%92%AD",
           "source": "百度热搜",
@@ -31,24 +42,13 @@
           "time_info": "[03时17分 ~ 03时18分]"
         },
         {
-          "title": "AI忧虑盖过油价下跌，纳指承压，半导体指数一度跌超5%，中概股逆市收涨",
-          "url": "https://wallstreetcn.com/articles/3777993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "AI应用端逆势走强，南天信息直线涨停，科蓝软件涨超15%，高伟达、格尔软件、麦迪科技、思特奇跟涨。",
           "url": "https://wallstreetcn.com/livenews/3140631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -58,11 +58,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 16时22分]"
         },
         {
           "title": "侵权零成本!电竞选手遭AI换脸",
@@ -86,6 +87,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 03时18分]"
+        },
+        {
+          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
+          "url": "https://www.cls.cn/detail/2438458",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
+        },
+        {
+          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
+          "url": "https://www.zhihu.com/question/2063239728175043416",
+          "source": "知乎",
+          "ranks": [
+            19,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
+        },
+        {
+          "title": "佛得角门将签约泪洒现场？图是AI的",
+          "url": "https://www.toutiao.com/trending/7666819334011584518/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
         },
         {
           "title": "英伟达集结产业链成立“开放安全AI联盟” 并力挺开放权重模型",
@@ -176,6 +212,17 @@
           "time_info": "[03时17分 ~ 03时18分]"
         },
         {
+          "title": "我国启动人工智能大模型IPv6能力提升专项行动",
+          "url": "https://www.cls.cn/detail/2438712",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美机构：今年AI发现的网络安全漏洞数量将是去年的两倍",
           "url": "https://flash.jin10.com/detail/20260728023317387800",
           "source": "金十数据",
@@ -187,26 +234,37 @@
           "time_info": "03时18分"
         },
         {
-          "title": "英伟达五年期CDS创纪录狂飙 AI循环融资担忧彻底引爆？",
-          "url": "https://www.cls.cn/detail/2438458",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "佛得角门将签约泪洒现场？图是AI的",
-          "url": "https://www.toutiao.com/trending/7666819334011584518/",
-          "source": "今日头条",
+          "title": "小米 MiMo-V2.5 升至全球大模型调用量第一，这背后反映了哪些趋势和挑战？",
+          "url": "https://www.zhihu.com/question/2065097727604741240",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "16时22分"
+        },
+        {
+          "title": "电影《大空头》原型：任何一家科技巨头削减AI支出，股市将直线下跌！",
+          "url": "https://www.cls.cn/detail/2438626",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "商务部：人工智能相关产品成为中国外贸“新名片”",
+          "url": "https://wallstreetcn.com/livenews/3140856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "AI、关税与战争同时来袭，市场为何依然如此平静？",
@@ -215,20 +273,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "如何评价大连理工 2026 在陕招生，普通批仅 10 人全部为计算机人工智能？",
-          "url": "https://www.zhihu.com/question/2063239728175043416",
-          "source": "知乎",
+          "title": "AI毁掉了我的胡迪警长",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%AF%81%E6%8E%89%E4%BA%86%E6%88%91%E7%9A%84%E8%83%A1%E8%BF%AA%E8%AD%A6%E9%95%BF&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            19
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时54分"
+          "time_info": "16时22分"
         },
         {
           "title": "阿里云真武超节点Day0适配Kimi K3大模型，双方展开国产算力合作",
@@ -237,9 +295,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "英伟达微软反对禁止中国开源AI",
+          "url": "https://s.weibo.com/weibo?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BE%AE%E8%BD%AF%E5%8F%8D%E5%AF%B9%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90AI&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "报道：英伟达将向Ilya Sutskever的AI研究实验室投资50亿美元",
@@ -256,7 +325,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "伊朗外交部回应商船遇袭：要求追究乌克兰政府支持者责任",
@@ -268,6 +337,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时17分 ~ 03时18分]"
+        },
+        {
+          "title": "特朗普向伊朗发出最后通牒",
+          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
         },
         {
           "title": "事关美国军机部署，伊朗第3次警告保加利亚",
@@ -298,7 +379,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -309,18 +390,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普向伊朗发出最后通牒",
-          "url": "https://news.ifeng.com/c/8v7SfF44Gcs",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -369,6 +439,18 @@
           "time_info": "[03时17分 ~ 03时18分]"
         },
         {
+          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 16时22分]"
+        },
+        {
           "title": "对伊朗停火 美国是不打了还是打不了",
           "url": "https://www.baidu.com/s?wd=%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%81%9C%E7%81%AB+%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%B8%8D%E6%89%93%E4%BA%86%E8%BF%98%E6%98%AF%E6%89%93%E4%B8%8D%E4%BA%86",
           "source": "百度热搜",
@@ -380,15 +462,48 @@
           "time_info": "[03时17分 ~ 03时18分]"
         },
         {
+          "title": "用伊朗逻辑打伊朗商船！乌克兰出手，中东战火恐延烧至里海",
+          "url": "https://news.ifeng.com/c/8v7v4J57Txn",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "乌克兰袭船还回嘴：伊朗没资格“装”受害者",
           "url": "https://news.ifeng.com/c/8v6sTHp3nlX",
           "source": "凤凰网",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "泽连斯基：乌克兰与伊朗已处于战争中",
+          "url": "https://news.ifeng.com/c/8v7xlBI6J9Z",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33668433",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "泽连斯基：与伊朗已处于战争中",
@@ -397,7 +512,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -413,17 +528,6 @@
           "time_info": "03时18分"
         },
         {
-          "title": "特朗普：有足够耐心与伊朗达成新协议，否则就开打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33670163",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
           "title": "据PunchBowl News：美国官员称，美国总统特朗普将与以色列总理内塔尼亚胡讨论伊朗及《亚伯拉罕协议》。",
           "url": "https://flash.jin10.com/detail/20260728021523729800",
           "source": "金十数据",
@@ -433,6 +537,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时18分"
+        },
+        {
+          "title": "国际观察丨对伊朗停火，美国这次是“不打了”还是“打不了”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33669415",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "伊朗副外长加里巴巴迪：对美国罪行的调查将继续进行，即使需要15年时间。",
@@ -446,21 +561,43 @@
           "time_info": "03时18分"
         },
         {
+          "title": "特朗普：若和伊朗谈不拢就继续打",
+          "url": "https://wallstreetcn.com/livenews/3140846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美称若谈判破裂将强力打击伊朗",
           "url": "https://www.toutiao.com/trending/7667350797637652011/",
           "source": "今日头条",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普：美以在伊朗问题上存在分歧",
+          "url": "https://wallstreetcn.com/livenews/3140838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "长鑫科技上市首日暴涨465%，成交破1400亿！创业板大涨3%，算力硬件午后拉升，恒科指涨逾1%，小米大涨超7%",
@@ -471,8 +608,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时17分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[03时17分 ~ 16时22分]"
+        },
+        {
+          "title": "比亚迪人形机器人8月郑州“上岗” 商业服务场景或率先落地",
+          "url": "https://www.cls.cn/detail/2438718",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "美银8月市场预测：股市历来不妙，美元和黄金将“迎东风”！",
@@ -503,9 +651,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "小米展出澎程6万公里路测车",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E5%B1%95%E5%87%BA%E6%BE%8E%E7%A8%8B6%E4%B8%87%E5%85%AC%E9%87%8C%E8%B7%AF%E6%B5%8B%E8%BD%A6%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "阿里押注长鑫 76 亿搏出近 1700 亿，小米雷军打新长鑫浮盈 7 亿，背后是怎样的投资逻辑？",
+          "url": "https://www.zhihu.com/question/2065338204207542577",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "长鑫背后小米和蔚来要开打算力战吗",
@@ -514,7 +684,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
@@ -522,7 +692,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "中国央行公开市场开展3055亿元7天期逆回购操作，操作利率1.40%，持平上次。今日2530亿元逆回购到期。",
@@ -531,7 +701,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -542,9 +712,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "荷兰国际：若瑞士央行维持低利率，瑞郎跌势恐将延续",
+          "url": "https://flash.jin10.com/detail/20260728160554559800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "中国央行：今日开展3055亿元7天逆回购操作，投标量3055亿元，中标量3055亿元，操作利率为1.40%，与此前持平。",
@@ -553,7 +734,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         }
