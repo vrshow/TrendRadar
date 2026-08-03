@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T10:08:32.362941+08:00",
-  "total_titles_processed": 513,
+  "generated_at": "2026-08-03T17:31:52.415764+08:00",
+  "total_titles_processed": 773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -19,6 +19,17 @@
           "time_info": "[03时00分 ~ 10时08分]"
         },
         {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 17时31分]"
+        },
+        {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
           "url": "https://wallstreetcn.com/articles/3778501",
           "source": "华尔街见闻",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时01分]"
-        },
-        {
-          "title": "伊朗看到了美国的3个软肋",
-          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时08分"
         },
         {
           "title": "伊朗总统：签署的谅解备忘录是沙姆成员（黎凡特地区国家）集体智慧的成果，所有成员对此表示认同。我相信，这份谅解备忘录将成为我们未来对外关系的核心。我们必须努力迫使敌人遵守其签署的承诺。这份谅解备忘录将提升我们国家、地区以及盟友的安全。",
@@ -69,7 +69,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -163,6 +163,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "据CNN援引航运消息人士报道称，尽管伊朗无人机不时发动袭击，但每天仍有300万至500万桶原油通过阿曼附近的南部航道流出波斯湾。红海航运仍保持相对稳定。据MarineTraffic数据，周日有34艘船只通过曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260803170839924800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
           "url": "https://wallstreetcn.com/livenews/3143717",
           "source": "华尔街见闻-快讯",
@@ -172,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "伊朗革命卫队： 一架MQ9无人机在霍尔木兹海峡上空被革命卫队航空航天部队的先进防空系统拦截并击中。",
+          "url": "https://flash.jin10.com/detail/20260803170409114800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "伊朗重申霍尔木兹海峡不会恢复至战前状态",
@@ -191,7 +213,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -295,6 +317,17 @@
           "time_info": "03时01分"
         },
         {
+          "title": "全球前瞻｜特朗普称将与伊朗谈判，欧盟开会讨论西班牙飞地休达移民危机",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33708757",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
           "url": "https://flash.jin10.com/detail/20260803005641869800",
           "source": "金十数据",
@@ -353,7 +386,7 @@
     },
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 14,
+      "match_count": 21,
       "titles": [
         {
           "title": "国产大模型调用量全球领先",
@@ -379,6 +412,30 @@
           "time_info": "[03时00分 ~ 10时08分]"
         },
         {
+          "title": "AI的风吹向粤北，大湾区唯一集群如何“织网”｜“逐鹿算网”实地调研韶关篇",
+          "url": "https://www.cls.cn/detail/2443826",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
+          "url": "https://wallstreetcn.com/articles/3778516",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时00分 ~ 17时31分]"
+        },
+        {
           "title": "澎湃新闻发布AI底座战略，打造智媒时代“信任引擎”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33696805",
           "source": "澎湃新闻",
@@ -391,24 +448,34 @@
           "time_info": "[03时00分 ~ 10时08分]"
         },
         {
+          "title": "华尔街终于开悟了：AI巨头的护城河在“云”里？",
+          "url": "https://www.cls.cn/detail/2443873",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "重生之“AI股神”：大婚前夜，他爆仓了！",
           "url": "https://wallstreetcn.com/articles/3778505",
           "source": "华尔街见闻",
           "ranks": [
             6,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时00分 ~ 10时08分]"
-        },
-        {
-          "title": "AI能否回本？科技巨头本周的股价走势，市场给出了答案",
-          "url": "https://wallstreetcn.com/articles/3778516",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -460,13 +527,24 @@
           "time_info": "[03时00分 ~ 03时01分]"
         },
         {
+          "title": "大摩邢自强：AI投资将进入“半场休息”，“9.24”式反转暂时不会到来",
+          "url": "https://wallstreetcn.com/articles/3778511",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "如何看待米哈游创始人蔡浩宇卸任「AI 灵魂大法师」？",
           "url": "https://www.zhihu.com/question/2066215968578204075",
           "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -477,7 +555,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -488,7 +566,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -499,9 +577,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "澎湃思想周报｜当菲尔兹奖得主加入OpenAI；“云霸权”兴起",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33698195",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "摩根大通：AI板块不太可能是下半年回报的主要驱动力",
+          "url": "https://wallstreetcn.com/livenews/3144037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "如何看待美国AI公司“焚书”",
@@ -510,15 +610,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "博主：DeepSeek给全球AI画斩杀线",
+          "url": "https://www.toutiao.com/trending/7669679705066327595/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
@@ -527,7 +638,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -550,16 +661,60 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "印尼代理央行行长：将加强稳定印尼盾的努力，包括在外汇市场进行干预。",
+          "url": "https://flash.jin10.com/detail/20260803165238638800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "印尼代理央行行长：将继续加强政策组合，以维持印尼盾稳定、锚定通胀并支持GDP。",
+          "url": "https://flash.jin10.com/detail/20260803164945440800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "三井住友日兴证券高管：日本央行可能加快加息步伐。 预计日本央行下一次加息将在10月。",
+          "url": "https://wallstreetcn.com/livenews/3144017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "跨越全球的东风长剑",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B7%A8%E8%B6%8A%E5%85%A8%E7%90%83%E7%9A%84%E4%B8%9C%E9%A3%8E%E9%95%BF%E5%89%91%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
         {
           "title": "小米多款手机今起涨价，其市场策略和消费者选择将受何影响？",
           "url": "https://www.zhihu.com/question/2067173581734286185",
@@ -582,6 +737,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时00分 ~ 03时01分]"
+        },
+        {
+          "title": "东风系列导弹罕见集中亮相",
+          "url": "https://www.toutiao.com/trending/7669064820716716082/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "为什么截止目前，小米澎程 n70 max 全网不开放内饰评测？",
+          "url": "https://www.zhihu.com/question/2067015006886032075",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     }
