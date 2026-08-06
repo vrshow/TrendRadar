@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T09:56:43.704932+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-06T16:23:05.446033+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 20,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%BC%A0%E4%B8%80%E9%B8%A3%E4%B8%8B%E6%AD%BB%E5%91%BD%E4%BB%A4%EF%BC%9A%E4%B8%8D%E4%BE%9D%E8%B5%96AI%E8%92%B8%E9%A6%8F%E6%8A%80%E6%9C%AF",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "字节举行年中全员会 梁汝波：接受短期落后 坚持大模型自研",
+          "url": "https://wallstreetcn.com/livenews/3145903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -30,6 +52,17 @@
           "time_info": "03时20分"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 16时23分]"
+        },
+        {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
           "url": "https://www.cls.cn/detail/2446407",
           "source": "财联社热门",
@@ -40,6 +73,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 09时56分]"
+        },
+        {
+          "title": "码农摇身一变成FDE？美股龙头引领AI落地新模式 机构：计算机板块或迎来重估",
+          "url": "https://www.cls.cn/detail/2446947",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "AI做题吊打日本名校状元",
@@ -64,15 +119,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "北京海淀加速打造脑机接口新高地 核心企业占全国近60%",
+          "url": "https://wallstreetcn.com/livenews/3145898",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "16时23分"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -84,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "字节跳动整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
+          "url": "https://wallstreetcn.com/livenews/3145896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "怎么看 OpenAI 提到下一代 Harness 将脱离 PC，两三个月后现在的 Codex 工作方式会淘汰？",
@@ -114,7 +180,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -128,6 +194,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "北京海淀加速打造脑机接口新高地 核心企业占全国近60%",
+          "url": "https://flash.jin10.com/detail/20260806154251975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "字节跳动整合豆包、飞书与火山引擎，AI业务重点转向ToB生产力",
+          "url": "https://flash.jin10.com/detail/20260806154059601800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
+        },
+        {
+          "title": "小红书加大AI投入：布局AI社交方向，开启AI陪伴产品自研",
+          "url": "https://wallstreetcn.com/livenews/3145888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "华夏出版社标注「书籍内容禁用于 AI 训练」，这种标注实际约束力有多大？能作为维权依据吗？",
@@ -158,7 +257,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -169,7 +268,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -191,7 +290,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -205,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "OpenAI反击苹果商业机密诉讼：称指控“毫无依据”，要求法院驳回案件",
+          "url": "https://flash.jin10.com/detail/20260806151814360800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         },
         {
           "title": "AI股抛售冲击对冲基金，Balyasny和Verition上月双双亏损",
@@ -224,7 +334,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -232,8 +342,30 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
         {
           "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
           "url": "https://wallstreetcn.com/livenews/3145551",
@@ -263,7 +395,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -290,6 +422,52 @@
           "time_info": "03时20分"
         },
         {
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 16时23分]"
+        },
+        {
+          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2446838",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 16时23分]"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%86%B3%E7%AD%96%E8%BF%87%E7%A8%8B%E9%81%AD%E4%BA%BA%E5%88%A9%E7%94%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
+          "title": "特朗普“一厢情愿”？伊朗：与阿曼就霍尔木兹航线接近达成协议！",
+          "url": "https://www.cls.cn/detail/2446884",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
+        },
+        {
           "title": "伊朗总统：敌人对任何象征我们能力的事物都感到不安。",
           "url": "https://flash.jin10.com/detail/20260806024943969800",
           "source": "金十数据",
@@ -299,17 +477,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
-        },
-        {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时56分"
         },
         {
           "title": "伊朗总统：目前与伊朗最高领袖的沟通“非常困难”。",
@@ -329,7 +496,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -345,15 +512,15 @@
           "time_info": "03时20分"
         },
         {
-          "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2446838",
-          "source": "财联社热门",
+          "title": "国际金年内很难再创新高？伊朗高风险豪赌仍有翻车风险 | Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260806154500162800",
+          "source": "金十数据",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时56分"
+          "time_info": "16时23分"
         },
         {
           "title": "伊朗：美国说准备恢复履行承诺",
@@ -384,7 +551,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -447,7 +614,7 @@
     },
     {
       "keyword_group": "# 新能源汽车组 新车 比亚迪 吉利 奇瑞 长城 五菱 宝骏 一汽 上汽 东风 长安 极氪 小米 蔚来 腾势 华为 塞力斯 @15",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为发布新款折叠电脑售价24999元起",
@@ -459,6 +626,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "如何看待尊界新车上市 1 小时大定 2115 台？订单热度能延续到交付阶段吗？",
+          "url": "https://www.zhihu.com/question/2068403196586897921",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时23分]"
         },
         {
           "title": "华为新款折叠屏电脑24999元起",
@@ -478,7 +656,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
@@ -495,7 +673,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         },
@@ -517,7 +695,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
         }
