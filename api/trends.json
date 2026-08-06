@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T16:23:05.446033+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-08-06T21:48:50.533101+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 30,
+      "match_count": 40,
       "titles": [
         {
           "title": "曝张一鸣下死命令：不依赖AI蒸馏技术",
@@ -19,6 +19,18 @@
           "time_info": "[16时22分 ~ 16时23分]"
         },
         {
+          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778788",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 21时48分]"
+        },
+        {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
@@ -30,15 +42,37 @@
           "time_info": "03时20分"
         },
         {
+          "title": "美前国防官员撰文炒作“中国AI威胁”，专家：贼喊捉贼",
+          "url": "https://news.ifeng.com/c/8vNCMzGV09R",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "字节举行年中全员会 梁汝波：接受短期落后 坚持大模型自研",
           "url": "https://wallstreetcn.com/livenews/3145903",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "中国AI连续14周霸榜",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDAI%E8%BF%9E%E7%BB%AD14%E5%91%A8%E9%9C%B8%E6%A6%9C%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "SpaceX上市后首份财报营收增92%大超预期，星链独撑利润，AI亏损收窄但支出高于预期｜财报见闻",
@@ -52,15 +86,16 @@
           "time_info": "03时20分"
         },
         {
-          "title": "AI需求力挺闪迪上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778788",
-          "source": "华尔街见闻",
+          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            15,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时56分 ~ 16时23分]"
+          "time_info": "[16时22分 ~ 21时48分]"
         },
         {
           "title": "【焦点复盘】AI硬件端持续回暖，科创50指数连续2日涨逾4%，光模块龙头5日内2度刷新历史天量",
@@ -80,17 +115,6 @@
           "source": "财联社热门",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "大模型竞争白热化，张一鸣喊话：字节跳动“拒绝蒸馏”，不用别人输出换榜单排名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33728476",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -125,9 +149,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "电在“伤害”数据中心？全球电力剧烈波动加剧硬件损耗，AI资本回报进一步承压",
+          "url": "https://www.cls.cn/detail/2447281",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "微软的AI销售主要源自OpenAI，凸显对紧密合作伙伴的依赖程度",
@@ -147,7 +182,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -161,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "沪指冲高回落涨0.6%，煤炭掀涨停潮，贵金属集体大涨，半导体材料再拉升，恒科指跌超2%，AI大模型双雄逆势拉升",
+          "url": "https://wallstreetcn.com/articles/3778805",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -202,7 +248,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -213,9 +259,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "谷歌 AI 领军人物杰夫・迪恩等离职创业，这预示着 AI 行业哪些新趋势？",
+          "url": "https://www.zhihu.com/question/2068498722300990537",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "深圳佳贤通信回应：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://wallstreetcn.com/livenews/3146075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "小红书加大AI投入：布局AI社交方向，开启AI陪伴产品自研",
@@ -224,7 +292,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -273,6 +341,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "深圳佳贤通信：英伟达AI-RAN技术团队曾到访公司，双方已成立技术工作组",
+          "url": "https://flash.jin10.com/detail/20260806210633842800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "据微软(MSFT.O)披露的信息，OpenAI约占其人工智能销售额的70%，OpenAI在2026财年的收入达到241亿美元。",
           "url": "https://flash.jin10.com/detail/20260806021109138800",
           "source": "金十数据",
@@ -295,6 +374,17 @@
           "time_info": "09时56分"
         },
         {
+          "title": "阿里视频大模型Wan3.0开启公测，支持单段30秒视频生成，720p价格0.6元/秒",
+          "url": "https://wallstreetcn.com/livenews/3146058",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "脑机接口如何帮助人类",
           "url": "https://search.bilibili.com/all?keyword=%E8%84%91%E6%9C%BA%E6%8E%A5%E5%8F%A3%E5%A6%82%E4%BD%95%E5%B8%AE%E5%8A%A9%E4%BA%BA%E7%B1%BB",
           "source": "bilibili 热搜",
@@ -312,7 +402,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         },
@@ -326,6 +416,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "戚薇真的把自己做成AI了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%9A%E8%96%87%E7%9C%9F%E7%9A%84%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%81%9A%E6%88%90AI%E4%BA%86%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
+          "title": "戚薇用AI解锁末世",
+          "url": "https://www.douyin.com/hot/2599650",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "当没有人再谈论AI",
@@ -342,29 +454,20 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
-          "source": "凤凰网",
+          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
+          "url": "https://wallstreetcn.com/articles/3778783",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            7,
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
-        },
-        {
-          "title": "伊朗总统：最高领袖决策过程遭人利用",
-          "url": "https://www.toutiao.com/trending/7670008339098750483/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 4,
+          "time_info": "[09时56分 ~ 21时48分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬在国家电视台发表讲话：联系最高领袖“非常困难”。",
@@ -376,6 +479,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://news.ifeng.com/c/8vMnd0UIy30",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 21时48分]"
         },
         {
           "title": "伊朗的最后一张牌",
@@ -422,16 +537,16 @@
           "time_info": "03时20分"
         },
         {
-          "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
-          "url": "https://wallstreetcn.com/articles/3778783",
-          "source": "华尔街见闻",
+          "title": "伊朗总统：最高领袖决策过程遭人利用",
+          "url": "https://www.toutiao.com/trending/7670008339098750483/",
+          "source": "今日头条",
           "ranks": [
-            7,
-            6
+            2,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时56分 ~ 16时23分]"
+          "time_info": "[16时22分 ~ 21时48分]"
         },
         {
           "title": "国际金价大幅飙升 伊朗称与阿曼接近达成协议 | 环球市场",
@@ -518,9 +633,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
+        },
+        {
+          "title": "伊朗总统：目前与最高领袖联络困难 其决策过程遭人利用",
+          "url": "https://www.cls.cn/detail/2447200",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "伊朗：美国说准备恢复履行承诺",
@@ -632,11 +758,12 @@
           "url": "https://www.zhihu.com/question/2068403196586897921",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时22分 ~ 16时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时22分 ~ 21时48分]"
         },
         {
           "title": "华为新款折叠屏电脑24999元起",
@@ -664,7 +791,7 @@
     },
     {
       "keyword_group": "# 政策动态组 证监会 央行 @5",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本自民党高层：央行ETF持仓或有助为减税提供资金",
@@ -687,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "世界黄金协会：高实际利率未能压制黄金，央行与亚洲需求支撑定价",
+          "url": "https://flash.jin10.com/detail/20260806211353139800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "中国央行公开市场今日净回笼2695亿元人民币",
