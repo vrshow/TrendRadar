@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-13T09:20:23.157027+08:00",
-  "total_titles_processed": 490,
+  "generated_at": "2026-08-13T15:17:14.864289+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 科技投资组 人工智能 AI github 文生图 图生视频 大模型 脑机接口 具身智能 固态电池 @15",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
+          "url": "https://www.cls.cn/detail/2452911",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时17分]"
+        },
         {
           "title": "中东僵局再撑油价，AI泡沫隐忧打压美科技股，纳指跌0.6%，黄金回落",
           "url": "https://wallstreetcn.com/articles/3779161",
@@ -19,38 +30,29 @@
           "time_info": "[02时53分 ~ 02时54分]"
         },
         {
-          "title": "【早报】美AI概念股飙升；原油微涨、黄金走高；央行：及时谋划出台务实管用的增量政策",
-          "url": "https://www.cls.cn/detail/2452911",
-          "source": "财联社热门",
+          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
+          "url": "https://wallstreetcn.com/articles/3779299",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 15时17分]"
         },
         {
           "title": "光速关服,AI虚拟歌姬停运",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28357199&amp;topic_name=%E5%85%89%E9%80%9F%E5%85%B3%E6%9C%8D%2CAI%E8%99%9A%E6%8B%9F%E6%AD%8C%E5%A7%AC%E5%81%9C%E8%BF%90",
           "source": "贴吧",
           "ranks": [
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 09时20分]"
-        },
-        {
-          "title": "腾讯电话会：AI投入回报空间已现，WorkBuddy毛利率已显著改善，算力出租为“安全垫”",
-          "url": "https://wallstreetcn.com/articles/3779299",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时53分 ~ 09时20分]"
+          "appearance_count": 5,
+          "time_info": "[02时53分 ~ 15时17分]"
         },
         {
           "title": "大幅增加算力采购！腾讯看到AI变现的曙光了？",
@@ -88,6 +90,17 @@
           "time_info": "[02时53分 ~ 02时54分]"
         },
         {
+          "title": "英伟达最新开源大模型上线",
+          "url": "https://www.douyin.com/hot/2607298",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
           "title": "三角洲AI夏日晚会",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2AI%E5%A4%8F%E6%97%A5%E6%99%9A%E4%BC%9A",
           "source": "bilibili 热搜",
@@ -110,15 +123,48 @@
           "time_info": "02时54分"
         },
         {
+          "title": "美国楼市惊现2008年危机信号，资深经济学家：AI繁荣或正掩盖衰退真相",
+          "url": "https://flash.jin10.com/detail/20260813145613720800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
+          "title": "联想首席执行官：我们正在稳步投资于云计算、边缘计算和人工智能推理计算。",
+          "url": "https://flash.jin10.com/detail/20260813145559083800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "澳洲联储助理主席肯特：金融环境具有一些限制性。 税收政策变化似乎是导致房地产市场低迷的原因之一。 房价下跌或将降低对货币政策的需求。 人工智能活动意味着短期内利率需要更高。",
           "url": "https://wallstreetcn.com/livenews/3148805",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "联想首席执行官：得益于AI基础设施需求，今年剩余时间可保持增长势头。",
+          "url": "https://flash.jin10.com/detail/20260813145526966800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
         },
         {
           "title": "消息人士称，上周谷歌(GOOG.O)高管召开全体员工大会，讨论人工智能部门重组事宜，以回应员工的担忧。",
@@ -143,13 +189,24 @@
           "time_info": "02时54分"
         },
         {
+          "title": "联想首席执行官：我们正在成为全球人工智能基础设施的领导者。",
+          "url": "https://flash.jin10.com/detail/20260813145223893800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时17分"
+        },
+        {
           "title": "美股AI算力和存储芯片爆发",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1AI%E7%AE%97%E5%8A%9B%E5%92%8C%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E7%88%86%E5%8F%91",
           "source": "百度热搜",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -168,7 +225,7 @@
     },
     {
       "keyword_group": "# 地区局势组 伊朗 @10",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗目前经济状况如何？专家：正面临两大困境",
@@ -177,9 +234,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
+          "url": "https://www.cls.cn/detail/2452922",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -191,6 +260,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 02时54分]"
+        },
+        {
+          "title": "特朗普声称掌控霍尔木兹、伊朗坚决否认 海峡通行量跌至三个月最低",
+          "url": "https://www.cls.cn/detail/2452937",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
@@ -213,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时53分 ~ 02时54分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡仍关闭 美军称已使59艘商船改变航线 | 环球市场",
-          "url": "https://www.cls.cn/detail/2452922",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
         }
       ]
     },
@@ -244,35 +313,37 @@
           "time_info": "[02时53分 ~ 09时20分]"
         },
         {
-          "title": "韩国央行在二季度进行了十三年来的首次黄金相关投资。",
-          "url": "https://wallstreetcn.com/livenews/3148811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
-        },
-        {
           "title": "关于货币政策、物价水平等，央行最新报告释放了哪些信号？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33769466",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时17分]"
         },
         {
           "title": "央行将开展隔夜逆回购操作",
           "url": "https://www.douyin.com/hot/2607310",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            17
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时20分 ~ 15时17分]"
+        },
+        {
+          "title": "韩国央行在二季度进行了十三年来的首次黄金相关投资。",
+          "url": "https://wallstreetcn.com/livenews/3148811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -300,7 +371,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
